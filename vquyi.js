@@ -49,6 +49,8 @@ function getList(){
 	if (typeof(WebViewBridgeAndroid) != "undefined" && WebViewBridgeAndroid) {
 		WebViewBridgeAndroid.send(JSON.stringify(list));
 		// $("#info").text(JSON.stringify(e));  
+	} else {
+		console.log("no WebViewBridgeAndroid");
 	}
 	
 }
