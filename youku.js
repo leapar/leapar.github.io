@@ -79,17 +79,20 @@ function getFlvPath(url, videoId, callback) {
 			if (param == -1) {
 				callback({
 					isok: false,
+					type:'detail',
 				});
 				return;
 			}
 			callback({
 				isok: true,
-				url: param[0]['server']
+				url: param[0]['server'],
+				type:'detail',
 			});
 		},
 		error: function(param) {
 			callback({
 				isok: false,
+				type:'detail',	
 				msg: param.status
 			});
 		}
@@ -102,7 +105,8 @@ function parseYoukuCode_new(url, callback) {
 	if (!videoId) {
 		callback({
 			isok: false,
-			msg: "-1"
+			msg: "-1",
+			type:'detail',	
 		});
 		return;
 	}
@@ -118,6 +122,7 @@ function parseYoukuCode_new(url, callback) {
 			if (param == -1) {
 				callback({
 					isok: false,
+					type:'detail',	
 					msg: "404"
 				});
 				return;
@@ -127,6 +132,7 @@ function parseYoukuCode_new(url, callback) {
 		error: function(param) {
 			callback({
 				isok: false,
+				type:'detail',	
 				msg: param.status
 			});
 		}
@@ -139,13 +145,14 @@ function parseYoukuCode(url, callback) {
 	if (!videoId) {
 		callback({
 			isok: false,
+			type:'detail',	
 			msg: "-1"
 		});
 		return;
 	}
-
+	console.log("videoId:" + videoId );
 	$.ajax({
-		url: 'http://play.youku.com/play/get.json?vid=' + videoId + '.&ct=12',
+		url: 'http://play.youku.com/play/get.json?vid=' + videoId + '&ct=12',
 		headers: {
 			"Referer": "v.youku.com/v_show/id_" + videoId + ".html" // 桳嵄??婍晄堯?廋夵??媮?
 		},
@@ -156,10 +163,13 @@ function parseYoukuCode(url, callback) {
 			if (param == -1) {
 				callback({
 					isok: false,
+					type:'detail',	
 					msg: "404"
 				});
 				return;
 			}
+			
+			console.log(JSON.stringify(param));
 			var data = param.data;
 
 			var sid_token = rc4(translate(mk.a3 + "o0b" + userCache.a1, dic).toString(), decode64(data.security.encrypt_string)).split("_");
@@ -167,12 +177,20 @@ function parseYoukuCode(url, callback) {
 			userCache.token = sid_token[1];
 			var playListData = new PlayListData(data, data.stream, 'mp4')
 			console.log(playListData._videoSegsDic.streams)
-			getFlvPath(playListData._videoSegsDic.streams['guoyu']['mp4'][0].src, videoId, callback);
+			
+			if(playListData._videoSegsDic.streams['guoyu']['mp4'] == undefined || playListData._videoSegsDic.streams['guoyu']['mp4'].length == 0) {
+				getFlvPath(playListData._videoSegsDic.streams['guoyu']['3gphd'][0].src, videoId, callback);
+			} else {
+				getFlvPath(playListData._videoSegsDic.streams['guoyu']['mp4'][0].src, videoId, callback);
+			}
+				
+		
 			//   callback([['?惔', playListData._videoSegsDic.streams['guoyu']['3gphd'][0].src]])
 		},
 		error: function(param) {
 			callback({
 				isok: false,
+				type:'detail',	
 				msg: param.status
 			});
 		}

@@ -49,10 +49,10 @@ function getList(){
 	
 	
 	console.log(list);
-	console.log(JSON.stringify(list));
+	console.log(JSON.stringify({type:'list',data:list}));
 	
 	if (typeof(WebViewBridgeAndroid) != "undefined" && WebViewBridgeAndroid) {
-		WebViewBridgeAndroid.send(JSON.stringify(list));
+		WebViewBridgeAndroid.send(JSON.stringify({type:'list',data:list}));
 		// $("#info").text(JSON.stringify(e));  
 	} else {
 		console.log("no WebViewBridgeAndroid");

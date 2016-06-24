@@ -19,7 +19,7 @@ function getInfo(){
 	console.log(JSON.stringify({url:url}));
 		
 	if (typeof(WebViewBridgeAndroid) != "undefined" && WebViewBridgeAndroid) {
-		WebViewBridgeAndroid.send(JSON.stringify({url:url}));
+		WebViewBridgeAndroid.send(JSON.stringify({url:url,type:'detail'}));
 		// $("#info").text(JSON.stringify(e));  
 	}
 	
