@@ -105,7 +105,7 @@ function getFlvPath(url, videoId, callback) {
 			callback({
 				isok: false,
 				type:'detail',	
-				msg: param.status
+				msg: param.status+url
 			});
 		}
 	})
@@ -145,7 +145,7 @@ function parseYoukuCode_new(url, callback) {
 			callback({
 				isok: false,
 				type:'detail',	
-				msg: param.status
+				msg: param.status+videoId
 			});
 		}
 	})
@@ -203,7 +203,7 @@ function parseYoukuCode(url, callback) {
 			callback({
 				isok: false,
 				type:'detail',	
-				msg: param.status
+				msg: param.status+"videoId:" + videoId 
 			});
 		}
 	})
