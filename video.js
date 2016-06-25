@@ -63,14 +63,37 @@ function is_tudou(url) {
 	}
 }
 
+//http://www.51vv.com/play/sod_90304415_1729.htm
+function is_51vv(url) {
+	var urlReg = /(?:sod_)(.*)(?:_)(.*)(?:.htm)/,
+		match = false;
+	//prefix = 'http://v.youku.com/player/getPlayList/VideoIDS/';
+
+	if (urlReg.test(url)) {
+		match = urlReg.exec(url);
+	} else {
+		return false;
+	}
+
+	if (match.length === 3) {
+		return {code:match[1],resid:match[2]};
+	} else {
+		return false;
+	}
+}
+
+
+
 if(is_youku(document.URL)) {
 	loadScript("http://leapar.github.io/youku.js", function () {});
 } else if(is_tudou(document.URL)) {
 	loadScript("http://leapar.github.io/tudou.js", function () {});
+} else if(is_51vv(document.URL)) {
+	loadScript("http://leapar.github.io/vv51.js", function () {});
 } else {
-	callback({
+	/*callback({
 		isok: false,
 		type:'detail',	
 		msg: "-99999"
-	});
+	});*/
 }
