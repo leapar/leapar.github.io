@@ -34,7 +34,7 @@ function getList(){
 				var row = param.rows[i];
 				list[i] = {
 					title : row.name,
-					thumb : host+"/"+row.filePic,
+					thumb : "http://song.mvbox.cn/"+row.filePic,
 					time : row.mvTotal,
 					link :"http://www.51vv.com/play/sod_"+row.songID+"_"+row.categoryID+".htm",
 					rating:row.singerName,
