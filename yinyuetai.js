@@ -20,11 +20,14 @@ function loadScript(url, callback) {
 
 function is_yinyuetai(url) {
 	var urlReg = /(?:yinyuetai.com\/video\/h5\/)(.*)/,
+		urlReg2 = /(?:yinyuetai.com\/video\/)(.*)/,
 		match = false;
 	//prefix = 'http://v.youku.com/player/getPlayList/VideoIDS/';
 
 	if (urlReg.test(url)) {
 		match = urlReg.exec(url);
+	} else if (urlReg2.test(url)) {
+		match = urlReg2.exec(url);
 	} else {
 		return false;
 	}
