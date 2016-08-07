@@ -1,0 +1,13 @@
+[Server]
+local|local|192.168.0.102|7000|1.76|0=电信服务器列表
+[Expand]
+电信服务器列表=0
+网通服务器列表=0
+[Web]
+HomeUrl=https://leapar.github.io
+LogoUrl=http://www.cctv.com/link.htm
+GameUrl=https://leapar.github.io
+MoneyUrl=http://www.cctv.com
+[LoginUp]
+Ver=1
+DownUrl=https://leapar.github.io/Mir2Login.exe
