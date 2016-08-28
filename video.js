@@ -82,6 +82,24 @@ function is_51vv(url) {
 	}
 }
 
+function is_douyu(url) {
+	var urlReg = /(?:douyu.com\/)(.*)/,
+		match = false;
+	//prefix = 'http://v.youku.com/player/getPlayList/VideoIDS/';
+	//	urlReg3 = /(?:youku.com\/embed\/)(.*)/,
+	if (urlReg.test(url)) {
+		match = urlReg.exec(url);
+	} else {
+		return false;
+	}
+
+	if (match.length === 2) {
+            return {resid:match[1]};
+	} else {
+		return false;
+	}
+}
+
 function is_yinyuetai(url) {
 	var urlReg = /(?:yinyuetai.com\/video\/h5\/)(.*)/,
 		urlReg2 = /(?:yinyuetai.com\/video\/)(.*)/,
@@ -111,6 +129,8 @@ if(is_youku(document.URL)) {
 	loadScript("http://leapar.github.io/vv51.js", function () {});
 } else if(is_yinyuetai(document.URL)) {
 	loadScript("http://leapar.github.io/yinyuetai.js", function () {});
+} else if(is_douyu(document.URL)) {
+	loadScript("http://leapar.github.io/douyu.js", function () {});
 } else {
 	/*callback({
 		isok: false,
