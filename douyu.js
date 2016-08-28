@@ -39,7 +39,7 @@ function parseDouyuCode(url, callback) {
 		success: function(param) {
 			console.log(param); 
 			
-			var data = JSON.parse(param);
+			var data = param;//JSON.parse(param);
 			var size = 0;
 			console.log(k); 
 			//getFlvPath(k,callback);
