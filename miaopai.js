@@ -2,7 +2,7 @@
 //http://www.tudou.com/programs/view/r4S7Hl4mvLs/?resourceId=0_06_02_99
 
 function parse51vvCode(url,callback) {
-	var ul = $("video:eq(0)");
+	var ul = $("video");
 	var src = ul[0];
 	src = $(src).attr("src");
 	
