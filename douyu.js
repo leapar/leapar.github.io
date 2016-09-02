@@ -48,7 +48,7 @@ function parseDouyuCode(url, callback) {
 				callback({
 					isok: false,
 					type:'detail',	
-					msg: "hls_url ="" videoId:" + videoId 
+					msg: "hls_url is null videoId:" + videoId 
 				});
 			} else {
 				callback({
