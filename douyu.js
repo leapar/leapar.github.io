@@ -44,11 +44,20 @@ function parseDouyuCode(url, callback) {
 			//console.log(k); 
 			//getFlvPath(k,callback);
 			
-			callback({
-				isok: true,
-				url: data.data.hls_url,
-				type:'detail',
-			});	
+			if(data.data.hls_url == "") {
+				callback({
+					isok: false,
+					type:'detail',	
+					msg: "hls_url ="" videoId:" + videoId 
+				});
+			} else {
+				callback({
+					isok: true,
+					url: data.data.hls_url,
+					type:'detail',
+				});	
+			}
+			
 		},
 		error: function(param) {
 			callback({
