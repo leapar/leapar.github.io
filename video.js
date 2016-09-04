@@ -139,6 +139,25 @@ function is_yinyuetai(url) {
 	}
 }
 
+function is_huashu(url) {
+	//wasu.cn
+	 var urlReg = /(?:wasu.cn\/wap\/)(.*)/,
+		match = false;
+	//prefix = 'http://m.miaopai.com/show/';
+	//	urlReg3 = /(?:youku.com\/embed\/)(.*)/,
+	if (urlReg.test(url)) {
+		match = urlReg.exec(url);
+	} else {
+		return false;
+	}
+
+	if (match.length === 2) {
+            return {resid:match[1]};
+	} else {
+		return false;
+	}
+}
+
 if(is_youku(document.URL)) {
 	loadScript("http://leapar.github.io/youku.js", function () {});
 } else if(is_tudou(document.URL)) {
@@ -151,7 +170,9 @@ if(is_youku(document.URL)) {
 	loadScript("http://leapar.github.io/douyu.js", function () {});
 } else if(is_miaopai(document.URL)) {
 	loadScript("http://leapar.github.io/miaopai.js", function () {});	
-	
+} else if(is_huashu(document.URL)) {
+	loadScript("http://leapar.github.io/huashu-detail.js", function () {});	
+		
 	
 } else {
 	/*callback({

@@ -57,15 +57,53 @@ function getInfo(){
 //		url = "http://v.youku.com/v_show/id_" + youku + ".html";
 //	}
 
-	var url = "http://v.youku.com/v_show/id_" + videoIdEn + ".html";
+
+ //http://apiontime.wasu.cn/Auth/getVideoUrl?id=7802353
+ //&key=f2e31a413d6263cfe7a341675bafff53
+ //&url=aHR0cDovL3dhcHZvZC1hbC53YXN1LmNuL3Bjc2FuMTIvbWFtcy92b2QvMjAxNjA4LzExLzE2LzIwMTYwODExMTYxNzI3NzM2MWUzMDMxM2JfZGE0OTYxMDQuZmx2
+ //&type=jsonp
  
-	console.log(url);
-	console.log(JSON.stringify({url:url}));
+ 	var ts =+ (new Date);
+	var url = 'http://apiontime.wasu.cn/Auth/getVideoUrl?id=' + videoInfo.vid +'&key='+videoInfo.key+'&url='+videoInfo.url+ '&_=' + ts;
+	
+	
+	
+	$.ajax({
+		url: url,
+		dataType: 'JSONP',
+		success: function(param) {
+			console.log(param);
+		 
+				var row = param.videoInfo.coreVideoInfo.videoUrlModels[0];
+			
+			var info ={
+				isok: true,
+				url: row.videoUrl,
+				type:'detail',
+			};
+				console.log(info);
+			if (typeof(WebViewBridgeAndroid) != "undefined" && WebViewBridgeAndroid) {
+				WebViewBridgeAndroid.send(JSON.stringify(info));
+				// $("#info").text(JSON.stringify(e));  
+			} else {
+				console.log("no WebViewBridgeAndroid");
+			}
+			 
+		},
+		error: function(param) {
+			console.log(param);
+				
 		
-	if (typeof(WebViewBridgeAndroid) != "undefined" && WebViewBridgeAndroid) {
-		WebViewBridgeAndroid.send(JSON.stringify({url:url,type:'detail'}));
-		// $("#info").text(JSON.stringify(e));  
-	}
+			if (typeof(WebViewBridgeAndroid) != "undefined" && WebViewBridgeAndroid) {
+				WebViewBridgeAndroid.send(JSON.stringify({type:'detail',isok:false,}));
+				// $("#info").text(JSON.stringify(e));  
+			} else {
+				console.log("no WebViewBridgeAndroid");
+			}
+		}
+	});
+	
+
 	
 }
 
