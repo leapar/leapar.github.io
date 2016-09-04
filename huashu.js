@@ -43,7 +43,7 @@ function getList(){
 		}	
 			
 		var title = $(li).find('a:eq(0)')[0];
-		title = title.attr('title');
+		title = $(title).attr('title');
 	
 		var time = $(li).find('.meta_tr')[0];
 		time = time.innerText;
