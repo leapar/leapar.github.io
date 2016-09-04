@@ -19,7 +19,7 @@ function loadScript(url, callback) {
 }
 
 function getList(){
-	var ul = $("ul.mod-pic li");
+	var ul = $("div.item");
 	var list = new Array();
 	var host = window.location.protocol +"//"+ window.location.host;
 	if(window.location.port != '') {
@@ -35,17 +35,17 @@ function getList(){
 			link = host + link;
 		}
 		
-		var img = $(li).find('img')[0];
-		var thumb = $(img).attr("src");
+		var img = $(li).find('.p_img')[0];
+		var thumb = $(img).css('background-image');
 		
 		if(thumb.indexOf("/") == 0) {
 			thumb = host + thumb;
 		}	
 			
 		var title = $(li).find('a:eq(0)')[0];
-		title = title.innerText;
+		title = title.attr('title');
 	
-		var time = $(li).find('span')[0];
+		var time = $(li).find('.meta_tr')[0];
 		time = time.innerText;
 		
 	//	var rating = $(li).find('p:eq(0)')[0];
