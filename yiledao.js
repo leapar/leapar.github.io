@@ -42,7 +42,7 @@ function getList(){
 			thumb = host + thumb;
 		}	
 			
-		var title = $(li).find('a:eq(1)')[0];
+		var title = $(li).find('a:eq(0)')[0];
 		title = title.innerText;
 	
 		var time = $(li).find('span')[0];
