@@ -90,11 +90,11 @@ return;
 		success: function(param) {
 			console.log(param);
 		 
-				var row = param.videoInfo.coreVideoInfo.videoUrlModels[0];
+			 
 			
 			var info ={
 				isok: true,
-				url: row.videoUrl,
+				url: param,
 				type:'detail',
 			};
 				console.log(info);
