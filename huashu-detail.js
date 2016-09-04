@@ -66,7 +66,7 @@ function getInfo(){
 if(videoInfo.url.substr(0,4) == 'http') {
 			var info ={
 				isok: true,
-				url: row.videoUrl,
+				url: videoInfo.url,
 				type:'detail',
 			};
 				console.log(info);
