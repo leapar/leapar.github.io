@@ -45,7 +45,7 @@ function getList(){
 		var title = $(li).find('a:eq(1)')[0];
 		title = title.innerText;
 	
-		var time = $(li).find('span font')[0];
+		var time = $(li).find('span')[0];
 		time = time.innerText;
 		
 	//	var rating = $(li).find('p:eq(0)')[0];
