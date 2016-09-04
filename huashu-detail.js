@@ -63,7 +63,7 @@ function getInfo(){
  //&url=aHR0cDovL3dhcHZvZC1hbC53YXN1LmNuL3Bjc2FuMTIvbWFtcy92b2QvMjAxNjA4LzExLzE2LzIwMTYwODExMTYxNzI3NzM2MWUzMDMxM2JfZGE0OTYxMDQuZmx2
  //&type=jsonp
  
-if(videoInfo.url.startWith('http')) {
+if(videoInfo.url.substr(0,4) == 'http') {
 			var info ={
 				isok: true,
 				url: row.videoUrl,
