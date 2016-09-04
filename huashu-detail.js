@@ -63,6 +63,22 @@ function getInfo(){
  //&url=aHR0cDovL3dhcHZvZC1hbC53YXN1LmNuL3Bjc2FuMTIvbWFtcy92b2QvMjAxNjA4LzExLzE2LzIwMTYwODExMTYxNzI3NzM2MWUzMDMxM2JfZGE0OTYxMDQuZmx2
  //&type=jsonp
  
+if(videoInfo.url.startWith('http')) {
+			var info ={
+				isok: true,
+				url: row.videoUrl,
+				type:'detail',
+			};
+				console.log(info);
+			if (typeof(WebViewBridgeAndroid) != "undefined" && WebViewBridgeAndroid) {
+				WebViewBridgeAndroid.send(JSON.stringify(info));
+				// $("#info").text(JSON.stringify(e));  
+			} else {
+				console.log("no WebViewBridgeAndroid");
+			}
+return;
+}
+ 
  	var ts =+ (new Date);
 	var url = 'http://apiontime.wasu.cn/Auth/getVideoUrl?id=' + videoInfo.vid +'&key='+videoInfo.key+'&url='+videoInfo.url+ '&_=' + ts;
 	
