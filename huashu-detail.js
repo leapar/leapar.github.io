@@ -80,7 +80,7 @@ return;
 }
  
  	var ts =+ (new Date);
-	var url = 'http://apiontime.wasu.cn/Auth/getVideoUrl?id=' + videoInfo.vid +'&key='+videoInfo.key+'&url='+videoInfo.url+ '&_=' + ts;
+	var url = 'http://apiontime.wasu.cn/Auth/getVideoUrl?id=' + videoInfo.vid +'&key='+videoInfo.key+'&type=jsonp&url='+videoInfo.url+ '&_=' + ts;
 	
 	
 	
