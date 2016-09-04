@@ -37,7 +37,7 @@ function getList(){
 		
 		var img = $(li).find('.p_img')[0];
 		var thumb = $(img).css('background-image');
-		thumb = thumb.substring(5,thumb.length-2);
+		thumb = thumb.substring(4,thumb.length-1);
 		
 		
 		if(thumb.indexOf("/") == 0) {
