@@ -31,7 +31,7 @@ function parseDouyuCode(url, callback) {
 
 
 
-function getVideos(callback) {
+function getVideos(url,callback) {
 	parseDouyuCode(url, callback)
 }
 
