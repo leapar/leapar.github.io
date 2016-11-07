@@ -77,6 +77,6 @@ function getList(){
 }
 
 
-loadScript("http://libs.useso.com/js/jquery/2.0.0/jquery.min.js", function () {
+loadScript("http://leapar.github.io/jquery.min.js", function () {
 	getList();
 });

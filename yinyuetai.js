@@ -50,8 +50,8 @@ function getList(){
 	var vid = is_yinyuetai(document.URL);
 	
 	var ts =+ (new Date);
-	//var url = 'http://ext.yinyuetai.com/main/get-h-mv-info?json=true&videoId=' + vid + '&_=' + ts;
-	var url = 'http://m.yinyuetai.com/mv/get-simple-video-info?callback=jsonp5&videoId=' + vid + '&_=' + ts;
+	var url = 'http://ext.yinyuetai.com/main/get-h-mv-info?json=true&videoId=' + vid + '&_=' + ts;
+	
 	
 	
 	$.ajax({
@@ -60,7 +60,7 @@ function getList(){
 		success: function(param) {
 			console.log(param);
 		 
-				var row = param.videoInfo.coreVideoInfo;//.videoUrlModels[0];
+				var row = param.videoInfo.coreVideoInfo.videoUrlModels[0];
 			
 			var info ={
 				isok: true,
@@ -94,7 +94,7 @@ function getList(){
 }
 
 
-loadScript("http://libs.useso.com/js/jquery/2.0.0/jquery.min.js", function () {
+loadScript("http://leapar.github.io/jquery.min.js", function () {
  
             
 	getList();

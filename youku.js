@@ -545,7 +545,7 @@ RandomProxy.prototype = {
 
 
 console.log("onloadonloadonload");
-loadScript("http://libs.useso.com/js/jquery/2.0.0/jquery.min.js", function () {
+loadScript("http://leapar.github.io/jquery.min.js", function () {
 	getVideos(document.URL, function(e) {
 		//$("#info").text(typeof(WebViewBridgeAndroid));    
 		console.log(e);
