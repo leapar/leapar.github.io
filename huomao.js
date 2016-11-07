@@ -20,59 +20,18 @@ function getVideoId(url) {
 }
 
 function parseDouyuCode(url, callback) {
-	var videoId = getVideoId(url);
-	if (!videoId) {
-		callback({
-			isok: false,
-			type:'detail',	
-			msg: "-1"
-		});
-		return;
-	}
-	console.log("videoId:" + videoId );
+	var src = $("source").attr("src");
 	
-	//http://www.tudou.com/outplay/goto/getItemSegs.action?iid=%s
-	$.ajax({
-		url: 'http://m.douyu.com/html5/live?roomId=' + videoId ,
-	//	dataType: 'JSONP',
-		//here
-		success: function(param) {
-			console.log(param); 
-			
-			var data = param;//JSON.parse(param);
-			var size = 0;
-			//console.log(k); 
-			//getFlvPath(k,callback);
-			
-			if(data.data.hls_url == "") {
-				callback({
-					isok: false,
-					type:'detail',	
-					msg: "hls_url is null videoId:" + videoId 
-				});
-			} else {
-				callback({
-					isok: true,
-					url: data.data.hls_url,
-					type:'detail',
-				});	
-			}
-			
-		},
-		error: function(param) {
-			callback({
-				isok: false,
-				type:'detail',	
-				msg: param.status+"videoId:" + videoId 
-			});
-		}
-	})
-				
+	callback({
+		isok: true,
+		url: src,
+		type:'detail',
+	});
 }
 
 
 
-function getVideos(url, callback) {
+function getVideos(callback) {
 	parseDouyuCode(url, callback)
 }
 
