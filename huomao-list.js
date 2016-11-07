@@ -30,7 +30,7 @@ function getList(){
 		url: "http://www.huomao.com/mobile/mobChannel_ajax"+window.location.search,
 		success: function(param) {
 			//	console.log(param);
-			var param = param.data.channelList);
+			var param = param.data.channelList;
 			console.log(param);
 		//	var card = param.
 			for(var i = 0; i < param.length;i++) {
