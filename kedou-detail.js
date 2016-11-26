@@ -1,6 +1,12 @@
 //http://www.tudou.com/programs/view/html5embed.action?code=r4S7Hl4mvLs&amp;resourceId=0_06_05_99
 //http://www.tudou.com/programs/view/r4S7Hl4mvLs/?resourceId=0_06_02_99
-
+function clearCookie(){
+    var keys=document.cookie.match(/[^ =;]+(?=\=)/g);
+    if (keys) {
+        for (var i =  keys.length; i--;)
+            document.cookie=keys[i]+'=0;expires=' + new Date( 0).toUTCString()
+    }    
+}
 function parse51vvCode(callback) {
 	callback({
 		isok: true,
@@ -14,7 +20,7 @@ function parse51vvCode(callback) {
 function getVideos(callback) {
 	parse51vvCode(callback)
 }
-
+clearCookie();
 console.log("onloadonloadonload");
 
 getVideos(function(e) {
