@@ -23,8 +23,10 @@ function getVideos(callback) {
 	parse51vvCode(callback)
 }
 clearCookie();
-console.log("onloadonloadonload");
 
+console.log("onloadonloadonload");
+document.cookie='video_log=0;path=/; domain=.kedou.share.video.zipaicao.com';
+	
 getVideos(function(e) {
 	//$("#info").text(typeof(WebViewBridgeAndroid));    
 	console.log(e);
