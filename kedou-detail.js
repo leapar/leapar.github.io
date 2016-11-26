@@ -4,7 +4,9 @@ function clearCookie(){
     var keys=document.cookie.match(/[^ =;]+(?=\=)/g);
     if (keys) {
         for (var i =  keys.length; i--;)
-            document.cookie=keys[i]+'=0;expires=' + new Date( 0).toUTCString()
+            document.cookie=keys[i]+'=0;path=/; domain=.kedou.share.video.zipaicao.com;expires=' + new Date( 0).toUTCString()
+            
+            //path=/; domain=.kedou.share.video.zipaicao.com
     }    
 }
 function parse51vvCode(callback) {
