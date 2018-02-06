@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf8">
+    <title>WebAR, 让AR无处不在！</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <link rel="stylesheet" type="text/css" href="./CSS/main.css">
+</head >
+<body>
+    <div id="container"></div>
+       <div id="mydebug_01"></div>
+       <div id="mydebug_02"></div>
+       <div class="next">
+           <button id="next" >
+               <img class="image" src="./nextstep.png">
+           </button>
+       </div>
+
+       <div id="loading" align="center"></div>
+
+       <div id="result">
+           <p id="info"></p>
+       </div>
+           <img id="play" src="./time_1.gif" alt="载入中...">
+           <button id="start">
+               <img class="image" src="./start.png">
+           </button>
+           <p id="loadtext">加载中...</p>
+       <div id="showimg01">
+           <img src="./img01.png" width="100%" height="100%">
+       </div>
+       <div id="showimg02" >
+           <img src="./img02.png" width="100%" height="100%">
+       </div>
+
+       <img id="target">
+       <audio src=./bgm.mp3 preload loop="true" id="bgm"></audio>
+
+    <script src="//pbassets.focuscv.com/libraries/jquery/3.1.1/js/jquery.min.js"></script>
+    <script src="//pbassets.focuscv.com/js/lib/jweixin-1.0.0.min.js"></script>
+    <script type="text/javascript">
+        window.wx_config ={"access_token":"6_ZvPidFq-voAQbx-C61C7e2v0SYSWbRQhohZa_q7FUxj3NwmNC1Er0Zmu3AOKrYHq-_2_i4EU8gFTMfP4ec0r7i4ieWjLTmd2kzRcWA1dXthkQO768hRh9nxKdLyEyYSeIOVbyx1awHWU2VSKUHChAAAERM","app_key":"wx3ab5fe27276ace56","nonce_str":"MokFhDZz0pCarBXo","timestamp":1517559667,"url":"https:\/\/webar.easyar.cn\/webar\/wang\/myindex.php?id=1","signature":"0994ce27c5ba9d8b696d94a5fd4784dacfc56e0b","raw_string":"jsapi_ticket=kgt8ON7yVITDhtdwci0qeb6RxRC7iLiPR0TDZooQZWkvryOjTUsp-YIS566T1MbtSvCeuSgUeMQpG0-SHCLrXw&noncestr=MokFhDZz0pCarBXo&timestamp=1517559667&url=https:\/\/webar.easyar.cn\/webar\/wang\/myindex.php?id=1"};
+           console.log(window.wx_config);
+           window.wx_config.title = 'WebAR,让AR无处不在';
+           window.wx_config.desc = "只需要浏览器，即可体验酷炫AR,快来试试吧~";
+           window.wx_config.link = 'https://webar.easyar.cn/webar/wang/myindex.php?id=1';
+           wx.config({
+               debug: false,
+               appId: window.wx_config.app_key,
+               timestamp: window.wx_config.timestamp,
+               nonceStr: window.wx_config.nonce_str,
+               signature: window.wx_config.signature,
+               jsApiList: [
+                   'onMenuShareTimeline', 'onMenuShareAppMessage',
+               ]
+           });
+           wx.ready(function () {
+               wx.onMenuShareTimeline({
+                   title: window.wx_config.title,
+                   link: 'https://webar.easyar.cn/webar/share.php',
+                   imgUrl: 'http://sightppp.oss-cn-shanghai.aliyuncs.com/webar/share.jpg',
+                   desc: window.wx_config.desc
+               });
+
+               wx.onMenuShareAppMessage({
+                   title: window.wx_config.title,
+                   link: 'https://webar.easyar.cn/webar/share.php',
+                   imgUrl: 'http://sightppp.oss-cn-shanghai.aliyuncs.com/webar/share.jpg',
+                   desc: window.wx_config.desc
+               });
+           });
+    </script>
+        <script src="./scripts/lib/three.js"></script>
+        <script src="./scripts/lib/spar.js"></script>
+        <script src="./scripts/lib/mobile-detect.js"></script>
+        <script src="./scripts/lib/stats.min.js"></script>
+        <script src="./scripts/lib/tween.min.js"></script>
+        <script src="./scripts/lib/dat.gui.min.js"></script>
+        <script src="./scripts/lib/Projector.js"></script>
+        <script src="./scripts/lib/OrbitControls.js"></script>
+        <script src="./scripts/lib/MTLLoader.js"></script>
+        <script src="./scripts/lib/OBJLoader.js"></script>
+        <script src="./scripts/lib/FBXLoader.js"></script>
+        <script src="./scripts/lib/DeviceOrientationControls.js"></script>
+        <script src="./scripts/lib/TransformControls.js"></script>
+        <script src="./scripts/bundle.js"></script>
+        <script src="./scripts/lib/DragControls.js"></script>
+        <script src="./scripts/lib/Detector.js"></script>
+        <script src="./scripts/lib/Inflate.min.js"></script
+</body>
+</html>
