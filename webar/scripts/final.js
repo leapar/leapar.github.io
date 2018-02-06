@@ -270,9 +270,9 @@
         });
         var y = function a() {
           var b = new THREE[('FBXLoader')]();
-          b['load']('https://staticfile-cdn.sightp.com/sightp/webar/trex_v3.fbx', function(a) {
+          b['load']('./trex_v3.fbx', function(a) {
             var b = new THREE[('TextureLoader')]();
-            var d = b['load']('//sightppp.oss-cn-shanghai.aliyuncs.com/webar/ashe_base_2011_tx_cm.jpg', function(s) {
+            var d = b['load']('./ashe_base_2011_tx_cm.jpg', function(s) {
               if (a['animations'] != undefined && a['animations']['length'] > 0x0) {
                 a['mixer'] = new THREE[('AnimationMixer')](a);
                 k['push'](a['mixer']);
