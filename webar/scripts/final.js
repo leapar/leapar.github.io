@@ -289,7 +289,7 @@
               });
               p['add'](a);
               f = a;
-              f['scale']['set'](0.09, 0.09, 0.09);
+              f['scale']['set'](0.003, 0.003, 0.09);
               t = !![];
               var b = new THREE['Vector3']();
               var h = c['quaternion'];
