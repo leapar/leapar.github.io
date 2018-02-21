@@ -1,0 +1,408 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>装逼装十分</title>
+		<meta property="og:description" content="3D Showcase">
+		<meta property="og:type" content="video">
+		<meta property="og:image:width" content="1920">
+		<meta property="og:image:height" content="1080">
+		<meta name="twitter:card" content="photo" />
+		<meta name="twitter:image:width" content="1920">
+		<meta name="twitter:image:height" content="1080">		
+		<link rel="icon" type="image/png" sizes="32x32" href="images/icons/favicon.png" class="keep">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/main.css?v=2.2.6">
+		<style>
+		#popup{z-index:20;text-align:center;padding:0;position:relative;width:80%;height:80%;margin:80px auto;display:none;overflow-y:hidden;}
+		#closepop{background:url(images/close.png) no-repeat; width:40px; height:40px; cursor:pointer; position:absolute; right:0px; top:-3px; text-indent:-999em;}
+		#thank{margin-top:35px;}
+		#thank p{line-height:24px;text-align:center;color:#555;}
+		</style>
+		<script type="text/javascript">
+		    window.onload = function(){
+			name=window.location.href.substring(window.location.href.indexOf("=")+1);
+			if(name.indexOf("&")!=-1)
+			{
+				name = name.substring(0,name.indexOf("&"));
+			}
+			if(name>70&&name<94)
+			{
+				document.title='';
+				document.getElementById('myCompany').style.display='none';
+                document.getElementById('powerby').style.display='none';  				
+				document.getElementById('thank').style.display='';
+				document.getElementById('myCompanyLogo').style.display='none';
+				document.getElementById('agreement_click').style.display='block'; 
+			}
+		    var oAgree = document.getElementById("agreement_click");
+			var oAgreeContent = document.getElementById("agreement");
+			var oAgreeClose = document.getElementById("close");
+			var oAgreeText = document.getElementById("textagreement");
+			    oAgree.onclick = function(){
+				  if(oAgreeContent.style.display==''||oAgreeContent.style.display=='none'){
+				  oAgreeContent.style.display='block';
+				  $.ajax({
+					type: "GET",
+					dataType: "json",
+					url: "json/text.json",
+					success: function (data) {
+						 var result ="";
+						 $.each(data.list,function(i,v){  
+						     i=i+71;
+						    if(i==name){
+                             result += '<p>'+v[name]+'<p>';
+							}
+						})
+						$("#textagreement").append(result);
+					}
+		           });
+				 }
+			   }
+			oAgreeClose.onclick = function() {
+				  oAgreeContent.style.display='none';
+				  oAgreeText.innerHTML = "";
+			   }   
+			}	
+		</script>
+	</head>
+	<body>
+		<div id="popup"  >
+			<div id="closepop" >close</div>
+		</div>
+		
+		<div id="gui-thumb" style="display: none;">
+		</div>
+		<div id="player" style="display: none;">
+		</div>
+		<div id="agreement">
+			<div class="agreement-top">
+				<a href="javascript:;" title="关闭" id="close">×</a>
+			</div>
+			<div class="agreement-body item">
+				<p id="textagreement"></p>	
+			</div>
+	    </div>
+		<!--
+		<div id="configuratorVideo" style="width:80%;margin:0 auto;overflow:hidden;display: none;">
+			  <video id="video" class="video-js vjs-default-skin" controls preload="none" style="width:100%;height:100%;"
+				  poster="http://7xo6he.com1.z0.glb.clouddn.com/images/images55/home.jpg"
+				  data-setup="{}">
+				<source id="videoType1"  type='video/mp4' />
+				<source id="videoType2"  type='video/webm' />
+			  </video>
+			   <p style="width:80%;margin:20px auto;text-align:center;" >您当前的系统需要升级方可体验虚拟漫游</p>
+		</div>
+		-->
+	
+		<!--
+		 <div id="configuratorVideo" style="width:80%;margin:0 auto;overflow:hidden;display: none;">
+		 <video id="videoPlayer" width="100%"  controls autoplay loop>
+			 <source type=video/mp4/>
+			 您的浏览器不支持video标签，请升级您的浏览器！  
+		 </video>
+		 <p style="width:80%;margin:20px auto;text-align:center;" >您当前的系统需要升级方可体验虚拟漫游</p>
+		 </div>
+		 -->
+		 
+		 <!--
+		<div id="configuratorVideo" style="width:80%;margin:0 auto;overflow:hidden;display: none;">
+		<center style="margin-top:10px;">
+		<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="900" height="675">
+			<param id="moviePlayer" name="movie" />
+			<param name="quality" value="high" />
+			<param name="allowFullScreen" value="true" />
+			<param name="FlashVars" value="vcastr_file=movies/cl.flv&LogoText=&BufferTime=3" />
+			<embed id="videoPlayer"  allowfullscreen="true" flashvars="vcastr_file=movies/cl.flv&LogoText=" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="900" height="675"></embed>
+		</object>
+		</center>
+		<p style="width:80%;margin:20px auto;text-align:center;" >您当前的系统需要升级方可体验虚拟漫游</p>
+		</div>
+		 -->
+		<div class="sidecontent" style="width:35%">
+				<h1><span class="side-client-close">关闭</span></h1>
+				<image id="sideimg" style="width:90%"/></br>
+				<p id="text">
+				</p>
+		</div>
+		<div id="gui-parent">
+			<div id="gui-loading" class="message-outer darkGlass" style="display: none;">
+				<h2 class="model-title"></h2>
+				<div class="message-inner">
+					<!--
+					<div id="circleLoader">
+						<div id="loader-cont" data-status="加载中">
+							<svg id="svg" width="100" height="100" viewport="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+								<circle id="barBg" r="47" cx="50" cy="50" fill="transparent" stroke-dasharray="565.48" stroke-dashoffset="0"></circle>
+								<circle id="bar" r="47" cx="50" cy="50" transform="rotate(-90 50 50)" fill="transparent" stroke-dasharray="295.30" stroke-dashoffset="295.30" style="stroke-dashoffset : 295.30"></circle>
+							</svg>
+						</div>
+					</div>
+					-->
+					<div class="progressbar" data-perc="100">
+						<div class="label"><span></span><div class="perc">0%</div></div>
+						<div class="bar"><span></span></div>
+					</div>
+					<div id="loaderCoBrand">
+						<div class="vert-align">
+							<!--
+							<h2 id="loaderCoBrandName">Loading</h2></br>
+							<p>power by 4Dage</p>
+							-->
+							<img id="powerby" style="display: none;"  src="images/power by.png">
+						</div>
+						<div id="thank" style="display: none;"><p>珠海市住房和城乡规划建设局</p>
+							<p>珠海市城乡规划编审与信息中心</p>
+						</div>
+					</div>
+					<div class="bottom-logo">
+						<img id="myCompanyLogo" style="display: none;" class="powerLogo" alt="Powered By 4dage" src="images/poweredByLogo.png">
+					</div>
+					<div class="specialPower">
+						<span class="powered-by">提供者</span>&#xA0;
+						<img alt="4dage" style="display: none;"  src="images/specialEdLogo1.png">
+					</div>
+				</div>
+			</div>
+			<div id="gui" style="display: none;">
+				<div id="configuratorWindow" style="display: none; position: fixed; ">
+					<h3 id="dialogText"></h3>
+				</div>
+				<div class="pinTop left">
+					<div id="model-title">
+						<div class="title-row">
+							<div id="title-toggle" class="darkGlass">
+								<a><i class="icon icon-dpad-left"></i></a>
+							</div>
+							<div style="float: left;"><image src="images/division.png"  height="52"></div>
+							<div class="title-container darkGlass meta-toggle">
+								<div id="gui-name" class="gui-text titleText" rel="tooltip" data-placement="bottom" data-html="true">
+								</div>
+							</div>
+						</div>
+						
+						<!--
+						<div class="title-row">
+							<div id="title-toggle" class="darkGlass">
+								<a><i class="icon icon-dpad-left"></i></a>
+								<image src="images/division.png"  height="30">
+								<div id="gui-name" class="gui-text titleText" rel="tooltip" data-placement="bottom" data-html="true">
+								</div>
+							</div>
+						</div>
+						-->
+					</div>
+					<div class="meta-info-spacing-fix">
+						<div id="meta-info" class="darkGlass">
+							<div id="meta-description"></div><div class="contact-info">
+								<i class="icon icon-user pull-left"></i>&#xA0;
+								<div id="contact-data">
+								</div>
+							</div>
+							<div class="address">
+								<i class="icon icon-pin"></i> 
+								<span id="addressTxt"></span>
+							</div>
+							<div id="mattertag-toggles" class="menu-toggles">
+								<span></span>
+								<div id="mattertag-inputs" class="menu-radios">
+									<div id="show-tag" class="menu-radio-show">
+										<input id="radio-tag-show" type="radio" name="mattertags" value="show"> 
+										<label for="radio-tag-show">显示</label>
+									</div>
+									<div id="hide-tag" class="menu-radio-hide">
+										<input id="radio-tag-hide" type="radio" name="mattertags" value="hide"> 
+										<label for="radio-tag-hide">隐藏</label>
+									</div>
+								</div>
+							</div>
+							<div id="labels-toggles" class="menu-toggles">
+								<span>标签</span>
+								<div id="labels-inputs" class="menu-radios">
+									<div id="show-label" class="menu-radio-show">
+										<input id="radio-labels-show" type="radio" name="labels" value="show"> 
+										<label for="radio-labels-show">显示</label>
+									</div>
+									<div id="hide-label" class="menu-radio-hide">
+										<input id="radio-labels-hide" type="radio" name="labels" value="hide"> 
+										<label for="radio-labels-hide">隐藏</label>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="pinTop right hideTarget">
+		
+					<!--
+					<div class="pull-right terms" style="display: none;">
+						<a class="hasHover">Terms</a>
+					</div>
+					-->
+					<div class="gui-floor">
+						<div class="gui-floor-title">
+						</div>
+						<i class="icon icon-dpad-up"></i>
+						<div class="container">
+						</div>
+					</div>
+				</div>
+				<div class="pinBottom left">
+					<div class="viewContainer" style="padding-top: 6px;">
+						<div id="previous" class="previous desktop-only ui-icon" style="display: none;">
+							<a><i rel="tooltip" title="前一个" class="icon icon-dpad-left"></i></a>
+						</div>
+						
+						<div id="play" class="ui-icon">
+							<a><img rel="tooltip" title="播放" src="images/play.png" width="48" height="48"></a>
+						</div>
+						<div id="pause" class="ui-icon" style="display: none;">
+							<a><img rel="tooltip" title="暂停" src="images/pause.png" width="48" height="48"></a>
+						</div>
+						<div id="next" class="next desktop-only ui-icon double" style="display: none;">
+							<a><i rel="tooltip" title="下一个" class="icon icon-dpad-right"></i></a>
+						</div>
+						
+						<!--
+						<div id="gui-modes-map" class="ui-icon double">
+							<a><i rel="tooltip" title="更改视图" class="icon icon-dollhouse"></i></a>
+						</div>
+						-->
+						<div id="gui-modes-map" class="ui-icon double">
+							<!--<div data-original-title="播放" id="play" rel="tooltip" title=""><img class="icon icon-inside" src="images/play.png"  title="navigation icon"></div>-->
+							<div data-original-title="导览" id="pullTab" rel="tooltip" title=""><img class="icon icon-inside" src="images/auto.png"  title="navigation icon"></div>
+							<div data-original-title="全景漫游" id="gui-modes-inside"  rel="tooltip" title=""><img class="icon icon-inside" src="images/inside.png"  title="navigation icon"></div>
+							<div data-original-title="迷你模型" id="gui-modes-dollhouse"  rel="tooltip" title=""><img class="icon icon-inside" src="images/dollhouse.png"  title="navigation icon"></div>
+							<div data-original-title="俯视图" id="gui-modes-floorplan" rel="tooltip" title=""><img class="icon icon-inside" src="images/floor.png"  title="navigation icon"></div>
+							<div data-original-title="消除外壳" id="gui-remove-face" rel="tooltip" title="" style="display: none;"><img class="icon icon-inside" src="images/face.jpg"  title="navigation icon"></div>
+						</div>
+					</div>
+				</div>
+				<div id="myCompany" style="width:100%;position:absolute;bottom:5px;text-align:center;line-height:1;font-size:12px;font-family: '微软雅黑';font-weight:580;color: rgba(255, 255, 255, 0.8);">
+					装逼装十分
+				</div>
+				<div class="pinBottom right hideTarget">
+					<div class="rightViewContainer">
+					  <div  id="agreement_click" class="pull-right margin10 fa fa-file-text fa-2x"></div>
+						<div class="nav-help pull-right">
+							<a class="hasHover">
+								<image id="volume" src="images/Volume btn_on.png" width="48" height="48">
+							</a>
+						</div>
+						<div id="gui-fullscreen" class="ui-icon double" data-placement="top">
+							<a><img rel="tooltip" title="全 屏" src="images/fullscreen.png" width="48" height="48"></a>
+						</div>
+						<div id="gui-fullscreen-exit" class="ui-icon" data-placement="top" style="display: none;">
+							<a>
+								<i rel="tooltip" title="退出 全屏" class="icon icon-fullscreen-exit"></i>
+							</a>
+						</div>
+					</div>
+				</div>
+				<!--
+				<div class="pinBottom center">
+					<div id="pullTab" class="darkGlass">
+						<span>标记</span> 
+						<span style="display: none">关闭</span> 
+						<i class="icon icon-dpad-up"></i>
+					</div>
+				</div>
+				-->
+				<div id="drawer" class="fullWidth">
+					<div class="frame-container darkGlass">
+						<div id="scrollFrame" class="frame">
+							<ul id="thumb-container" class="slidee">
+							</ul>
+						</div>
+						<div class="scrollbar" id="scroller">
+							<div class="handle">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="playHead">
+					<div id="status">
+						<span class="curIdx">1</span> of 
+						<span class="totalSteps"></span>
+					</div>
+					<div id="progressBar">
+					</div>
+				</div>
+			</div>
+			<div id="gui-spinner" style="display: none;">
+				<div id="gui-spinner-icon">
+				</div>
+			</div>
+			<div id="gui-message" class="message-outer darkGlass" style="display: none;">
+				<h2 class="model-title"></h2>
+				<div class="message-inner">
+					<div class="message-content">
+						<a id="button-play">
+							<i class="icon icon-play"></i>
+						</a>
+						<div>探索3D空间
+						</div>
+					</div>
+				</div>
+				<div class="bottom-logo"><!--img class="onlyLogo" style="display: none;" alt="leapar Logo" src="images/matterportLogoColor.png"--> 
+					<span>3D展示</span>
+				</div>
+			</div>
+			<div class="gui-error message-outer" style="display: none;">
+				<div class="message-inner">
+					<div class="message-content">
+						<div class="error-problem-text">
+						</div>
+						<div class="error-solution-text">
+						</div>
+						<div class="error-explanation">
+						</div>
+						<div class="error-actions">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="nav-help-dialog" style="display: none;">
+				<div class="nav-help-elements">
+					<div class="title">如何导航
+					</div>
+					<div class="close">
+						<a><i class="icon icon-close"></i></a>
+					</div>
+					<div class="nav-help-content">
+						<div class="nav-icon">
+						</div>
+						<div class="nav-text">
+						</div>
+					</div>
+					<div class="page-count">
+					</div>
+					<div class="next-button">下一个
+					</div>
+					<div class="prev-button">上一个
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="tag-billboards">
+		</div>
+		<audio id="bgaudio"   loop="loop" style="display: none;">
+		   <source type="audio/mpeg">
+			  你的浏览器不支持HTML5
+		   </source>
+		</audio>
+		<audio id="audio"  controls autoplay loop style="display: none;">
+		   <source type="audio/mpeg">
+			  你的浏览器不支持HTML5
+		   </source>
+		</audio>
+		
+		<script src="js/jquery-2.1.1.min.js" class="build keep"></script>
+		<script src="js/jquery.fracs-0.15.0.min.js" class="build keep"></script>
+		<script src="js/myshow-beautify.js"></script>
+		<script src="js/main2018-step3.js"></script>
+		
+	</body>
+</html>
