@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<head>
+	<meta name="viewport" content="user-scalable=0"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!-- 禁止缓存 -->
+	<meta http-equiv="X-UA-Compatible" content="IE=8">
+	<meta http-equiv="Expires" content="0">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Cache-control" content="no-cache">
+	<meta http-equiv="Cache" content="no-cache">
+	<link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="bookmark" href="images/favicon.ico" type="image/x-icon"　/>
+    <title>4DAGE</title>
+    <script>
+		var support = true;
+		try{if(Float32Array);}catch(e){
+			support = false;
+		}
+	</script>
+	<script src="jquery.js"></script>
+	<script src="http://res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
+    <script id="script1"></script>
+	<style>
+	
+		@font-face {
+		  font-family: 'FontAwesome';
+		  src: url(css/fontawesome-webfont.eot);
+		  src: url(css/fontawesome-webfont.eot?#iefix&v=4.5.0) format("embedded-opentype"), url(css/fontawesome-webfont.woff2) format("woff2"), url(css/fontawesome-webfont.woff) format("woff"), url(css/fontawesome-webfont.ttf) format("truetype"), url(css/fontawesome-webfont.svg#fontawesomeregular) format("svg");
+		  font-weight: normal;
+		  font-style: normal; 
+		}
+		#fdageUI .controlBtn{
+			left:0px;
+			text-shadow: 0px 0px 10px black;
+			color: #fff;
+			-webkit-transition: background 200ms linear;
+			transition: background 200ms cubic-bezier(0.4, 0.74, 1, 1);
+			border-radius: 15px;
+			pointer-events: all;
+			background: transparent;
+			outline:none;
+			border:none;
+			cursor:pointer;
+			width:30px;
+			height:30px;
+			margin-bottom: 10px;
+			position:relative;
+		}
+		#fdageUI .controlBtn.largeUI{
+			width:60px;
+			height:60px;
+			border-radius:30px;
+		}
+		#fdageUI .controlBtn:hover{
+			background:#2c3e50;
+		}
+		#fdageUI .controlBtn:before{
+			font-family:"FontAwesome";
+			color: #ffffff;
+			position:absolute;
+		}
+		#fdageUI .controlBtn.largeUI:before{
+			font-size:1.5em;
+			margin-bottom:20px
+		}
+		#fdageUI .controlBtn.fullscreen:before{
+			content:"\f065";
+			left: 8px;
+			top: 7px;
+		}
+		#fdageUI .controlBtn.home:before{
+			content:"\f015";
+			left: 7px;
+			top: 7px;
+		}
+		#fdageUI .controlBtn.fullscreen.largeUI:before{
+			left: 20px;
+			top: 19px;
+		}
+		#fdageUI .controlBtn.home.largeUI:before{
+			left: 19px;
+			top: 19px;
+		}
+		#fdageUI .controlBtn.fullscreen.full:before{
+			content:"\f066";
+		}
+		#fdageUI .controlBtn.tips:before{
+			content:"\f128";
+			left: 10px;
+			top: 7px;
+		}
+		#fdageUI .controlBtn.tips.largeUI:before{
+			left: 23px;
+			top: 20px;
+		}
+		#fdageUI .tipClose:before{
+			font-family:"FontAwesome";
+			content:"\f00d";
+		}
+		#fdageUI .error{
+			padding-top:250px;
+			color: white;
+			margin: auto;
+			height: 100%;
+			width: 100%;
+			background-size: 60%;
+			text-align: center;
+			max-width: 700px;
+			position: relative;
+			background-position:center center;
+			background-repeat:no-repeat;
+			box-sizing: border-box;
+			font-family: Microsoft YaHei,sans-serif;
+		}
+		#fdageUI .errorInfo{
+			position: absolute;
+			top: 30%;
+			width: 100%;
+			bottom: 30%;
+
+		}
+		
+		#metaData{
+			position:absolute;
+			left:10px;
+			top:10px;
+			display:flex;
+			-webkit-box-flex: 1;
+			flex-direction: row;
+			-webkit-box-orient: horizontal;
+			align-items: center;
+			color: #fff;
+			font-family: "微软雅黑";
+			font-weight: 100;
+			max-width: calc(100% - 46px);
+			letter-spacing: 0.03em;
+			<!-- text-shadow: rgba(0, 0, 0, 0.3) 1px 0 1px,rgba(0, 0, 0, 0.3) 0 1px 1px,rgba(0, 0, 0, 0.3) -1px 0 1px,rgba(0, 0, 0, 0.3) 0 -1px 1px; -->
+
+		}
+		#metaData .artistImg{
+			width:44px;
+			height:44px;
+			background-size: cover; 
+			background-repeat: no-repeat;
+			background-position: center center;
+			margin-right: 8px;
+			border: 1px solid #d6d6d6; 
+			border-radius: 1px;
+			box-shadow: 1px 1px 6px rgba(156, 156, 156, 0.66);
+			flex-shrink: 0;<!-- 可保证宽度限制时不被压缩 -->
+			
+		}
+		#metaData .artist{
+			display:flex;
+			-webkit-box-flex: 1;
+			flex-direction: column;
+			-webkit-box-orient: vertical;
+			font-weight:400;
+			text-shadow:rgba(0, 0, 0, 0.8) 1px 1px 2px;
+		}
+		#metaData .artist a{
+			text-shadow:rgba(0, 0, 0, 0.8) 1px 1px 1px;
+			letter-spacing: 0.05em;
+		}
+	</style>
+</head>
+<body>
+    <script>
+	window.name=window.location.href.substring(window.location.href.indexOf("=")+1);
+	if(name.indexOf("&")!=-1)
+	{
+		name = name.substring(0,name.indexOf("&"));
+    }
+    name = "acf9fc3c-bfd2-4856-990f-5ad18c48fcda";
+	//document.getElementById("weixin").children[0].src =	"http://model3d.4dage.com/model/"+name+"/thumbnail.jpg";
+
+	var time = new Date().getTime();
+    //document.getElementById("script1").src = "4dage.js?t=" + time;
+    //document.getElementById("script1").src = "marmoset.js?t=" + time;
+    document.getElementById("script1").src = "4dage-showmodel-step3.js?t=" + time;
+    
+	document.getElementById("script1").onload = function(){
+		
+		if(support){
+		
+			function viewModel(uuid,app)
+			{
+				var inputdata={};
+				inputdata.modelUUId = uuid;
+			    
+				var type = /Android|iPhone|iPod|iPad|Windows Phone|IEMobile|BlackBerry|webOS/.test(navigator.userAgent);
+				//移动端
+				if(type)
+				{
+					inputdata.type = 2;
+				}
+				//pc端
+				else{
+					inputdata.type = 1;
+				}
+			/*	$.ajax({
+					url: "http://www.4dage.com/FdageModel/viewModel",
+					type: 'POST',
+					async:true, 
+					dataType:"jsonp",  
+					data : inputdata,
+					success: function (data) {
+						var lineLink = window.location.href;
+						var imgUrl = "http://model3d.4dage.com/model/"+name+"/thumbnail.jpg?"+time;
+						var desc = '三维数字化平台';
+						if(data.desc!=null&&data.desc.trim()!='')
+						{
+							desc = data.desc;
+						}
+						
+						var title = data.title;
+						wx.ready(function(){ 
+							// config信息验证后会执行ready方法，所有接口调用都必须在config接口获得结果之后，config是一个客户端的异步操作，所以如果需要在页面加载时就调用相关接口，则须把相关接口放在ready函数中调用来确保正确执行〿
+							//对于用户触发时才调用的接口，则可以直接调用，不需要放在ready函数中〿
+							//分享到朋友圈 
+							wx.onMenuShareTimeline({ 
+							title: title, // 分享标题 
+							link: lineLink, // 分享链接 
+							imgUrl: imgUrl, // 分享图标 
+							desc: desc
+							}); 
+
+							//获取“分享给朋友”按钮点击状态及自定义分享内容接叿
+							wx.onMenuShareAppMessage({ 
+							title: title, // 分享标题 
+							desc: desc,  // 分享描述 
+							link: lineLink, // 分享链接 
+							imgUrl: imgUrl, // 分享图标 
+							type: '', // 分享类型,music、video或link，不填默认为link 
+							dataUrl: '' // 如果type是music或video，则要提供数据链接，默认为空 
+							}); 
+							});
+
+							wx.onMenuShareWeibo({
+								title: title, // 分享标题
+								desc: desc, // 分享描述
+								link: lineLink, // 分享链接
+								imgUrl: imgUrl, // 分享图标
+								success: function () { 
+								   // 用户确认分享后执行的回调函数
+								},
+								cancel: function () { 
+									// 用户取消分享后执行的回调函数
+								}
+							});
+
+							wx.onMenuShareQZone({
+								title: title, // 分享标题
+								desc: desc, // 分享描述
+								link: lineLink, // 分享链接
+								imgUrl: imgUrl, // 分享图标
+								success: function () { 
+								   // 用户确认分享后执行的回调函数
+								},
+								cancel: function () { 
+									// 用户取消分享后执行的回调函数
+								}
+							});
+
+							wx.onMenuShareQQ({
+								title: title, // 分享标题
+								desc: desc, // 分享描述
+								link: lineLink, // 分享链接
+								imgUrl: imgUrl, // 分享图标
+								success: function () { 
+								   // 用户确认分享后执行的回调函数
+								},
+								cancel: function () { 
+								   // 用户取消分享后执行的回调函数
+								}
+							});
+
+							wx.error(function(res){ 
+							// config信息验证失败会执行error函数，如签名过期导致验证失败，具体错误信息可以打开config的debug模式查看，也可以在返回的res参数中查看，对于SPA可以在这里更新签名〿
+
+							});
+					},
+					error: function (msg) {
+						console.log("view.html:412");
+					}
+				});*/
+			}
+			
+			
+			viewModel(name);
+			var t = "http://model3d.4dage.com/model/"+name+"/thumbnail.jpg?"+time;
+			t = name+"/thumbnail.jpg?"+time;
+            //"acf9fc3c-bfd2-4856-990f-5ad18c48fcda.4dage?1519178631679"
+			//marmoset
+			//'http://model3d.4dage.com/model/' +
+			fdage.embed( name+'.4dage?'+time, {thumbnailURL:t, width: 800, height: 600, autoStart: true, fullFrame: true, pagePreset: false } );
+			
+		}else{
+			var n = '<div style="margin:auto;text-align:center">404<br>您的浏览器不支持此网站的内容，请将浏览器更新至最新版本，或使用其他浏览器观看。</div>';
+			var body = document.getElementsByTagName("body")[0];
+			body.innerHTML = n;
+			body.style.padding = "20%";
+		}
+	}
+	
+	function jssdk() {
+		 $.ajax({    
+			url:'http://www.4dageweb.com/Weixin/wechatconfig/jssdk', 
+			type: "post",
+			data : {
+				'url' : location.href.split('#')[0]
+			}, 
+			dataType:"jsonp",     
+			jsonpCallback:"success_jsonp",         
+			success:function(data,textStatus){
+				wx.config({
+					//debug : true,
+					appId : data.appId,
+					timestamp : data.timestamp,
+					nonceStr : data.nonceStr,
+					signature : data.signature,
+					jsApiList : [ 'checkJsApi', 'onMenuShareTimeline',
+							'onMenuShareAppMessage', 'onMenuShareQQ',
+							'onMenuShareWeibo', 'hideMenuItems',
+							'showMenuItems', 'hideAllNonBaseMenuItem',
+							'showAllNonBaseMenuItem', 'translateVoice',
+							'startRecord', 'stopRecord', 'onRecordEnd',
+							'playVoice', 'pauseVoice', 'stopVoice',
+							'uploadVoice', 'downloadVoice', 'chooseImage',
+							'previewImage', 'uploadImage', 'downloadImage',
+							'getNetworkType', 'openLocation', 'getLocation',
+							'hideOptionMenu', 'showOptionMenu', 'closeWindow',
+							'scanQRCode', 'chooseWXPay',
+							'openProductSpecificView', 'addCard', 'chooseCard',
+							'openCard' ]
+				});
+			},    
+			error:function(XMLHttpRequest,textStatus,errorThrown){    
+				console.log("jsonp.error:"+textStatus);    
+			}    
+		 }); 
+		
+		 var success_jsonp = function(json){
+			console.log(json);
+		 };
+	}
+
+	function isWeiXin5() {
+		var ua = window.navigator.userAgent.toLowerCase();
+		var reg = /MicroMessenger\/[5-9]/i;
+		return reg.test(ua);
+	}
+	
+	window.onload = function() {
+		// 	if (isWeiXin5() == false) {
+		// 		  alert("您的微信版本低于5.0，无法使用微信支付功能，请先升级！");
+		// 		}
+		//jssdk();
+	};
+	
+	
+	
+	</script>
+	</script>
+ </body>
+</html>
