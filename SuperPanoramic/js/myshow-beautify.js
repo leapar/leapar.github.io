@@ -1,6 +1,6 @@
 var g_ProjectName = window.location.pathname.substring(window.location.pathname.indexOf("/") + 1, window.location.pathname.lastIndexOf("/"));
 //var g_Prefix = "http://bigscene.4dage.com";
-var g_Prefix="http://127.0.0.1/SuperPanoramic";
+var g_Prefix="https://leapar.github.io/SuperPanoramic";
 //var g_Prefix=window.location.href.substring(0,window.location.href.indexOf("/index2.html")+1);
 var g_index = null;
 var g_modeldata = null;
