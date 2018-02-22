@@ -1,0 +1,1253 @@
+<!DOCTYPE html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>模型编辑页面</title>
+	
+	 <link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="bookmark" href="images/favicon.ico" type="image/x-icon"　/>	
+
+	<script>
+		var support = true;
+		try{if(Float32Array);}catch(e){//ie 9.0以下不支持Float32Array 更低版本还有其他不支持项
+			support = false;
+		}
+		 
+	</script>	
+	<script id="script1" ></script>
+	<script src="js/colorpicker.js" ></script>
+	<script id="script2" ></script>	
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery-form.js"></script>
+    
+	<link type="text/css" href="css/modelEdit.css?v=1" rel="stylesheet">
+
+</head>
+<body>
+	<div class="theme-popover-mask" style=""></div>
+	<div class="theme-popover" style="">
+		<div class="theme-poptit">
+			<!-- <a href="javascript:;" title="关闭" class="close">×</a> -->
+			<h3>登录/LOGIN</h3>
+		</div>
+		<div class="theme-popbod dform">
+			<form class="theme-signin" name="loginform" id="loginform" action="login" method="post">
+				<ol>
+					<li><h4>输入登录资料</h4></li>
+					<li id="Username"><input class="ipt" type="text" name="Username" placeholder="Username" size="20"></li>
+					<li id="Password"><input class="ipt" type="password" name="Password" placeholder="Password" size="20"></li>
+					<li id="keep"> <input id="check" name="check" type="checkbox">保持登录状态</li>
+					<li id="submit"><input class="btn btn-primary" type="submit" name="submit" value="登 录"></li>
+					<!-- <li id="find"><h4>找回您的账号密码</h4></li> -->
+					<li><h4><span class="tips" id="error_login"></span></h4></li>
+				</ol>
+			</form>
+		</div>
+	</div>
+
+	<div class="editor">
+		<div class="editor-header">
+			<a class="logo" href="http://www.jmyida.com/" target="blank"><img src="images/logo.png"></a>
+			
+			<p class="model-name"><a href=""></a></p>
+			<div class="actions">
+				<!-- <a class="actions-help" href="">帮助</a>
+				<a href="" class="button exit"></a> -->
+				<a class="button save-model">确认并发布</a>
+			</div>				
+		</div>
+		<!-- 编辑面板 -->
+		<div class="editor-panel">
+			<div class="layout-widget">
+				<!-- 导航菜单 -->
+				<ul class="tabs" id="tabs">
+					<li class="tab on quarterCell" tab-name="scene" tab-name2="场景"> <a></a></li>	<!-- 想知道是不是因为中文的缘故所以有时候font显示不出所以换了 -->
+					<li class="tab quarterCell" tab-name="light" tab-name2="灯光"> <a></a></li>	
+					<li class="tab quarterCell" tab-name="material" tab-name2="材质"> <a></a></li>	
+					<li class="tab quarterCell" tab-name="metadata" tab-name2="作品信息"> <a></a></li>	
+				</ul>
+				<div class="panels" id="panels">
+					<div class="panel" panel-name="scene">
+						<div class="layout-widget-vertical">
+							<div class="group-widget" id="general">
+								<div class="widget-wrapper">
+									<div class="header">
+										<a class="label">常规变换</a>
+										<a class="help">           
+											<i class="circle"></i>    
+											<div class="tooltip tooltip-down">位移和旋转按钮从左向右依次代表X、Y、Z轴</div>      
+										</a>
+									</div>
+									<div class="inner">
+										<div class="widget-wrapper">
+											
+											<!-- <label class="label">位移</label>
+											<span class="reset"  title="重置位移距离"></span>
+											 
+											<div class="Dage-widget">
+												<div class="widget-wrapper" index="0" title="X">
+													<div class="left"></div>
+													<div class="value"><input value="0"></div>
+													<div class="right"></div>
+												</div>
+												<div class="widget-wrapper" index="1" title="Y">
+													<div class="left"></div>
+													<div class="value"><input value="0"></div>
+													<div class="right"></div>
+												</div>
+												<div class="widget-wrapper" index="2" title="Z">
+													<div class="left"></div>
+													<div class="value"><input value="0"></div>
+													<div class="right"></div>
+												</div>
+											</div> -->
+											
+									
+											<label class="label">旋转</label>
+											<span class="reset" title="重置旋转角度"></span>
+											<div class="Dage-widget">
+												<div class="widget-wrapper" index="x" title="X">
+													<div class="left"></div>
+													<div class="value"><input value="0"></div>
+													<div class="right"></div>
+												</div>
+												<div class="widget-wrapper" index="y" title="Y">
+													<div class="left"></div>
+													<div class="value"><input value="0"></div>
+													<div class="right"></div>
+												</div>
+												<div class="widget-wrapper" index="z" title="Z">
+													<div class="left"></div>
+													<div class="value"><input value="0"></div>
+													<div class="right"></div>
+												</div>
+											</div>
+											
+											
+											<label class="label">AR地面高度</label> 
+											<div class="help">           
+												<i class="circle"></i>    
+												<div class="tooltip tooltip-down">调整AR显示时模型和站立地面的间距，画布中的方框和坐标轴模拟地面。</div>      
+											</div>
+											<a class="reset" title="重置地面高度"></a>
+											<div class="Dage-widget">
+												<div class="widget-wrapper AR" style index="0">
+													<div class="left"></div>
+													<div class="value"><input value="0"></div>
+													<div class="right"></div>
+												</div>
+											</div>
+											<div class="inner">
+												<label class="label">整体居中</label>
+												<a class="reset" id="boundCenterPivot"></a>
+											</div> 
+											<div class="inner">
+												<div class="widget-wrapper">
+													<div class="widget checkbox-widget"> 
+														<label class="label">显示全局坐标轴</label>  													
+														<a class="checkbox"></a>  
+													</div>
+												</div>
+											</div>
+											
+										</div>	
+									</div>		
+								</div>			
+							</div>	
+							
+							<div class="group-widget" id="background">
+								<div class="widget-wrapper">
+									<div class="header">
+										<a class="label">环境与亮度</a>
+									</div>
+									<div class="inner">
+										<div class="widget-wrapper">
+											<label class="label">天空盒选择</label>
+											<div class="help">           
+												<i class="circle"></i>    
+												<div class="tooltip tooltip-down">同时影响天空背景和物体反射光的全局照明系统</div>      
+											</div>
+											<div class="widget-wrapper"  >
+												<a class="selection" index="bg">1</a>
+												<ul class="matOptions hide"></ul>          
+											</div> 
+											<div class="inner">
+												<div class="widget-wrapper">		
+													<label class="label">背景类型选择</label>												
+													<ul class="MenuOptions cellOptions ">
+														<li class="option thirdCell" index="0"><a>颜色</a></li>
+														<li class="option thirdCell" index="1"><a>全景</a></li>
+														<li class="option thirdCell" index="3"><a>雾效</a></li>
+													</ul>	
+													<div class="children" id="bgPicker">
+														<div class="ColorPicker cp-default"></div>
+														<input class="colorText">
+													</div>
+												</div>	
+											</div>
+											<div id="slider-skyBlur" class="slider">
+												<label class="label">背景模糊系数</label>
+												<div class="Main">
+													<div class="scrollBar" class="scrollBar">
+														<div class="scroll_Track"></div>
+														<div class="scroll_Thumb"></div>
+													</div>
+													<div class="BarTxt"><input class="scrollBarTxt"></div>
+												</div>
+											</div>	
+											<div id="slider-bgBright" class="slider">
+												<label class="label">背景亮度</label>
+												<div class="Main">
+													<div class="scrollBar" class="scrollBar">
+														<div class="scroll_Track"></div>
+														<div class="scroll_Thumb"></div>
+													</div>
+													<div class="BarTxt"><input class="scrollBarTxt"></div>
+												</div>
+											</div>		
+											<div id="slider-modelBright" class="slider">
+												<label class="label">模型亮度</label>
+												<div class="Main" class="Main">
+													<div class="scrollBar" class="scrollBar">
+														<div class="scroll_Track"></div>
+														<div class="scroll_Thumb"></div>
+													</div>
+													<div class="BarTxt"><input class="scrollBarTxt"></div>
+												</div>
+											</div>	
+											<div id="slider-modelSkyRatio" class="slider">
+												<label class="label">天空盒影响模型程度</label>
+												<div class="Main" class="Main">
+													<div class="scrollBar" class="scrollBar">
+														<div class="scroll_Track"></div>
+														<div class="scroll_Thumb"></div>
+													</div>
+													<div class="BarTxt"><input class="scrollBarTxt"></div>
+												</div>
+											</div>	
+											
+										</div>	
+									</div>
+								</div>
+							</div>
+							<div class="group-widget" id="postEffect">
+								<div class="widget-wrapper">
+									<div class="header">
+										<a class="label">画面特效</a>
+										<a class="help">           
+											<i class="circle"></i>    
+											<div class="tooltip tooltip-down">作用于整个画布上的相机特效</div>      
+										</a>
+									</div>
+									<div class="inner">
+										<div class="widget-wrapper">
+											<label class="label">磨砂</label>
+											<div id="slider-grain" class="slider">
+												<div class="Main">
+													<div class="scrollBar" class="scrollBar">
+														<div class="scroll_Track"></div>
+														<div class="scroll_Thumb"></div>
+													</div>
+													<div class="BarTxt"><input class="scrollBarTxt"></div>
+												</div>
+											</div>	
+											<label class="label">晕影</label>
+											<a class="help">           
+												<i class="circle"></i>    
+												<div class="tooltip tooltip-down aBitRight">当背景类型为”颜色“或截取缩略图时建议使用此项，有利于提高画面（尤其是缩略图）的美感，使作品更具吸引力。</div>      
+											</a>
+											<div class="colorWrap">
+												<div id="vignettePreview" title="点击选择颜色" class="colorPreviewer"></div>
+												<div class="toggle-box hide" id="vignette">
+													<div class="ColorPicker cp-default"></div>
+													<input class="colorText">
+												</div>
+											</div>	
+												
+											 
+											<div class = "widget-wrapper">
+												<div class="widget-indent">    
+													<label class="label">强度</label>
+													<div id="slider-vigStrength" class="slider">
+														<div class="Main">
+															<div class="scrollBar" class="scrollBar">
+																<div class="scroll_Track"></div>
+																<div class="scroll_Thumb"></div>
+															</div>
+															<div class="BarTxt"><input class="scrollBarTxt"></div>
+														</div>
+													</div>	
+													<label class="label">柔和度</label>
+													<div id="slider-vigSoftness" class="slider">
+														<div class="Main">
+															<div class="scrollBar" class="scrollBar">
+																<div class="scroll_Track"></div>
+																<div class="scroll_Thumb"></div>
+															</div>
+															<div class="BarTxt"><input class="scrollBarTxt"></div>
+														</div>
+													</div>	
+												</div>	
+											</div>	
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="group-widget" id="modelCut">
+								<div class="widget-wrapper">
+									<div class="header">
+										<a class="label">模型裁剪</a>
+										<a class="help">           
+											<i class="circle"></i>    
+											<div class="tooltip tooltip-down">删除冗余点。尤用于删除自动建模时产生的碎片。仅允许撤销回最近的一次状态。</div>      
+										</a>
+										
+									</div>
+									<div class="inner">
+										<div class="widget-wrapper" id="cutMesh">
+											<button class="">开始裁剪</button>
+											<div class="halfBtn">
+												<button class="unable">还原
+													<div class="help">           
+														<i class="circle"></i>    
+														<div class="tooltip tooltip-down">回到未剪裁状态，一旦还原不可恢复剪裁状态。</div>      
+													</div>
+												</button>
+												<button class="unable">取消</button>
+												<button class="unable">上一步</button>
+											</div>
+										</div>	
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="panel hide" panel-name="light" >
+						<div class="layout-widget-vertical">	
+							<div class="group-widget" id="light">
+								<div class="widget-wrapper">
+									<div class="header">
+										<a class="label">灯光</a>
+										<a class="help">           
+											<i class="circle"></i>    
+											<div class="tooltip tooltip-down">最多支持3盏灯光。恰到好处的灯光可起到画龙点睛之妙效。可以在画布中对灯光及其方向进行调整。“不受光”模式的材质无法接收到光照。</div>      
+										</a>	
+									</div>
+									<div class="inner">
+										<div class="widget-wrapper">
+											 
+											<div class="widget-wrapper" id="LightingSelect">              
+												<ul class="options">
+													
+												</ul>          	 
+											</div>
+											<div class="inner hide"  id="lightOption" >
+												<div class="widget-wrapper">
+													<ul class="MenuOptions cellOptions " >
+														<li class="option thirdCell" index="0"><a>平行光</a></li>
+														<li class="option thirdCell" index="1"><a>点光源</a></li>
+														<li class="option thirdCell" index="2"><a>聚光灯</a></li>
+													</ul>
+													<div id="lightProp" class="">
+														<div class="widget image-widget">
+															<div class="widget-wrapper ">        
+																<a class="display ">
+																	<canvas class="false-preview" index="light" width="28" height="28"></canvas>
+																</a>
+															</div>
+															
+															<div class="textures-box toggle-box hide" index="light">
+																<div class="panel">
+																	<div class="children" id="lightPicker">
+																		<div class="ColorPicker cp-default"></div>
+																		<input class="colorText">
+																	</div>
+																</div>	
+															</div>
+															<div id="slider-lightStrength" class="slider-2">
+																<div class="Main">
+																	<div class="scrollBar" >
+																		<div class="scroll_Track"></div>
+																		<div class="scroll_Thumb"></div>
+																	</div>
+																	<div class="BarTxt"><input class="scrollBarTxt"></div>
+																</div>
+															</div>
+														</div>
+														<label class="label">灯光跟随
+															<div class="help">           
+																<i class="circle"></i>    
+																<div class="tooltip tooltip-down">若灯光跟随天空，转动天空时灯光与天空一同转动。</div>      
+															</div>
+														</label>
+														<!-- <ul class="MenuOptions cellOptions " >
+															<li class="option thirdCell" index="0"><a>模型</a></li>
+															<li class="option thirdCell" index="1"><a>天空</a></li>
+															<li class="option thirdCell" index="2"><a>镜头</a></li>
+														</ul> -->
+														<ul class="MenuOptions cellOptions " >
+															<li class="option halfCell" index="0"><a>模型</a></li>
+															<li class="option halfCell" index="1"><a>天空</a></li>
+														</ul>
+														<div class="widget-wrapper" style="display:none">
+															<div class="widget checkbox-widget"> 
+																<label class="label">阴影开启</label>     														
+																<a class="checkbox"></a>  
+															</div>
+														</div>
+														<div class="group" index="omni">
+															<label class="label">距离</label>
+															<div id="slider-lightDistance" class="slider">
+																<div class="Main">
+																	<div class="scrollBar" >
+																		<div class="scroll_Track"></div>
+																		<div class="scroll_Thumb"></div>
+																	</div>
+																	<div class="BarTxt"><input class="scrollBarTxt"></div>
+																</div>
+															</div>
+															<label class="label">衰减</label>
+															<div id="slider-lightCurve" class="slider">
+																<div class="Main">
+																	<div class="scrollBar" >
+																		<div class="scroll_Track"></div>
+																		<div class="scroll_Thumb"></div>
+																	</div>
+																	<div class="BarTxt"><input class="scrollBarTxt"></div>
+																</div>
+															</div>
+														</div>
+														<div class="group" index="spot">
+															<label class="label">角度</label>
+															<div id="slider-lightAngle" class="slider">
+																<div class="Main">
+																	<div class="scrollBar" >
+																		<div class="scroll_Track"></div>
+																		<div class="scroll_Thumb"></div>
+																	</div>
+																	<div class="BarTxt"><input class="scrollBarTxt"></div>
+																</div>
+															</div>
+															<label class="label">硬度</label>
+															<div id="slider-lightSharpness" class="slider">
+																<div class="Main">
+																	<div class="scrollBar" >
+																		<div class="scroll_Track"></div>
+																		<div class="scroll_Thumb"></div>
+																	</div>
+																	<div class="BarTxt"><input class="scrollBarTxt"></div>
+																</div>
+															</div>
+														</div>	
+													</div>	
+												</div>	
+											</div>
+											
+										</div>
+									</div>
+								</div>	
+							</div>
+						</div>
+					</div> 
+					<div class="panel hide" panel-name="materials" >
+						<div class="layout-widget-vertical">
+							
+							<div class="widget select-widget" id="MaterialSelect">    
+								<label class="label">材质选择</label>
+								<div class="help">           
+									<i class="circle"></i>    
+									<div class="tooltip tooltip-down">切换要编辑的材质。材质数量和名称在模型上传前已固定。</div>      
+								</div>	
+								<div class="widget-wrapper">
+									<a class="selection" index="matSelect"></a>
+									<ul class="matOptions hide"></ul>          
+								</div>      
+							</div>
+							<div class="group-widget" id="render">
+								<div class="widget-wrapper">
+									<div class="header closed">
+										<a class="label">渲染</a>
+										
+									</div>
+									<div class="inner closed">
+										<div class="widget-wrapper">
+											<label class="label">明暗选择</label>
+											<div class="help">           
+												<i class="circle"></i>    
+												<!-- <div class="tooltip tooltip-down">标准模式下接受环境光的照射，使模型更融于环境。自发光模式不依赖天空盒环境光，完全显示贴图所显示的颜色，不会产生阴影，尤其适用于自动建模生成的模型。</div>     --> 
+												<div class="tooltip tooltip-down">不受光模式：几乎不接受天空盒的照明，尤其适用于自动建模产生的人像模型。 此模式下的材质选项减少。 </div>      
+											</div>
+											 
+											<div class="inner">
+												<div class="widget-wrapper">			
+													<ul class="MenuOptions cellOptions ">
+														<li class="option halfCell" index="0"><a>标准</a></li>
+														<li class="option halfCell" index="1"><a>不受光</a></li>
+													 
+													</ul>														
+												</div>	
+											</div>
+										</div>	
+									</div>	
+								</div>	
+							</div>	
+							<div class="group-widget" id="maps">
+								<div class="widget-wrapper">
+									<div class="header">
+										<a class="label">贴图</a>
+										<a class="help">           
+											<i class="circle"></i>    
+											<div class="tooltip tooltip-down">四种主要材质贴图，通过贴图、或颜色以及滑动条强度来共同改变，结果越接近白色光照越强。</div>      
+										</a>
+									</div>
+									<div class="inner">
+										<div class="widget-wrapper">
+											<div class="mapGroup">
+												<label class="label" style="">基础颜色<small> (Albedo / Diffuse)</small></label> 
+												<div class="help">           
+													<i class="circle"></i>    
+													<div class="tooltip tooltip-down">模型表现出的最基本的漫反射颜色</div>      
+												</div>
+											
+												<div class="widget image-widget" >    
+													<div class="">
+														<div class="widget-wrapper">        
+															<a class="display ">
+																<canvas class="false-preview" index="albedo" width="28" height="28"></canvas>
+															</a>
+														</div>
+													</div>
+													<div class="textures-box toggle-box hide" index="albedo">
+														<ul class="MenuOptions cellOptions ">
+															<li class="option halfCell chosen" index="map"><a>贴图</a></li>
+															<li class="option halfCell color" index="color"><a>颜色</a></li>
+														</ul>
+														<div class="panel">
+															<div class="manage" index="albedo">管理贴图
+																<div class="help">           
+																	<i class="circle"></i>    
+																	<div class="tooltip tooltip-down">上传或删除贴图</div>      
+																</div>	
+															</div> 
+															<div class="widget-wrapper"  >
+																<a class="selection mapSelect" index="albedo"></a>
+																<ul class="matOptions hide mapSelect"></ul>          
+															</div>   
+														</div>	
+														<div class="panel hide">
+															<div class="children" id="albedoPicker">
+																<div class="ColorPicker cp-default"></div>
+																<input class="colorText">
+															</div>
+														</div>	
+													</div>
+
+													<div id="slider-albedo" class="slider-2">
+														<div class="Main" class="Main">
+															<div class="scrollBar" class="scrollBar">
+																<div class="scroll_Track"></div>
+																<div class="scroll_Thumb"></div>
+															</div>
+															<div class="BarTxt"><input class="scrollBarTxt"></div>
+														</div>
+													</div>									
+												</div> 
+											</div> 
+											
+											
+											
+											
+											<div id="unlitUnable">
+												<div class="mapGroup">
+													<label class="label">反射<small> (Reflectivity)</small></label>
+													<div class="help">           
+														<i class="circle"></i>    
+														<div class="tooltip tooltip-down">反射天空盒的颜色，反射越强金属性越高。</div>      
+													</div>
+													
+													<!-- <div id="FresnelPreview" title="菲涅尔(Fresnel)颜色" class="colorPreviewer"></div>
+													<div class="toggle-box hide" id="Fresnel">
+															<div class="ColorPicker cp-default"></div>
+															<input class="colorText">
+													</div>
+													<div class="help">           
+														<i class="circle"></i>    
+														<div class="tooltip tooltip-down">反射天空盒的颜色，光线越强金属性越高</div>      
+													</div> -->
+													
+													<div class="widget image-widget" >    
+														<div class="">
+															<div class="widget-wrapper">        
+																<a class="display ">
+																	<canvas class="false-preview" index="reflectivity" width="28" height="28"></canvas>
+																</a>
+															</div>
+														</div>	
+														
+														<div class="textures-box toggle-box hide" index="reflectivity">
+															<ul class="MenuOptions cellOptions ">
+																<li class="option halfCell chosen" index="map"><a>贴图</a></li>
+																<li class="option halfCell color" index="color"><a>颜色</a></li>
+															</ul>
+															<div class="panel">
+																<div class="manage" index="reflectivity">管理贴图
+																	<div class="help">           
+																		<i class="circle"></i>    
+																		<div class="tooltip tooltip-down">上传或删除贴图</div>      
+																	</div>	
+																</div> 
+																<div class="widget-wrapper"  >
+																	<a class="selection mapSelect" index="reflectivity"></a>
+																	<ul class="matOptions hide mapSelect"></ul>          
+																</div>   
+															</div>	
+															<div class="panel hide">
+																<div class="children" id="reflecPicker">
+																	<div class="ColorPicker cp-default"></div>
+																	<input class="colorText">
+																</div>
+															</div>	
+														</div>
+														<div id="slider-reflec" class="slider-2">
+															<div class="Main" class="Main">
+																<div class="scrollBar" class="scrollBar">
+																	<div class="scroll_Track"></div>
+																	<div class="scroll_Thumb"></div>
+																</div>
+																<div class="BarTxt"><input class="scrollBarTxt"></div>
+															</div>
+														</div>									
+													</div> 
+													
+												</div>	
+												<div class="mapGroup">
+													<label class="label">光滑度<small> (Gloss)</small></label>
+													<div class="help">           
+														<i class="circle"></i>    
+														<div class="tooltip tooltip-down">以图片中的红色通道作为光滑度。如果反射贴图有alpha通道、且光滑度贴图未贴图，则使用反射贴图的alpha通道作为光滑度。光滑度越高效果越接近镜面反射，反之越接近漫反射。</div>      
+													</div>						
+														
+													<div class="widget image-widget" >    
+														<div class="">
+															<div class="widget-wrapper">        
+																<a class="display ">
+																	<canvas class="false-preview" index="gloss" width="28" height="28"></canvas>
+																</a>
+															</div>
+														</div>
+														<div class="textures-box toggle-box hide" class="gloss"> 
+															<div class="manage" index="gloss">管理贴图
+																<div class="help">           
+																	<i class="circle"></i>    
+																	<div class="tooltip tooltip-down">上传或删除贴图</div>      
+																</div>	
+															</div> 
+															<div class="widget-wrapper"  >
+																<a class="selection mapSelect" index="gloss"></a>
+																<ul class="matOptions hide mapSelect"></ul>          
+															</div>  
+														</div>
+														<div id="slider-gloss" class="slider-2">
+															<div class="Main" class="Main">
+																<div class="scrollBar" class="scrollBar">
+																	<div class="scroll_Track"></div>
+																	<div class="scroll_Thumb"></div>
+																</div>
+																<div class="BarTxt"><input class="scrollBarTxt"></div>
+															</div>
+														</div>									
+													</div> 
+													
+												</div>	
+													
+													
+												<div class="mapGroup">
+													<label class="label">法线<small> (Normal)</small></label>
+													<div class="help">           
+														<i class="circle"></i>    
+														<div class="tooltip tooltip-down">法线决定模型表面凹凸程度，能凸显材质细节。在编辑时，带有srgb色彩配置信息的图片可能会降低显示效果，编辑结束时自动去除配置文件。</div>      
+													</div>				
+													<div class="widget image-widget" >    
+														<div class="">
+															<div class="widget-wrapper">        
+																<a class="display ">
+																	<canvas class="false-preview" index="normal" width="28" height="28"></canvas>
+																</a>
+															</div>
+														</div>
+														<div class="textures-box toggle-box hide" class="normal">
+															<div class="manage" index="normal">管理贴图
+																<div class="help">           
+																	<i class="circle"></i>    
+																	<div class="tooltip tooltip-down">上传或删除贴图</div>      
+																</div>	
+															</div> 
+															<div class="widget-wrapper"  >
+																<a class="selection mapSelect" index="normal"></a>
+																<ul class="matOptions hide mapSelect"></ul>          
+															</div>  
+														</div>
+	
+														<div id="slider-normal" class="slider-2">
+															<div class="Main" class="Main">
+																<div class="scrollBar" class="scrollBar">
+																	<div class="scroll_Track"></div>
+																	<div class="scroll_Thumb"></div>
+																</div>
+																<div class="BarTxt"><input class="scrollBarTxt"></div>
+															</div>
+														</div>									
+													</div> 
+													
+												</div>
+											</div>
+										</div>	
+									</div>
+								</div>
+								<div class="group-widget" id="presetMat">
+									<div class="widget-wrapper">
+										<div class="header closed">
+											<a class="label">材质预设</a>
+											<a class="help">           
+												<i class="circle"></i>    
+												<div class="tooltip tooltip-down">作为参考的六种材质</div>      
+											</a>
+										</div>
+										<div class="inner closed">
+											<div class="widget-wrapper">
+												<ul class="matPreset">
+													<li><div></div><span>木材</span></li>
+													<li><div></div><span>石头</span></li>
+													<li><div></div><span>布料</span></li>
+													<li><div></div><span>皮革</span></li>
+													<li><div></div><span>陶瓷</span></li>
+													<li><div></div><span>金属</span></li>
+												</ul>
+											</div>
+										</div>	
+									</div>
+								</div>
+								<div class="group-widget " id="transparent" >
+									<div class="widget-wrapper">
+										<div class="header closed">
+											<a class="label">透明</a>
+											<a class="onOffState"></a>   
+										</div>
+										<div class="inner closed">
+											<div class="widget-wrapper">
+												<div class="widget-wrapper">	
+													<label class="label">混合模式</label>
+													<div class="help">           
+														<i class="circle"></i>    
+														<div class="tooltip tooltip-down">叠加模式需要配合其他属性的调整来达到透明效果</div>      
+													</div>
+													<ul class="MenuOptions cellOptions ">
+														<li class="option halfCell" index="alpha"><a>普通</a></li>
+														<li class="option halfCell" index="add"><a>叠加</a></li>
+													</ul>															
+												</div>
+												<div class="mapGroup">
+													<label class="label">透明度<small> (Alpha)</small></label>
+													<div class="help">           
+														<i class="circle"></i>    
+														<div class="tooltip tooltip-down">以图片中的红色通道作为透明度。如果基础颜色贴图有alpha通道、且透明贴图未贴图，则使用基础颜色的alpha通道作为透明度。</div>      
+													</div>
+													<div class="widget image-widget" >    
+														
+														<div class="widget-wrapper">        
+															<a class="display ">
+																<canvas class="false-preview" index="alpha" width="28" height="28"></canvas>
+															</a>
+														</div>
+														<div class="textures-box toggle-box hide" index="alpha">
+															<div class="manage" index="alpha">管理贴图
+																<div class="help">           
+																	<i class="circle"></i>    
+																	<div class="tooltip tooltip-down">上传或删除贴图</div>      
+																</div>	
+															</div> 
+															
+															<div class="widget-wrapper"  >
+																<a class="selection mapSelect" index="alpha"></a>
+																<ul class="matOptions hide mapSelect"></ul>          
+															</div>  
+														</div>
+
+														<div id="slider-alpha" class="slider-2">
+															<div class="Main" class="Main">
+																<div class="scrollBar" class="scrollBar">
+																	<div class="scroll_Track"></div>
+																	<div class="scroll_Thumb"></div>
+																</div>
+																<div class="BarTxt"><input class="scrollBarTxt"></div>
+															</div>
+														</div>	
+													</div>	
+															
+												</div>	
+											</div>
+										</div>
+									</div>	
+								</div>
+								<div class="group-widget" id="skin">
+									<div class="widget-wrapper">
+										<div class="header">
+											<a class="label">皮肤<small> (Subsurface Scattering)</small></a>
+											<a class="help">           
+												<i class="circle"></i>    
+												<div class="tooltip tooltip-down atRight">”皮下反射“或”子面散射“，可模拟物体微透明状的效果，如皮肤、玉、蜡、橡胶，使之晶莹通透。</div>      
+											</a>
+											<!-- 相关解说见http://www.cnblogs.com/skyman/archive/2008/02/24/1079766.html -->
+											<a class="onOffState"></a>
+										</div>
+										<div class="inner">
+											<div class="widget-wrapper">
+												<div class="mapGroup">
+													<label class="label">半透明<small> (Translucency)</small></label>
+													<div class="help">           
+														<i class="circle"></i>    
+														<div class="tooltip tooltip-down">模拟表皮以折射出的颜色</div>      
+													</div>
+													<div class="widget image-widget" >    
+														<div class="widget-wrapper">        
+															<a class="display ">
+																<canvas class="false-preview" index="extrasSkin" width="28" height="28"></canvas>
+															</a>
+														</div>
+														<div class="textures-box toggle-box hide" index="skin">
+															<div class="manage" index="extrasSkin">管理贴图
+																<div class="help">           
+																	<i class="circle"></i>    
+																	<div class="tooltip tooltip-down">上传或删除贴图</div>      
+																</div>	
+															</div> 
+															
+															<div class="widget-wrapper"  >
+																<a class="selection mapSelect" index="extrasSkin"></a>
+																<ul class="matOptions hide mapSelect"></ul>          
+															</div>  
+														</div>
+														<div class="slider-2">
+															
+															<a class="label">颜色</a>
+															<div class="colorWrap">
+																<div id="transColorBtn" title="点击选择颜色" class="colorPreviewer"></div>
+																<div class="toggle-box hide" id="transColor">
+																	<div class="ColorPicker cp-default"></div>
+																	<input class="colorText">
+																</div>
+															</div>
+															
+															<div class="children">
+																<a class="label">颜色强度</a>
+																<div id="slider-transSky" >
+																	<div class="Main" class="Main">
+																		<div class="scrollBar" class="scrollBar">
+																			<div class="scroll_Track"></div>
+																			<div class="scroll_Thumb"></div>
+																		</div>
+																		<div class="BarTxt"><input class="scrollBarTxt"></div>
+																	</div>
+																</div>
+															</div>	
+															<a class="label">平滑法线</a>
+															<div id="slider-normalSmooth" >
+																<div class="Main" class="Main">
+																	<div class="scrollBar" class="scrollBar">
+																		<div class="scroll_Track"></div>
+																		<div class="scroll_Thumb"></div>
+																	</div>
+																	<div class="BarTxt"><input class="scrollBarTxt"></div>
+																</div>
+															</div>
+													 
+															<div class="children">
+															<a class="label">边缘反射<small> (FresnelColor)</small></a>
+																<div class="colorWrap">
+																	<div id="fresnelColorBtn" title="点击选择颜色" class="colorPreviewer"></div>
+																	<div class="toggle-box right  hide" id="fresnelColor">
+																		<div class="ColorPicker cp-default"></div>
+																		<input class="colorText">
+																	</div>
+																</div>
+															</div>
+														</div>	
+													</div>	
+												</div>								
+											</div> 
+											
+										</div>
+									</div>	
+								</div>
+								<div class="group-widget" id="emissive" >
+									<div class="widget-wrapper">
+										<div class="header">
+											<a class="label">自发光<small style="letter-spacing:0.5px">(Emissive)</small></a>
+											<div class="help">           
+												<i class="circle"></i>    
+												<div class="tooltip tooltip-down atRight">自发光贴图可以使模型表面均匀发光、不受环境光阴影影响，能减少阴影、提高明度。贴图中越亮的部分自发光程度越强。</div>      
+											</div>
+											<a class="onOffState"></a>
+										</div>
+										<div class="inner">
+											<div class="widget-wrapper">
+												<div class="mapGroup">
+													<div class="widget image-widget" >
+														<div class="widget-wrapper">        
+															<a class="display ">
+																<canvas class="false-preview" index="extrasEmi" width="28" height="28"></canvas>
+															</a>
+														</div>
+														<div class="textures-box toggle-box hide" index="emissive">
+															<div class="manage" index="emissive">管理贴图
+																<div class="help">           
+																	<i class="circle"></i>    
+																	<div class="tooltip tooltip-down">上传或删除贴图</div>      
+																</div>	
+															</div> 
+															
+															<div class="widget-wrapper"  >
+																<a class="selection mapSelect" index="extrasEmi"></a>
+																<ul class="matOptions hide mapSelect"></ul>          
+															</div>  
+														</div>
+
+														<div id="slider-emissive" class="slider-2">
+															<div class="Main" class="Main">
+																<div class="scrollBar" class="scrollBar">
+																	<div class="scroll_Track"></div>
+																	<div class="scroll_Thumb"></div>
+																</div>
+																<div class="BarTxt"><input class="scrollBarTxt"></div>
+															</div>
+														</div>	
+													</div>	
+															
+												</div>	
+											</div>
+										</div>
+									</div>	
+								</div>
+								<div class="group-widget" id="AO" >
+									<div class="widget-wrapper">
+										<div class="header">
+											<a class="label">环境光遮蔽<small style="letter-spacing:0.5px">(Ambient Occlusion)</small></a>
+											<div class="help">           
+												<i class="circle"></i>    
+												<div class="tooltip tooltip-down atRight">AO贴图可以改善细节、表现暗部阴影、增强对比度。使用贴图的红色通道作为明暗值。</div>      
+											</div>
+											<a class="onOffState"></a>
+										</div>
+										<div class="inner">
+											<div class="widget-wrapper">
+												<div class="mapGroup">
+													<div class="widget image-widget" >
+														<div class="widget-wrapper">        
+															<a class="display ">
+																<canvas class="false-preview" index="extrasAO" width="28" height="28"></canvas>
+															</a>
+														</div>
+														<div class="textures-box toggle-box hide" index="AO">
+															<div class="manage" index="extrasAO">管理贴图
+																<div class="help">           
+																	<i class="circle"></i>    
+																	<div class="tooltip tooltip-down">上传或删除贴图</div>      
+																</div>	
+															</div> 
+															
+															<div class="widget-wrapper"  >
+																<a class="selection mapSelect" index="extrasAO"></a>
+																<ul class="matOptions hide mapSelect"></ul>          
+															</div>  
+														</div>
+
+														<div id="slider-AO" class="slider-2">
+															<div class="Main" class="Main">
+																<div class="scrollBar" class="scrollBar">
+																	<div class="scroll_Track"></div>
+																	<div class="scroll_Thumb"></div>
+																</div>
+																<div class="BarTxt"><input class="scrollBarTxt"></div>
+															</div>
+														</div>	
+													</div>	
+															
+												</div>	
+											</div>
+										</div>
+									</div>	
+								</div>
+								<div class="group-widget" id="backfaceCull">
+									<div class="widget-wrapper">
+										<div class="header">
+											<a class="label">背面消隐</a>
+											<a class="help">           
+												<i class="circle"></i>    
+												<div class="tooltip tooltip-down">默认单面渲染。必要时勾选“背面可见”可双面渲染，但会降低渲染速度。</div>      
+											</a>	
+										</div>
+										<div class="inner">
+											<div class="widget-wrapper">
+												<div class="widget checkbox-widget" > 
+													<label class="label">背面可见</label>     														
+													<a class="checkbox"></a>  
+												</div>
+											</div>
+										</div>	
+									</div>
+								</div>
+								<div class="group-widget" id="outline">
+									<div class="widget-wrapper">
+										<div class="header">
+											<a class="label">描边</a>
+											<a class="help">           
+												<i class="circle"></i>    
+												<div class="tooltip tooltip-down">描边会对模型进行再次渲染，可模拟平面卡通画的描边效果，但会降低渲染速度。</div>      
+											</a>	
+											<a class="onOffState"></a>
+										</div>
+										<div class="inner">
+											<div class="widget-wrapper">
+												<label class="label" style="">描边颜色</label>
+												<div class="colorWrap">
+													<div id="outlineColorBtn" title="点击选择颜色" class="colorPreviewer" style="left:5px"></div>
+													<div class="toggle-box hide" id="outlineColor">
+														<div class="ColorPicker cp-default"></div>
+														<input class="colorText">
+													</div>
+												</div>
+												<div class="widget image-widget">
+													<label class="label" style="width:80px">描边粗细</label>
+													<div id="slider-outline" class="slider-2" style="left:-4px">
+														<div class="Main" class="Main">
+															<div class="scrollBar" class="scrollBar">
+																<div class="scroll_Track"></div>
+																<div class="scroll_Thumb"></div>
+															</div>
+															<div class="BarTxt"><input class="scrollBarTxt"></div>
+														</div>
+													</div>	
+												</div>	
+											</div>
+										</div>	
+									</div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+					<div class="panel hide" panel-name="metadata">
+						<div class="layout-widget-vertical">
+							<div class="group-widget" id="metadata">
+								<div class="widget-wrapper">
+									<div class="header">
+										<a class="label">基本信息</a>
+									</div>
+									<div class="inner">
+										<div class="widget-wrapper">
+											<div class="children2">
+												<label class="label">作品名称<small class="hide count">14</small></label>
+												<div class="help">           
+													<i class="circle"></i>    
+													<div class="tooltip tooltip-down">最大字符14</div>      
+												</div>
+												<input index="title" type="text"  spellcheck="false" name="name" placeholder="作品没有名字会很可怜">
+											</div>
+											<div class="children2" id="TYPE">
+												<label class="label">类别<!-- <small class="hide count">3</small> --></label>
+												<div class="help">           
+													<i class="circle"></i>    
+													<div class="tooltip tooltip-down aBitRight">作品将在所选类别版块下展示</div>      
+												</div>
+												<a class="selection" ></a>  
+												<ul class="matOptions hide"></ul>
+									  		</div>
+											<div class="children2">
+												<label class="label">描述<small class="hide count">125</small></label>
+												<div class="help">           
+													<i class="circle"></i>    
+													<div class="tooltip tooltip-down aBitRight">最大字符125</div>      
+												</div>
+												<textarea index="describe" spellcheck="false" type="text" style="width:100%;height:100px;" name="name" placeholder="可以写很长的作文了呢"></textarea>
+											</div>
+											
+											<div class="children2">
+												<!-- <label class="label">允许下载</label>
+												 -->
+												<div class="inner">
+													<div class="widget-wrapper">
+														<div class="widget checkbox-widget" > 
+															<label class="label">允许下载 </label>     
+															<div class="help">           
+																<i class="circle"></i>    
+																<div class="tooltip tooltip-down">勾选后其他用户可下载该项作品的所有原始文件</div>      
+															</div>															
+															<a class="checkbox"></a>  
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="group-widget" id="thumbnail">
+								<div class="widget-wrapper">
+									<div class="header">
+										<a class="label">缩略图</a>
+									</div>
+									<div class="inner">
+										<div class="widget-wrapper">
+											<div id="thumbImg">
+												<span>点击相机添加缩略图，</span>
+												<span>同时保存相机初始视角。</span>
+											</div>
+										</div>
+									</div>
+								</div>	
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>				
+		</div>
+		<!-- 编辑视图 -->
+		<div class="editor-view">
+			<div class="editor-view-inner">
+				<div class="webgl">
+					
+				</div>
+			</div>
+		
+		</div>
+		<div class="editor-manageMaps overlay hide">
+			<div class="manage-body">
+				<div class = "manage-head" >
+					<div class="headTitle">贴图管理</div>
+					<div class="action-close"></div>
+				</div>
+				
+				<div class="manage-inner">
+					<div class="import">
+						<input id="upload-texture" class="upload-input cloaked" type="file" onchange="uploadMaps(this)" multiple="multiple" accept="image/jpeg,image/png" multiple=""><!-- , .tga -->
+						<label class="button manage-upload" for="upload-texture" >上传图片</label>
+						<label><small style="color:#e8e8e8"> 支持jpg/png格式  </small></label>
+						<div class="help">           
+							<i class="circle" style="color:#e8e8e8"></i>    
+							<div class="tooltip tooltip-down" style="text-align:left">1.每张图不大于10兆。<br>2.分辨率大于2048的图片会被压缩至2048。<br>3.支持一次上传多张图片。<br>4.不能连续上传同名文件。</div>      
+						</div>
+						
+					</div>
+					<div class = 'manage-list'>
+						<ul></ul>
+					</div>
+				</div>
+			</div>			
+		</div>
+		<div class="msgConfirm overlay hide" >
+			<div class="msgConfirm-body">
+				<div class = "manage-head" ></div>
+				<div class="Conf-inner">
+					
+				</div>
+				<div class = "footer">
+					<button class="cancel" index="cancel">取消</button>
+					<button class="confirm" index="confirm">确定</button>
+				</div>
+			</div>	
+		</div>	
+	</div>
+	<script src="js/login-pure.js"></script>
+    <script>
+		var time = new Date().getTime();
+	　　document.getElementById("script1").src="js/model_edit_final.js?t=";// + time;
+		document.getElementById("script1").onload = function(){
+		　　document.getElementById("script2").src="js/EditGUI_final.js?t=";// + time;
+		}
+		document.getElementById("script2").onload = function(){ 
+
+			if(support){
+				window.gui = new GUI();
+				window.webview = null;
+				window.skyShader = null;
+				window.name = null;
+				 
+				jmyd.edit = true;
+				var log; 
+				//log = true;
+				if(log){
+				
+					var textarea = document.createElement('textarea');
+					textarea.id = "consoleLog";
+					textarea.style.width="200px";
+					textarea.style.height="100px";
+					textarea.style.position="absolute";
+					textarea.style.right=textarea.style.bottom = "0px";
+					textarea.style['z-index']="100";
+					document.getElementsByTagName("body")[0].appendChild(textarea);
+					console.oldLog = console.log;
+					console.log = function(str) {
+					  console.oldLog(str);
+					  var t = document.getElementById("consoleLog").innerHTML;
+					  document.getElementById("consoleLog").innerHTML  = str +"\n" + t;
+					} 
+					
+					console.olderror = console.error;
+					console.error = function(str) {
+					  console.olderror(str);
+					  var t = document.getElementById("consoleLog").innerHTML;
+					  document.getElementById("consoleLog").innerHTML  = str +"\n" + t;
+					} 
+					
+					console.oldwarn = console.warn;
+					console.warn = function(str) {
+					  console.oldwarn(str);
+					  var t = document.getElementById("consoleLog").innerHTML;
+					  document.getElementById("consoleLog").innerHTML  = str +"\n" + t;
+					} 
+				
+					console.olddebug  = console.debug ;
+					console.debug  = function(str) {
+					  console.olddebug (str);
+					  var t = document.getElementById("consoleLog").innerHTML;
+					  document.getElementById("consoleLog").innerHTML  = str +"\n" + t;
+					} 
+				
+					console.oldinfo  = console.info ;
+					console.info  = function(str) {
+					  console.oldinfo (str);
+					  document.getElementById("consoleLog").innerHTML += str +"\n";
+					} 
+				}
+				
+
+				jmyd.startTime	= new Date().getTime(); 
+				name = window.location.href.substring(window.location.href.indexOf("=")+1);
+				name = name.split('&')[0];
+				name = "f2908690-002e-4d14-920b-db5cdcc8bf42/M075700210101011800G_L";
+				var t = "modelDictionary/"+name+"/thumbnail.jpg?";
+				//gui.test = true; 
+				if(gui.test)jmyd.embed( name, { width: 800, height: 600, autoStart: true, fullFrame: true, pagePreset: false } );
+				else jmyd.embed( 'modelDictionary/'+name+'.marmost?'+time, { thumbnailURL:t+time, width: 800, height: 600, autoStart: true, fullFrame: true, pagePreset: false } );
+
+				 
+			}else{
+				var n = '<div style="margin:auto;text-align:center">404<br>您的浏览器不支持此网站的内容，请将浏览器更新至最新版本，或使用其他浏览器观看。</div>';
+				var body = document.getElementsByTagName("body")[0];
+				body.innerHTML = n;
+				body.style.padding = "20%";
+				
+			}
+		
+		}
+	
+		
+		
+   </script>
+   
+</body>
+</html>
