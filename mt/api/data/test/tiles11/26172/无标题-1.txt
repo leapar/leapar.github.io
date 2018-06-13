@@ -1,0 +1,109 @@
+THREE.PerspectiveCamera {uuid: "C154A253-EE7A-4E23-8F29-3A2433B57FDF", name: "", type: "PerspectiveCamera", parent: null, channels: T…E.Channels, …}
+aspect
+:
+1.7793696275071633
+castShadow
+:
+false
+channels
+:
+THREE.Channels {mask: 1}
+children
+:
+[]
+eulerOrder
+:
+(...)
+far
+:
+100
+fov
+:
+45
+frustumCulled
+:
+true
+matrix
+:
+THREE.Matrix4 {elements: Float32Array(16)}
+matrixAutoUpdate
+:
+true
+matrixWorld
+:
+THREE.Matrix4 {elements: Float32Array(16)}
+matrixWorldInverse
+:
+THREE.Matrix4 {elements: Float32Array(16)}
+matrixWorldNeedsUpdate
+:
+false
+name
+:
+""
+near
+:
+0.01
+parent
+:
+null
+position
+:
+THREE.Vector3 {x: -1.8177498641077046, y: 1.2, z: 1.4417437049880575}
+projectionMatrix
+:
+THREE.Matrix4 {elements: Float32Array(16)}
+quaternion
+:
+THREE.Quaternion {_x: 0.20545966827197396, _y: 0.7783863226301516, _z: 0.3202948123883052, _w: -0.4993118059487749, onChangeCallback: ƒ}
+receiveShadow
+:
+false
+renderOrder
+:
+0
+rotation
+:
+THREE.Euler {_x: -1.9691495059847297, _y: -0.7019391518827041, _z: -2.148420982480106, _order: "XYZ", onChangeCallback: ƒ}
+rotationAutoUpdate
+:
+true
+scale
+:
+THREE.Vector3 {x: 1, y: 1, z: 1}
+target
+:
+THREE.Vector3 {x: -1.0979137909197236, y: 0.41538929045960005, z: 1.7719497432994478}
+type
+:
+"PerspectiveCamera"
+up
+:
+THREE.Vector3 {x: 0, y: 1, z: 0}
+useQuaternion
+:
+(...)
+userData
+:
+{}
+uuid
+:
+"C154A253-EE7A-4E23-8F29-3A2433B57FDF"
+visible
+:
+true
+zoom
+:
+1
+id
+:
+3
+modelViewMatrix
+:
+THREE.Matrix4 {elements: Float32Array(16)}
+normalMatrix
+:
+THREE.Matrix3 {elements: Float32Array(9)}
+__proto__
+:
+THREE.Camera

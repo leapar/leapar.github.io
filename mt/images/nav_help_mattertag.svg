@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="34px" viewBox="0 0 82 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>sc/mattertag</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="51.7632323%" cy="0%" fx="51.7632323%" fy="0%" r="64.7781471%" id="radialGradient-1">
+            <stop stop-color="#8EFA10F" offset="0%"></stop>
+            <stop stop-color="#82E9FE" offset="0%"></stop>
+            <stop stop-color="#2C6C83" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-2" cx="17" cy="17" r="12"></circle>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="24" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sc/mattertag">
+            <g transform="translate(41.000000, 17.000000) scale(1, -1) rotate(-180.000000) translate(-41.000000, -17.000000) translate(24.000000, 0.000000)">
+                <circle id="Oval-17" fill="url(#radialGradient-1)" cx="17" cy="17" r="12"></circle>
+                <use id="Oval-17" stroke="#FFFFFF" mask="url(#mask-3)" stroke-width="4.72615356" xlink:href="#path-2"></use>
+                <circle id="Oval-17" fill="#FFFFFF" cx="17" cy="17" r="7.2"></circle>
+                <rect id="@bounds" opacity="0.5" x="-2.84217094e-14" y="0" width="34" height="34"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

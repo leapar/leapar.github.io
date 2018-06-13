@@ -1,0 +1,5 @@
+{
+    "templates": [
+      "/mt/api/data/test/{{filename}}"
+    ]
+} 
