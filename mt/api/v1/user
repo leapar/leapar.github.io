@@ -1,4 +1,0 @@
-{
-                    "is_authenticated": false,
-                    "flags": ["cloud_ui/showcase_3", "cloud_ui/showcase_beta_switch", "ingest/configurable_meshing_pipeline", "labels", "mattertag_links", "mattertag_media", "pacioli/payment_show_past_due", "sc_imgopt_100", "show360views", "showcase_webvr", "uhql", "vrworkshop", "workshop_webgl", "ws_360snapshots", "ws_img_multi_dl", "ws_zooming", "zooming"]
-                }
