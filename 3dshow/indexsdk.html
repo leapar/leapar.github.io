@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+
+
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, shrink-to-fit=no">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<style>
+		body {
+			position: fixed;
+			width: 100%;
+			height: 100%;
+			background-color: #000;
+			color: #fff;
+			margin: 0px;
+			padding: 0;
+			overflow: hidden;
+		}
+
+		canvas:focus {
+			outline: none;
+		}
+	</style>
+	<link rel='stylesheet' href='css/showcase.css'>
+
+	<script src="/js/sdk.js"></script>
+</head>
+
+
+
+
+<body>
+	<iframe width="853" height="480" src="http://127.0.0.1:8887/?m=81382d35-4d63-14ec-d441-8ff368b9e5fe&play=1&qs=1" frameborder="0"
+	 allowfullscreen allow="vr" id="showcase_iframe"></iframe>
+
+
+	<button onClick="javascript:moveToPano()">moveToPano</button>
+	<button onClick="javascript:takeScreenshot()">takeScreenshot</button>
+	<button onClick="javascript:modelFunc()">model</button>
+	<button onClick="javascript:getPose()">getPose</button>
+	<button onClick="javascript:mattertag()">mattertag</button>
+	
+
+
+
+	<script>
+
+
+		function mattertag() {
+			mpSdk.Mattertag.getData()
+				.then(function (mattertags) {
+					// Mattertag data retreival complete.
+					if (mattertags.length > 0) {
+						console.log('First mattertag label: ' + mattertags[0].label);
+						console.log('First mattertag description: ' + mattertags[0].description);
+					}
+				})
+				.catch(function (error) {
+					// Mattertag data retrieval error.
+				});
+		}
+
+		function getPose() {
+			mpSdk.Camera.getPose()
+				.then(function (pose) {
+					console.log('Current position is ', pose.position);
+					console.log('Rotation angle is ', pose.rotation);
+					console.log('Sweep UUID is ', pose.sweep);
+					console.log('View mode is ', pose.mode);
+				});
+		}
+
+
+
+		function modelFunc() {
+			mpSdk.Model.getData()
+				.then(function (model) {
+					// Model data retreival complete.
+					console.log('Model  :', model);
+				})
+				.catch(function (error) {
+					// Model data retrieval error.
+				});
+
+
+			mpSdk.Model.getDetails()
+				.then(function (modelDetails) {
+					// Model details retreival complete.
+					console.log('getDetails :', modelDetails);
+				})
+				.catch(function (error) {
+					// Model details retrieval error.
+				});
+
+		}
+
+
+		function takeScreenshot() {
+			const resolution = {
+				width: 600,
+				height: 800
+			};
+
+			const visibility = {
+				mattertags: false,
+				sweeps: true
+			};
+
+			mpSdk.Camera.takeScreenShot(resolution, visibility)
+				.then(function (screenShotUrl) {
+					// set src of an img element
+					//img.src = screenShotUrl
+					console.log(screenShotUrl);
+				});
+		}
+
+		function moveToPano() {
+			console.log("moveToPano");
+			const panoId = 'zq_ylbm_123_location_15';
+
+			const transition = mpSdk.Sweep.Transition.INSTANT;
+			const rotation = { x: 10, y: 0, z: 0 };
+			mpSdk.Sweep.moveTo(panoId, {
+				rotation: rotation,
+				transition: transition
+			})
+				.then(function (sweepId) {
+					// moveToPano successful.
+					console.log('Arrived at sweep ' + sweepId);
+				})
+				.catch(function (error) {
+					// Error with moveToPano command
+					console.error(error);
+				});
+
+		}
+		var iframe = document.getElementById('showcase_iframe');
+
+		iframe.addEventListener('load', showcaseLoader, true);
+
+
+		function showcaseLoader() {
+			try {
+				var showcase = window.SHOWCASE_SDK.connect(
+					iframe, // Obtained earlier
+					'abc123456789', // Your API key
+					'3.0' // SDK version you are using
+					// Use the latest version you can for your app
+				).then(function (mpSdk) {
+					window.mpSdk = mpSdk;
+					mpSdk.on(mpSdk.Camera.Event.MOVE, function (pose) {
+						//	console.log('mpSdk.on(mpSdk.Camera.Event.MOVE)', JSON.stringify(pose, null, 2), true);
+					});
+
+					mpSdk.on(mpSdk.Mattertag.Event.CLICK, function (pose) {
+						console.log('mpSdk.on(mpSdk.Mattertag.Event.CLICK)', JSON.stringify(pose, null, 2), true);
+					});
+					mpSdk.on(mpSdk.Mattertag.Event.HOVER, function (pose) {
+						console.log('mpSdk.on(mpSdk.Mattertag.Event.HOVER)', JSON.stringify(pose, null, 2), true);
+					});
+
+					mpSdk.on(mpSdk.Mattertag.Event.UPDATED, function (pose) {
+						//		console.log('mpSdk.on(mpSdk.Mattertag.Event.UPDATED)', JSON.stringify(pose, null, 2), true);
+					});
+
+
+				}).catch(function (e) {
+					console.log(e);
+				});
+			}
+			catch (e) {
+				console.error(e);
+			}
+		};
+	</script>
+</body>
+
+</html>

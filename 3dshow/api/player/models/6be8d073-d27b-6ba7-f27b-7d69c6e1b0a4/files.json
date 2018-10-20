@@ -1,0 +1,10 @@
+{
+    "templates": [
+        "https://cdn-1.matterport.com/models/1a56eedeff7d4a7481b961c009ae9236/assets/~/{{filename}}?t=2-0d9b9561f4a1aa6f247044969cf46de2fabc05c9-1533277909-0",
+        "https://mp-app-prod.global.ssl.fastly.net/models/1a56eedeff7d4a7481b961c009ae9236/assets/~/{{filename}}?t=2-0d9b9561f4a1aa6f247044969cf46de2fabc05c9-1533277909-0"
+    ],
+    "additional_files": [],
+    "type": "3",
+    "expires": 1533277909,
+    "catalog_file": "catalog.json"
+}
