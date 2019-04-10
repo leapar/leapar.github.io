@@ -48826,15 +48826,15 @@
                 variants: {
                     dxt1: {
                         size: 699192,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/8fce41b7548327666ab93d89447d749a.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/8fce41b7548327666ab93d89447d749a.gtc"
                     },
                     etc_rgb: {
                         size: 699192,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/0ddefb3c9fc22524b9adf646f2a06205.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/0ddefb3c9fc22524b9adf646f2a06205.gtc"
                     },
                     pvrtc1_4_rgb: {
                         size: 699264,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/a5c04d2b28d980e8ada9a0a0ebb090e0.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/a5c04d2b28d980e8ada9a0a0ebb090e0.gtc"
                     }
                 },
                 width: 1024
@@ -48850,15 +48850,15 @@
                 variants: {
                     dxt1: {
                         size: 699192,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/afc8d7bcf6e5e7a810f113c33fca7ea7.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/afc8d7bcf6e5e7a810f113c33fca7ea7.gtc"
                     },
                     etc_rgb: {
                         size: 699192,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/3dd591287bee833ce83ea42369435ec7.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/3dd591287bee833ce83ea42369435ec7.gtc"
                     },
                     pvrtc1_4_rgb: {
                         size: 699264,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/43a9f6f8abef2c7fae7a6c0fac9ef365.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/43a9f6f8abef2c7fae7a6c0fac9ef365.gtc"
                     }
                 },
                 width: 1024
@@ -48874,15 +48874,15 @@
                 variants: {
                     dxt1: {
                         size: 699192,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/8aad3299b5fc0bd94e19bfb004628a08.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/8aad3299b5fc0bd94e19bfb004628a08.gtc"
                     },
                     etc_rgb: {
                         size: 699192,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/664d18a892b656614832441d01408bb4.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/664d18a892b656614832441d01408bb4.gtc"
                     },
                     pvrtc1_4_rgb: {
                         size: 699264,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/c3788eaed7ef0ed36b9a91ffdfa4ed52.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/c3788eaed7ef0ed36b9a91ffdfa4ed52.gtc"
                     }
                 },
                 width: 1024
@@ -48898,15 +48898,15 @@
                 variants: {
                     dxt1: {
                         size: 699192,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/55862157dc2e2aa7f274192d85482b45.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/55862157dc2e2aa7f274192d85482b45.gtc"
                     },
                     etc_rgb: {
                         size: 699192,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/5a6636c25a211f90c7d2ac36297a2243.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/5a6636c25a211f90c7d2ac36297a2243.gtc"
                     },
                     pvrtc1_4_rgb: {
                         size: 699264,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/eba3fe460d657cb2622e9d134acfb028.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/eba3fe460d657cb2622e9d134acfb028.gtc"
                     }
                 },
                 width: 1024
@@ -48922,15 +48922,15 @@
                 variants: {
                     dxt1: {
                         size: 699192,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/834ec41163d33cfba29fdbf03625c02b.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/834ec41163d33cfba29fdbf03625c02b.gtc"
                     },
                     etc_rgb: {
                         size: 699192,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/4ec0aea8cbd8eec17f765bcc4a69e268.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/4ec0aea8cbd8eec17f765bcc4a69e268.gtc"
                     },
                     pvrtc1_4_rgb: {
                         size: 699264,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/d80b7d2cd54fa87bb4fb2624c6ee5177.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/d80b7d2cd54fa87bb4fb2624c6ee5177.gtc"
                     }
                 },
                 width: 1024
@@ -48946,15 +48946,15 @@
                 variants: {
                     dxt1: {
                         size: 699192,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/a6b0c20958bd2261dac378d40c89d7b7.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/a6b0c20958bd2261dac378d40c89d7b7.gtc"
                     },
                     etc_rgb: {
                         size: 699192,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/f4a2b6fa89e17ba696317f1d5108ce64.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/f4a2b6fa89e17ba696317f1d5108ce64.gtc"
                     },
                     pvrtc1_4_rgb: {
                         size: 699264,
-                        url: "demo.jimuyida.com/wey/datas/cubemaps/HDR_03/3265aa1eccd73695ba820244cd7eb51f.gtc"
+                        url: "leapar.github.io/wey/datas/cubemaps/HDR_03/3265aa1eccd73695ba820244cd7eb51f.gtc"
                     }
                 },
                 width: 1024
@@ -48962,7 +48962,7 @@
         },
         thumbnail_url: null,
         uid: "0433a2c6c19a9198c6fa16be3a9f30a27a1b5bc8",
-        url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/0433a2c6c19a9198c6fa16be3a9f30a27a1b5bc8/cubemaps/ec3083dade1878098b07bc30668187de.dds",
+        url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/0433a2c6c19a9198c6fa16be3a9f30a27a1b5bc8/cubemaps/ec3083dade1878098b07bc30668187de.dds",
         used: !1
     }, {
         hash: "914aac84ccbca5c446f1793b50aa5a37",
@@ -48991,7 +48991,7 @@
         },
         thumbnail_url: "",
         uid: "599a8dc00af00e2ce3d1bb59fa774eda922e6675",
-        url: "demo.jimuyida.com/wey/datas/defaults/dds/Helipad.dds",
+        url: "leapar.github.io/wey/datas/defaults/dds/Helipad.dds",
         used: !1
     }, {
         hash: "aa117f7766e9291a504ccedb9b12d5e4",
@@ -49003,43 +49003,43 @@
             back: {
                 hash: "f3251b064c8c837d6cd80de3a7caad74",
                 uid: "d567a4f651a0ce5a937efd57b74e9c870770208f",
-                url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/184251b26f20ecd11531cafe87a3b28f69054e55/cubemaps/f3251b064c8c837d6cd80de3a7caad74.png",
+                url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/184251b26f20ecd11531cafe87a3b28f69054e55/cubemaps/f3251b064c8c837d6cd80de3a7caad74.png",
                 used: !0
             },
             bottom: {
                 hash: "9766f698ef610fde988e10578d95d89c",
                 uid: "2c1462ed11a7eb84a363f95f08adfee6115bcd6c",
-                url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/184251b26f20ecd11531cafe87a3b28f69054e55/cubemaps/9766f698ef610fde988e10578d95d89c.png",
+                url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/184251b26f20ecd11531cafe87a3b28f69054e55/cubemaps/9766f698ef610fde988e10578d95d89c.png",
                 used: !0
             },
             front: {
                 hash: "96886665477f5f45af0b15e829edc680",
                 uid: "f8b735f6aeef4439527deae3c2743fa9a51cb0c8",
-                url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/184251b26f20ecd11531cafe87a3b28f69054e55/cubemaps/96886665477f5f45af0b15e829edc680.png",
+                url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/184251b26f20ecd11531cafe87a3b28f69054e55/cubemaps/96886665477f5f45af0b15e829edc680.png",
                 used: !0
             },
             left: {
                 hash: "5e9ca33e1f09ce43d584eb09f747c037",
                 uid: "aa5a5f742838e561b0a0a2e927aa2b8840482c4a",
-                url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/184251b26f20ecd11531cafe87a3b28f69054e55/cubemaps/5e9ca33e1f09ce43d584eb09f747c037.png",
+                url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/184251b26f20ecd11531cafe87a3b28f69054e55/cubemaps/5e9ca33e1f09ce43d584eb09f747c037.png",
                 used: !0
             },
             right: {
                 hash: "326374df6759fff7249603456a3e41df",
                 uid: "836bec2ee0b835f4336d64b7ba3c80c312bc7577",
-                url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/184251b26f20ecd11531cafe87a3b28f69054e55/cubemaps/326374df6759fff7249603456a3e41df.png",
+                url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/184251b26f20ecd11531cafe87a3b28f69054e55/cubemaps/326374df6759fff7249603456a3e41df.png",
                 used: !0
             },
             top: {
                 hash: "274e31553408a325483a1ce1ba8462e7",
                 uid: "534613444d1f4c1aeb1be50da75b747b221f23b0",
-                url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/184251b26f20ecd11531cafe87a3b28f69054e55/cubemaps/274e31553408a325483a1ce1ba8462e7.png",
+                url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/184251b26f20ecd11531cafe87a3b28f69054e55/cubemaps/274e31553408a325483a1ce1ba8462e7.png",
                 used: !0
             }
         },
-        thumbnail_url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/4ca6583062661f40f16aad364bbc8d2699cb4933/thumbnails/e430a44c9f346e9536c4c69328bbfa63.png",
+        thumbnail_url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/4ca6583062661f40f16aad364bbc8d2699cb4933/thumbnails/e430a44c9f346e9536c4c69328bbfa63.png",
         uid: "4ca6583062661f40f16aad364bbc8d2699cb4933",
-        url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/4ca6583062661f40f16aad364bbc8d2699cb4933/cubemaps/aa117f7766e9291a504ccedb9b12d5e4.dds",
+        url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/4ca6583062661f40f16aad364bbc8d2699cb4933/cubemaps/aa117f7766e9291a504ccedb9b12d5e4.dds",
         used: !1
     }];
     e.default = s
@@ -57638,7 +57638,7 @@
                                 i.e(1).then(i.t.bind(null, 408, 7));
                             case 7:
                                 return m = c.sent,
-                                g = new RegExp("demo.jimuyida.com/wey/datas","g"),
+                                g = new RegExp("leapar.github.io/wey/datas","g"),
                                 n = this.query.uid || "003e0695fbfa6f4c6192a16fbdc587d3d6b14778",
                                 c.next = 12,
                                 (0,
@@ -57673,8 +57673,8 @@
                             case 27:
                                 return o = m.default[0].images,
                                 e.genSign = v,
-                                (r = JSON.parse(JSON.stringify(a).replace(g, "demo.jimuyida.com/wey/datas"))).panoramas = [],
-                                r.scene = JSON.parse(JSON.stringify(d).replace(g, "demo.jimuyida.com/wey/datas")),
+                                (r = JSON.parse(JSON.stringify(a).replace(g, "leapar.github.io/wey/datas"))).panoramas = [],
+                                r.scene = JSON.parse(JSON.stringify(d).replace(g, "leapar.github.io/wey/datas")),
                                 r.entryMode = this.query.entryMode,
                                 h = [{
                                     name: "lunzi2",
@@ -67088,7 +67088,7 @@
                             case 10:
                                 return l = z.sent,
                                 b = l.data,
-                                d && (b = JSON.parse(JSON.stringify(b).replace(new RegExp("demo.jimuyida.com/wey/datas","g"), "demo.jimuyida.com/wey/datas"))),
+                                d && (b = JSON.parse(JSON.stringify(b).replace(new RegExp("leapar.github.io/wey/datas","g"), "leapar.github.io/wey/datas"))),
                                 void 0 !== b.cubemaps && b.cubemaps.forEach(function(t) {
                                     return f.app.scenes.add(new a.default(f.app,t))
                                 }),
@@ -68031,7 +68031,7 @@
                 name: "p02_S.gc",
                 size: 742,
                 uid: "12124200",
-                url: "demo.jimuyida.com/wey/datas/demo/demoviewer/models/p02_S.gc",
+                url: "leapar.github.io/wey/datas/demo/demoviewer/models/p02_S.gc",
                 used: !0
             },
             transforms: {
@@ -68044,7 +68044,7 @@
             mipmaps: !0,
             name: "ma-MAG_8663_FN_0418.jpg",
             uid: "7d514f18d0e48836b2c8df7b76aef7f3c2f0215d",
-            url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/e02f711a00c853e1bfeb552f0623f8155fb7d5a3/c85bc8a48258bb1194c25ffad4ff036c609978f8/textures/a32c3cf6eb2bc8f4d8feac9da37872ab.jpg",
+            url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/e02f711a00c853e1bfeb552f0623f8155fb7d5a3/c85bc8a48258bb1194c25ffad4ff036c609978f8/textures/a32c3cf6eb2bc8f4d8feac9da37872ab.jpg",
             used: !0,
             variants: {
                 astc: {
@@ -68053,7 +68053,7 @@
                 },
                 dxt1: {
                     size: 5592552,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/e02f711a00c853e1bfeb552f0623f8155fb7d5a3/c85bc8a48258bb1194c25ffad4ff036c609978f8/textures/a70298a50a55c202f79d3b78443a2eba.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/e02f711a00c853e1bfeb552f0623f8155fb7d5a3/c85bc8a48258bb1194c25ffad4ff036c609978f8/textures/a70298a50a55c202f79d3b78443a2eba.gtc"
                 },
                 dxt5: {
                     size: 0,
@@ -68065,11 +68065,11 @@
                 },
                 etc_rgb: {
                     size: 5592552,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/e02f711a00c853e1bfeb552f0623f8155fb7d5a3/c85bc8a48258bb1194c25ffad4ff036c609978f8/textures/77ef37c55870c4dfad4f13dbeef3b721.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/e02f711a00c853e1bfeb552f0623f8155fb7d5a3/c85bc8a48258bb1194c25ffad4ff036c609978f8/textures/77ef37c55870c4dfad4f13dbeef3b721.gtc"
                 },
                 pvrtc1_4_rgb: {
                     size: 11185024,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/e02f711a00c853e1bfeb552f0623f8155fb7d5a3/c85bc8a48258bb1194c25ffad4ff036c609978f8/textures/439b3257954a81cd5ccb16601bc799d4.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/e02f711a00c853e1bfeb552f0623f8155fb7d5a3/c85bc8a48258bb1194c25ffad4ff036c609978f8/textures/439b3257954a81cd5ccb16601bc799d4.gtc"
                 },
                 pvrtc1_4_rgba: {
                     size: 0,
@@ -68194,7 +68194,7 @@
                 name: "p02_G.gc",
                 size: 742,
                 uid: "12124174",
-                url: "demo.jimuyida.com/wey/datas/demo/demoviewer/models/p02_G.gc",
+                url: "leapar.github.io/wey/datas/demo/demoviewer/models/p02_G.gc",
                 used: !0
             },
             transforms: {
@@ -68207,7 +68207,7 @@
             mipmaps: !0,
             name: "07d42eb1d55b1fc0ddfdc5556c9eeac9.jpg",
             uid: "383d98e7fed4c6e291c58ae3534740758cc9d124",
-            url: "demo.jimuyida.com/wey/datas/demo/demoviewer/textures/lADPBbCc1gZUjLrNCADNCAA_2048_2048.jpg",
+            url: "leapar.github.io/wey/datas/demo/demoviewer/textures/lADPBbCc1gZUjLrNCADNCAA_2048_2048.jpg",
             used: !0,
             variants: {
                 astc: {
@@ -68216,7 +68216,7 @@
                 },
                 dxt1: {
                     size: 2796344,
-                    url: "demo.jimuyida.com/wey/datas/demo/demoviewer/textures/57cfd515d498a5ebec38cd46bfba88c3.gtc"
+                    url: "leapar.github.io/wey/datas/demo/demoviewer/textures/57cfd515d498a5ebec38cd46bfba88c3.gtc"
                 },
                 dxt5: {
                     size: 0,
@@ -68228,11 +68228,11 @@
                 },
                 etc_rgb: {
                     size: 2796344,
-                    url: "demo.jimuyida.com/wey/datas/demo/demoviewer/textures/53162654960865df615a45f97db89660.gtc"
+                    url: "leapar.github.io/wey/datas/demo/demoviewer/textures/53162654960865df615a45f97db89660.gtc"
                 },
                 pvrtc1_4_rgb: {
                     size: 2796416,
-                    url: "demo.jimuyida.com/wey/datas/demo/demoviewer/textures/808737a98c0a7d2c8df0213b4e0db3fc.gtc"
+                    url: "leapar.github.io/wey/datas/demo/demoviewer/textures/808737a98c0a7d2c8df0213b4e0db3fc.gtc"
                 },
                 pvrtc1_4_rgba: {
                     size: 0,
@@ -68357,7 +68357,7 @@
                 name: "p02_SIGN.gc",
                 size: 1518,
                 uid: "12124313",
-                url: "demo.jimuyida.com/wey/datas/demo/demoviewer/models/p02_SIGN.gc",
+                url: "leapar.github.io/wey/datas/demo/demoviewer/models/p02_SIGN.gc",
                 used: !0
             },
             transforms: {
@@ -68370,19 +68370,19 @@
             mipmaps: !0,
             name: "sign.jpg",
             uid: "bd671797d5264ac1b9fd20b45855e9644a9a755e",
-            url: "demo.jimuyida.com/wey/datas/demo/demoviewer/textures/lADPBbCc1ggUpKvNBADNAgA_512_1024.jpg",
+            url: "leapar.github.io/wey/datas/demo/demoviewer/textures/lADPBbCc1ggUpKvNBADNAgA_512_1024.jpg",
             used: !0,
             variants: {
                 etc_rgb: {
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/8014ee81975723657f675331e305fb8c72ab4144/8deffd9614c237168c0c2f21078e152fa24eeba8/textures/684752404f8a8b959517d40661de5fca.gtc",
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/8014ee81975723657f675331e305fb8c72ab4144/8deffd9614c237168c0c2f21078e152fa24eeba8/textures/684752404f8a8b959517d40661de5fca.gtc",
                     size: 349672
                 },
                 dxt1: {
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/8014ee81975723657f675331e305fb8c72ab4144/8deffd9614c237168c0c2f21078e152fa24eeba8/textures/ac36c8db60629c724a63f5ad0d233ef2.gtc",
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/8014ee81975723657f675331e305fb8c72ab4144/8deffd9614c237168c0c2f21078e152fa24eeba8/textures/ac36c8db60629c724a63f5ad0d233ef2.gtc",
                     size: 349672
                 },
                 pvrtc1_4_rgb: {
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/8014ee81975723657f675331e305fb8c72ab4144/8deffd9614c237168c0c2f21078e152fa24eeba8/textures/4bd404190a415d3a6f1010f6ae8dca6c.gtc",
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/8014ee81975723657f675331e305fb8c72ab4144/8deffd9614c237168c0c2f21078e152fa24eeba8/textures/4bd404190a415d3a6f1010f6ae8dca6c.gtc",
                     size: 699264
                 }
             },
@@ -68531,27 +68531,27 @@
                     used: !0,
                     hash: "52e56f547054460cd26617b67d3a6768",
                     uid: "01deab6af0a51ec1daee14970d6006ba4e68f1dd",
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/right.png",
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/right.png",
                     width: 256,
                     variants: {
                         pvrtc1_4_rgba: {
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/c88060d60998bd0b77f50c57be4ee169.gtc",
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/c88060d60998bd0b77f50c57be4ee169.gtc",
                             size: 43904
                         },
                         dxt5: {
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/ef52cbe16f952847f6baf7eda7bc9671.gtc",
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/ef52cbe16f952847f6baf7eda7bc9671.gtc",
                             size: 87536
                         },
                         astc: {
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/48ad00d93f26c8261bdaf44510a0cd54.gtc",
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/48ad00d93f26c8261bdaf44510a0cd54.gtc",
                             size: 87556
                         },
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/e68a4312bf7088267f25ec2be3703fd5.gtc",
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/e68a4312bf7088267f25ec2be3703fd5.gtc",
                             size: 43832
                         },
                         etc_a: {
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/d3fba69e00b1dea61c1a7decee0c0318.gtc",
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/d3fba69e00b1dea61c1a7decee0c0318.gtc",
                             size: 43832
                         }
                     },
@@ -68563,28 +68563,28 @@
                     hash: "c0744f1ab0bcea1004f234650eebd109",
                     uid: "ecba2eb002e5174e6acd0c95305e906d115ebf1b",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/bottom.png",
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/bottom.png",
                     width: 256,
                     variants: {
                         astc: {
                             size: 87556,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/1d7122419e41e9863149ef4b0756a381.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/1d7122419e41e9863149ef4b0756a381.gtc"
                         },
                         dxt5: {
                             size: 87536,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/bdbc9cd84f989e6a7e6dfe125a4aa5b2.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/bdbc9cd84f989e6a7e6dfe125a4aa5b2.gtc"
                         },
                         etc_a: {
                             size: 43832,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/350f1fca91993afc2b78c5dd484810c4.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/350f1fca91993afc2b78c5dd484810c4.gtc"
                         },
                         etc_rgb: {
                             size: 43832,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/4bfe68adb565a99980b69fa43ff60c73.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/4bfe68adb565a99980b69fa43ff60c73.gtc"
                         },
                         pvrtc1_4_rgba: {
                             size: 43904,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/3c1a38fb37ecc51959fcb76b500a93a4.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/3c1a38fb37ecc51959fcb76b500a93a4.gtc"
                         }
                     },
                     name: "bottom.png",
@@ -68592,28 +68592,28 @@
                 },
                 top: {
                     uid: "5d5b5ac6174f21dde74e253729058247717f550a",
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/top.png",
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/top.png",
                     width: 256,
                     variants: {
                         astc: {
                             size: 87556,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/6243d8a82a149d8cf248ea8119baaed0.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/6243d8a82a149d8cf248ea8119baaed0.gtc"
                         },
                         dxt5: {
                             size: 87536,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/a82c818f9b8ab19d1e8ae4ad874fd309.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/a82c818f9b8ab19d1e8ae4ad874fd309.gtc"
                         },
                         etc_a: {
                             size: 43832,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/44f9c112ef2843dba3eff31cc7aec670.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/44f9c112ef2843dba3eff31cc7aec670.gtc"
                         },
                         etc_rgb: {
                             size: 43832,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/94103a08510054b26c6bbba0908e34ac.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/94103a08510054b26c6bbba0908e34ac.gtc"
                         },
                         pvrtc1_4_rgba: {
                             size: 43904,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/fc1c2e1c81ea61e989b3907e0597f7ee.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/fc1c2e1c81ea61e989b3907e0597f7ee.gtc"
                         }
                     },
                     name: "top.png",
@@ -68624,28 +68624,28 @@
                     hash: "abe56d92a24a54ba8650c9583416c4e9",
                     uid: "31d738c1b95fa7d7ef37af7ce5719e994bc9c35c",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/back.png",
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/back.png",
                     width: 256,
                     variants: {
                         astc: {
                             size: 87556,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/8b8d79a4102e5314b1b50dffc48ebd9e.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/8b8d79a4102e5314b1b50dffc48ebd9e.gtc"
                         },
                         dxt5: {
                             size: 87536,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/bf575e0c456312df2f67766bb16ce8d0.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/bf575e0c456312df2f67766bb16ce8d0.gtc"
                         },
                         etc_a: {
                             size: 43832,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/a8985d866bfd314eba36ae3adacb822f.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/a8985d866bfd314eba36ae3adacb822f.gtc"
                         },
                         etc_rgb: {
                             size: 43832,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/56817a7f94a04081cd3dc4150d04ee60.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/56817a7f94a04081cd3dc4150d04ee60.gtc"
                         },
                         pvrtc1_4_rgba: {
                             size: 43904,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/61208051ee943ab748625399d55ef0d0.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/61208051ee943ab748625399d55ef0d0.gtc"
                         }
                     },
                     name: "back.png",
@@ -68655,28 +68655,28 @@
                     used: !0,
                     hash: "b06710b0475a6b73f95757c29e9cc511",
                     uid: "9a76600e4d89cee44cd2a2d88e19d5b5297d7f13",
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/front.png",
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/front.png",
                     width: 256,
                     variants: {
                         astc: {
                             size: 87556,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/9a5540dedd34d319154ba7fbe573bc76.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/9a5540dedd34d319154ba7fbe573bc76.gtc"
                         },
                         dxt5: {
                             size: 87536,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/3a319d46799e454242c665697720e9ca.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/3a319d46799e454242c665697720e9ca.gtc"
                         },
                         etc_a: {
                             size: 43832,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/88296c6c1f32759227f15d91a4cb767c.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/88296c6c1f32759227f15d91a4cb767c.gtc"
                         },
                         etc_rgb: {
                             size: 43832,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/3c26e31e7d93c8ddece96882918bb165.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/3c26e31e7d93c8ddece96882918bb165.gtc"
                         },
                         pvrtc1_4_rgba: {
                             size: 43904,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/fbc4ddafba215464a30dfbcb2e81b893.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/fbc4ddafba215464a30dfbcb2e81b893.gtc"
                         }
                     },
                     name: "front.png",
@@ -68686,28 +68686,28 @@
                     used: !0,
                     hash: "39d2026870bc55d0b3f7250d15697928",
                     uid: "d39b964af60cfc2aa608954edee1e58e32eb6102",
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/left.png",
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/left.png",
                     width: 256,
                     variants: {
                         astc: {
                             size: 87556,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/a5345f4d11929c4a056703bcaaa65964.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/a5345f4d11929c4a056703bcaaa65964.gtc"
                         },
                         dxt5: {
                             size: 87536,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/59f590b551c4af61d8688ba7ac830478.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/59f590b551c4af61d8688ba7ac830478.gtc"
                         },
                         etc_a: {
                             size: 43832,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/06a950757fe3941372c8724991a36547.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/06a950757fe3941372c8724991a36547.gtc"
                         },
                         etc_rgb: {
                             size: 43832,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/e480a952f0d2a15d58696a5097d660cc.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/e480a952f0d2a15d58696a5097d660cc.gtc"
                         },
                         pvrtc1_4_rgba: {
                             size: 43904,
-                            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/67b276e1f36c7e555a892656196bf5bf.gtc"
+                            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/67b276e1f36c7e555a892656196bf5bf.gtc"
                         }
                     },
                     name: "left.png",
@@ -68718,7 +68718,7 @@
             hash: "8c7fa44b28fb09f40a5e0b924e59faea",
             uid: "dc8ca6a905b1a641daa643d6c2cc20e492dd98e0",
             tags: [],
-            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/cubemap/cubemap.dds",
+            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/cubemap/cubemap.dds",
             thumbnail_url: null,
             rgbm: !1,
             name: "高楼大厦"
@@ -68729,7 +68729,7 @@
                 mapping: ["5ba21069efa4d2317ae4834643ec906a", "29d8119fd0e8c9d8268e37c543c34364"],
                 name: "半圆",
                 uid: "40d223dd0415b616c9d2e2df34082e3d1493dff7",
-                url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/models/model.gc",
+                url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/models/model.gc",
                 used: !0
             }
         },
@@ -68779,19 +68779,19 @@
             height: 512,
             name: "dcc61c584b38ed70374a93b90d1326b8.jpg",
             uid: "dcc61c584b38ed70374a93b90d1326b8",
-            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/dcc61c584b38ed70374a93b90d1326b8.jpg",
+            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/dcc61c584b38ed70374a93b90d1326b8.jpg",
             variants: {
                 dxt1: {
                     size: 1398280,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/cd876e39c6bf382b60ecc377f3bbbcdf.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/cd876e39c6bf382b60ecc377f3bbbcdf.gtc"
                 },
                 etc_rgb: {
                     size: 1398280,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/1c02f09717b581871034f3904b9e565d.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/1c02f09717b581871034f3904b9e565d.gtc"
                 },
                 pvrtc1_4_rgb: {
                     size: 11185024,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/a14b6dacaf18c1d3cc4387bcc6f422e1.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/a14b6dacaf18c1d3cc4387bcc6f422e1.gtc"
                 }
             },
             width: 4096,
@@ -68800,19 +68800,19 @@
             uid: "24813dc8f9493274960ef3866df7c718",
             height: 512,
             name: "24813dc8f9493274960ef3866df7c718.jpg",
-            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/24813dc8f9493274960ef3866df7c718.jpg",
+            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/24813dc8f9493274960ef3866df7c718.jpg",
             variants: {
                 dxt1: {
                     size: 174904,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/3a400af5e052f58df4399279b00761d5.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/3a400af5e052f58df4399279b00761d5.gtc"
                 },
                 etc_rgb: {
                     size: 174904,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/63fc43f55c15a328c0d40f3f41632513.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/63fc43f55c15a328c0d40f3f41632513.gtc"
                 },
                 pvrtc1_4_rgb: {
                     size: 174976,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/17ebd18213ca256a7bb6957cfef7d864.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/17ebd18213ca256a7bb6957cfef7d864.gtc"
                 }
             },
             width: 512,
@@ -68821,19 +68821,19 @@
             uid: "55e943327193027c01440035f8b1c850",
             height: 512,
             name: "55e943327193027c01440035f8b1c850.jpg",
-            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/55e943327193027c01440035f8b1c850.jpg",
+            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/55e943327193027c01440035f8b1c850.jpg",
             variants: {
                 dxt1: {
                     size: 174904,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/429f52463453d9a4bd15f55afc8e3344.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/429f52463453d9a4bd15f55afc8e3344.gtc"
                 },
                 etc_rgb: {
                     size: 174904,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/ba5f683ca92e806843be26dea3d62268.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/ba5f683ca92e806843be26dea3d62268.gtc"
                 },
                 pvrtc1_4_rgb: {
                     size: 174976,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/a83df889d81c7aee9e0ed7bb100a83dc.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/a83df889d81c7aee9e0ed7bb100a83dc.gtc"
                 }
             },
             width: 512,
@@ -68842,19 +68842,19 @@
             height: 512,
             uid: "a1d9522a798cfb85965c1936fba20373",
             name: "a1d9522a798cfb85965c1936fba20373.jpg",
-            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/a1d9522a798cfb85965c1936fba20373.jpg",
+            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/a1d9522a798cfb85965c1936fba20373.jpg",
             variants: {
                 dxt1: {
                     size: 174904,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/5644139e093731c5e9eee8192f75bf19.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/5644139e093731c5e9eee8192f75bf19.gtc"
                 },
                 etc_rgb: {
                     size: 174904,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/99a6112f0e8065276c7c7ff72cad2802.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/99a6112f0e8065276c7c7ff72cad2802.gtc"
                 },
                 pvrtc1_4_rgb: {
                     size: 174976,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/8d1e1c2fb52f284213697fae671ef206.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/8d1e1c2fb52f284213697fae671ef206.gtc"
                 }
             },
             width: 512,
@@ -68863,19 +68863,19 @@
             uid: "0e0a7ac5a39e2d0e5e8046f39a287345",
             height: 512,
             name: "0e0a7ac5a39e2d0e5e8046f39a287345.jpg",
-            url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/0e0a7ac5a39e2d0e5e8046f39a287345.jpg",
+            url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/0e0a7ac5a39e2d0e5e8046f39a287345.jpg",
             variants: {
                 dxt1: {
                     size: 174904,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/f937b7155b9ca22c365c222d5f8b5d2f.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/f937b7155b9ca22c365c222d5f8b5d2f.gtc"
                 },
                 etc_rgb: {
                     size: 174904,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/970c9db23968cacfae62b0af87c756f5.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/970c9db23968cacfae62b0af87c756f5.gtc"
                 },
                 pvrtc1_4_rgb: {
                     size: 174976,
-                    url: "//demo.jimuyida.com/wey/datas/viewer/assets/buildingscene/textures/b9b02574c15b6df105ef6a6a74a07f8e.gtc"
+                    url: "//leapar.github.io/wey/datas/viewer/assets/buildingscene/textures/b9b02574c15b6df105ef6a6a74a07f8e.gtc"
                 }
             },
             width: 512,
@@ -69042,7 +69042,7 @@
         cubemap: {
             name: "上海",
             uid: "2046fa1694add69fe8a19a4cc73a57d1a087e4e9",
-            url: "demo.jimuyida.com/wey/datas/demo/shanghai/cubemaps/ec3083dade1878098b07bc30668187de.dds",
+            url: "leapar.github.io/wey/datas/demo/shanghai/cubemaps/ec3083dade1878098b07bc30668187de.dds",
             rgbm: !0,
             loadFaces: !1,
             textures: {
@@ -69076,11 +69076,11 @@
             variants_512: {
                 pvrtc1_4_rgb: {
                     size: 174976,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/c8222e445b63193b233ba3b1b8296623.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/c8222e445b63193b233ba3b1b8296623.gtc"
                 },
                 dxt1: {
                     size: 174904,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/7309799c37e624293e77d2aad193f6a7.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/7309799c37e624293e77d2aad193f6a7.gtc"
                 },
                 astc: {
                     size: 0,
@@ -69100,17 +69100,17 @@
                 },
                 etc_rgb: {
                     size: 174904,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/e52bc1689adfbf2b848057110f374a78.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/e52bc1689adfbf2b848057110f374a78.gtc"
                 }
             },
             variants: {
                 pvrtc1_4_rgb: {
                     size: 11185024,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/21cce651913c697ec5ee2c86733f4883.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/21cce651913c697ec5ee2c86733f4883.gtc"
                 },
                 dxt1: {
                     size: 11184952,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/1237e95008d7c52bd067c19949c4af46.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/1237e95008d7c52bd067c19949c4af46.gtc"
                 },
                 astc: {
                     size: 0,
@@ -69130,17 +69130,17 @@
                 },
                 etc_rgb: {
                     size: 11184952,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/07f30674703b6e5a75aca659ac4ce262.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/07f30674703b6e5a75aca659ac4ce262.gtc"
                 }
             },
             variants_1024: {
                 pvrtc1_4_rgb: {
                     size: 699264,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/bbdb1b3227f5eb9c51481f4891b32bfc.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/bbdb1b3227f5eb9c51481f4891b32bfc.gtc"
                 },
                 dxt1: {
                     size: 699192,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/085f298be76ec009a579b8ca56bdebea.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/085f298be76ec009a579b8ca56bdebea.gtc"
                 },
                 astc: {
                     size: 0,
@@ -69160,17 +69160,17 @@
                 },
                 etc_rgb: {
                     size: 699192,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/ef77e3635aa79f672d5d595b96d99270.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/ef77e3635aa79f672d5d595b96d99270.gtc"
                 }
             },
             variants_256: {
                 pvrtc1_4_rgb: {
                     size: 43904,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/3eb4ba267cf3c1c3c90298d8f54e8e90.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/3eb4ba267cf3c1c3c90298d8f54e8e90.gtc"
                 },
                 dxt1: {
                     size: 43832,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/cdb8a9f4bea0b2001533840a08c9fc0e.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/cdb8a9f4bea0b2001533840a08c9fc0e.gtc"
                 },
                 astc: {
                     size: 0,
@@ -69190,7 +69190,7 @@
                 },
                 etc_rgb: {
                     size: 43832,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/a8706ba0680f70e20544b255b3da0992.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/a8706ba0680f70e20544b255b3da0992.gtc"
                 }
             },
             height: 4096,
@@ -69198,11 +69198,11 @@
             variants_2048: {
                 pvrtc1_4_rgb: {
                     size: 2796416,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/93c7069010aefa27097c1eb261fcf3ce.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/93c7069010aefa27097c1eb261fcf3ce.gtc"
                 },
                 dxt1: {
                     size: 2796344,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/29b1a58afa53cdca2ba90cf9f93220e3.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/29b1a58afa53cdca2ba90cf9f93220e3.gtc"
                 },
                 astc: {
                     size: 0,
@@ -69222,10 +69222,10 @@
                 },
                 etc_rgb: {
                     size: 2796344,
-                    url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/52fe916a01731fa84d5e16b224db7285.gtc"
+                    url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/52fe916a01731fa84d5e16b224db7285.gtc"
                 }
             },
-            url: "demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/594db79bf877c2ff5940950df48e782e.jpg",
+            url: "leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/1e4f6530d00fd959481c91b6f1985bce02c0ad05/7b6c551a287be8d1f6c126317f2e0d4408d4d3ad/textures/594db79bf877c2ff5940950df48e782e.jpg",
             flipY: !0,
             uid: "76b53637319cffd360f3d31add47cba28f7c1fbb",
             hash: "594db79bf877c2ff5940950df48e782e",
@@ -69237,7 +69237,7 @@
                 uid: "4f0cfce3d1260a9f4a53be385f291daf478c553e",
                 hash: "4f0cfce3d1260a9f4a53be385f291daf478c553e",
                 mapping: ["2b798f28393973a74815e62b21bb4845d873be63"],
-                url: "demo.jimuyida.com/wey/datas/demo/shanghai/models/7ac0ca6e32df49cf684fdf636b3d9086.gc"
+                url: "leapar.github.io/wey/datas/demo/shanghai/models/7ac0ca6e32df49cf684fdf636b3d9086.gc"
             }
         }
     };
@@ -69478,7 +69478,7 @@
             hash: "fcabaacf92f14e5aa022f5629879e47a",
             uid: "12a6a2f5f7b0e4c70880a252d197cb2a9b8cd006",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/fcabaacf92f14e5aa022f5629879e47a.jpg",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/fcabaacf92f14e5aa022f5629879e47a.jpg",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -69513,7 +69513,7 @@
             height: 1024,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0c9c31c84a2f013d1e5018d7a8993f97.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0c9c31c84a2f013d1e5018d7a8993f97.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -69533,11 +69533,11 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/bb452ae72be2bd36f48883cdfe3a395e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/bb452ae72be2bd36f48883cdfe3a395e.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/ebc4a46a5c3459fbc93e0ebad2ff2ec8.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/ebc4a46a5c3459fbc93e0ebad2ff2ec8.gtc",
                     size: 43904
                 }
             },
@@ -69573,7 +69573,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/ee6334c3da424bf12ff3e8517edf957f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/ee6334c3da424bf12ff3e8517edf957f.gtc",
                     size: 699192
                 },
                 etc_a: {
@@ -69593,17 +69593,17 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2312fc1ba853ac3b7c39b72daff7bfb5.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2312fc1ba853ac3b7c39b72daff7bfb5.gtc",
                     size: 699192
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/a1db5e157d9e4524af8b190307f0a7bf.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/a1db5e157d9e4524af8b190307f0a7bf.gtc",
                     size: 699264
                 }
             },
             variants_512: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/45548afc82f0bf42b437ca239acc7bc3.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/45548afc82f0bf42b437ca239acc7bc3.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -69623,11 +69623,11 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/832b7da7093ad807b8a8de1cf2ff62f7.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/832b7da7093ad807b8a8de1cf2ff62f7.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/08be0030f88f3e6a397d82ee3859fc1e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/08be0030f88f3e6a397d82ee3859fc1e.gtc",
                     size: 174976
                 }
             },
@@ -69638,7 +69638,7 @@
             hash: "83bff0839cf1edcbd952e79c9c8d3561",
             uid: "f9183d83459587c490797688ebaf02ab50755a20",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/83bff0839cf1edcbd952e79c9c8d3561.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/83bff0839cf1edcbd952e79c9c8d3561.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -69733,7 +69733,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0fef27c149426d52b21130f2876b888d.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0fef27c149426d52b21130f2876b888d.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -69753,11 +69753,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/54680867be8750426e82032ae34d190e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/54680867be8750426e82032ae34d190e.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/e400d56045c4745a6bb48befa4836438.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/e400d56045c4745a6bb48befa4836438.gtc",
                     size: 174904
                 }
             },
@@ -69798,7 +69798,7 @@
             hash: "36acd34d295a6c75eba150a22c66eeab",
             uid: "857c2ca4b9029b0c10709eae2116c3600e8e053a",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/36acd34d295a6c75eba150a22c66eeab.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/36acd34d295a6c75eba150a22c66eeab.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -69893,23 +69893,23 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/e75773c37fda65df8d8174d5656c22ad.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/e75773c37fda65df8d8174d5656c22ad.gtc",
                     size: 11064
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/28e99d47a77ef5eaf3d28d6bc0a04823.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/28e99d47a77ef5eaf3d28d6bc0a04823.gtc",
                     size: 11064
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/06bbe2aff6b704a1863e0e34bfc8cef7.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/06bbe2aff6b704a1863e0e34bfc8cef7.gtc",
                     size: 11136
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/43a95d7da8c093b0f7f9371cad6d226d.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/43a95d7da8c093b0f7f9371cad6d226d.gtc",
                     size: 22e3
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c5e3909112574c11c2f680cc8edc4dba.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c5e3909112574c11c2f680cc8edc4dba.gtc",
                     size: 22020
                 },
                 pvrtc1_4_rgb: {
@@ -69958,7 +69958,7 @@
             hash: "7b25e31036fa913f5d09cd2a1a39f403",
             uid: "cbfa985939f09abeb885ef3edd9d2248129b20b6",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/7b25e31036fa913f5d09cd2a1a39f403.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/7b25e31036fa913f5d09cd2a1a39f403.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -70053,23 +70053,23 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/98a34cf2e66a63b327982b1156af05c6.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/98a34cf2e66a63b327982b1156af05c6.gtc",
                     size: 174904
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/77604b963f60c737a7517ff1bde623f2.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/77604b963f60c737a7517ff1bde623f2.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/5a0b503d628b2d823388a732f0c359d3.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/5a0b503d628b2d823388a732f0c359d3.gtc",
                     size: 174976
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/86ad9bac2ed60650dc1678b148bc70cc.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/86ad9bac2ed60650dc1678b148bc70cc.gtc",
                     size: 349680
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8ecaa897845d5d437d3ea1ba9b862e12.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8ecaa897845d5d437d3ea1ba9b862e12.gtc",
                     size: 349700
                 },
                 pvrtc1_4_rgb: {
@@ -70118,7 +70118,7 @@
             hash: "d4908298852af7143564721f40be968b",
             uid: "8ba25af0aff1689adcfb95170da6cef05f3662d6",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/d4908298852af7143564721f40be968b.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/d4908298852af7143564721f40be968b.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -70213,7 +70213,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/21647100fb56fd3ee691d1feaf0b16a2.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/21647100fb56fd3ee691d1feaf0b16a2.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -70233,11 +70233,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/fcb96c30dd1dcc7f8869a2d8c73dc3e1.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/fcb96c30dd1dcc7f8869a2d8c73dc3e1.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/4e958e2719ab0f87eff6c5c4dc7b6176.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/4e958e2719ab0f87eff6c5c4dc7b6176.gtc",
                     size: 43832
                 }
             },
@@ -70278,7 +70278,7 @@
             hash: "56cf8c363b26e6a4e1327c5dfdbca423",
             uid: "2d3b151e8c48d00bfd7b9aa988a962af824aa02d",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/56cf8c363b26e6a4e1327c5dfdbca423.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/56cf8c363b26e6a4e1327c5dfdbca423.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -70373,7 +70373,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/03b9c34b98a0d95029c20c183f85b77f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/03b9c34b98a0d95029c20c183f85b77f.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -70393,11 +70393,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/1874b88633befd6c537e7431480033ba.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/1874b88633befd6c537e7431480033ba.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/7777412e3f6de6b5fd833813b9dba413.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/7777412e3f6de6b5fd833813b9dba413.gtc",
                     size: 43832
                 }
             },
@@ -70438,7 +70438,7 @@
             hash: "497131ad1fbc89972da72d3b1e8f0b69",
             uid: "5013796346dff58afecad56905060dd23734a6de",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/497131ad1fbc89972da72d3b1e8f0b69.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/497131ad1fbc89972da72d3b1e8f0b69.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -70533,7 +70533,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/f50778ccbff860b836dd76aeed69fea5.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/f50778ccbff860b836dd76aeed69fea5.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -70553,11 +70553,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2da27db328f5540daadc13a7227c9a90.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2da27db328f5540daadc13a7227c9a90.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c75e363f1f8dc1264ee8dffdf208e123.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c75e363f1f8dc1264ee8dffdf208e123.gtc",
                     size: 43832
                 }
             },
@@ -70598,7 +70598,7 @@
             hash: "c1e0ac659881875377ee33ec69c6fce9",
             uid: "5cb6bc1db6796466d3b7b40f1f6724ef16fe09a6",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c1e0ac659881875377ee33ec69c6fce9.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c1e0ac659881875377ee33ec69c6fce9.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -70633,7 +70633,7 @@
             height: 512,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/b9b9cf95e3ae463ab041bf51d7a2fd03.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/b9b9cf95e3ae463ab041bf51d7a2fd03.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -70653,11 +70653,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/07de1d7c5423f24cd213e74f7fe73bee.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/07de1d7c5423f24cd213e74f7fe73bee.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/1c2b730fb1e5948154c656a5bc261394.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/1c2b730fb1e5948154c656a5bc261394.gtc",
                     size: 43832
                 }
             },
@@ -70693,7 +70693,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/59ecc7c05d346eeb46bc4bacbec3be13.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/59ecc7c05d346eeb46bc4bacbec3be13.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -70713,11 +70713,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/a8905915d66a76722a22f5757a46882f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/a8905915d66a76722a22f5757a46882f.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/80d5896506f811cef45b231b5feb2e74.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/80d5896506f811cef45b231b5feb2e74.gtc",
                     size: 174904
                 }
             },
@@ -70758,7 +70758,7 @@
             hash: "70dc15ca7b82c711cc9fa9a2e1b16b9e",
             uid: "8ac110df78faa24783379646466c4b3c037b7c52",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/70dc15ca7b82c711cc9fa9a2e1b16b9e.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/70dc15ca7b82c711cc9fa9a2e1b16b9e.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -70853,23 +70853,23 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/48be37450f6e521b796c7dab0f2f6d83.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/48be37450f6e521b796c7dab0f2f6d83.gtc",
                     size: 11064
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/28e99d47a77ef5eaf3d28d6bc0a04823.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/28e99d47a77ef5eaf3d28d6bc0a04823.gtc",
                     size: 11064
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/edafadb971f8a89095c70f0fe378f738.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/edafadb971f8a89095c70f0fe378f738.gtc",
                     size: 11136
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/b24ea4974e2ddb28faf9f3b49b221679.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/b24ea4974e2ddb28faf9f3b49b221679.gtc",
                     size: 22e3
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8c8baf002d4e9dab4abe91d155992054.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8c8baf002d4e9dab4abe91d155992054.gtc",
                     size: 22020
                 },
                 pvrtc1_4_rgb: {
@@ -70918,7 +70918,7 @@
             hash: "8affa645f6f9e05515dc998161b3c46d",
             uid: "e04a98064ebf188401835e51f03cc9ee2402a9cc",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8affa645f6f9e05515dc998161b3c46d.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8affa645f6f9e05515dc998161b3c46d.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -71013,7 +71013,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/67c3f6bc7c705512aaf9b99c00f35ff9.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/67c3f6bc7c705512aaf9b99c00f35ff9.gtc",
                     size: 21992
                 },
                 etc_a: {
@@ -71033,11 +71033,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/d9760318d83114cb237b2a871f86d9c5.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/d9760318d83114cb237b2a871f86d9c5.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/3cc859139d30f76fbf68ec54b0cb312c.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/3cc859139d30f76fbf68ec54b0cb312c.gtc",
                     size: 21992
                 }
             },
@@ -71078,7 +71078,7 @@
             hash: "7ccdc443e1766c68d4b6d993bc36cfae",
             uid: "2edf763ab127045582b57b56722354e6890cd85d",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/7ccdc443e1766c68d4b6d993bc36cfae.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/7ccdc443e1766c68d4b6d993bc36cfae.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -71173,7 +71173,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c5e48ca47f63374d8d45564802cd01d3.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c5e48ca47f63374d8d45564802cd01d3.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -71193,11 +71193,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c477294bfd5f1c8c9cb9d26ece26c19c.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c477294bfd5f1c8c9cb9d26ece26c19c.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8d93b960bd69a3ee27de41586103a82c.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8d93b960bd69a3ee27de41586103a82c.gtc",
                     size: 174904
                 }
             },
@@ -71238,7 +71238,7 @@
             hash: "dba4d1d2bcc41029adc66af2599c285b",
             uid: "bfdefd01f804b24f219015acc8a04a1fe9a5e60e",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/dba4d1d2bcc41029adc66af2599c285b.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/dba4d1d2bcc41029adc66af2599c285b.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -71333,7 +71333,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c7b63d02a4cac5c3dcba9fcbb7cac9ea.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c7b63d02a4cac5c3dcba9fcbb7cac9ea.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -71353,11 +71353,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2cac86fc89d916f6bc0fa93a9af1aa47.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2cac86fc89d916f6bc0fa93a9af1aa47.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/7b6a8af1d5043f642e579fd47a59bf47.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/7b6a8af1d5043f642e579fd47a59bf47.gtc",
                     size: 43832
                 }
             },
@@ -71398,7 +71398,7 @@
             hash: "e9717adf478fe9852ae156674916c683",
             uid: "79b8d85b29633c00ace49f700202db799d62d4f0",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/e9717adf478fe9852ae156674916c683.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/e9717adf478fe9852ae156674916c683.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -71493,7 +71493,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/a38e2f060f608a3b37db6578796e1686.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/a38e2f060f608a3b37db6578796e1686.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -71513,11 +71513,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0a2abc3912b42a2d61d7b4a51acc7a69.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0a2abc3912b42a2d61d7b4a51acc7a69.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/a0eeb23c168e8af4f561cb011e66535a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/a0eeb23c168e8af4f561cb011e66535a.gtc",
                     size: 174904
                 }
             },
@@ -71558,7 +71558,7 @@
             hash: "fbdb9ac74ffa132429855e1564b273a5",
             uid: "9703f17c87f16bb73c400e1c974ef612f3b0bb34",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/fbdb9ac74ffa132429855e1564b273a5.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/fbdb9ac74ffa132429855e1564b273a5.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -71593,7 +71593,7 @@
             height: 2048,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/dfc11a22363c6a8f3d1044fef5193ac0.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/dfc11a22363c6a8f3d1044fef5193ac0.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -71613,17 +71613,17 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/56869ff14326b75ee31557e18a66bd80.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/56869ff14326b75ee31557e18a66bd80.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/824612521898b14ef35507dd7058a088.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/824612521898b14ef35507dd7058a088.gtc",
                     size: 43832
                 }
             },
             variants_1024: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/49a77f5d04f0274eafe85eae572e1a70.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/49a77f5d04f0274eafe85eae572e1a70.gtc",
                     size: 699192
                 },
                 etc_a: {
@@ -71643,17 +71643,17 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/003db7557aab8427e6fe119d609e462b.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/003db7557aab8427e6fe119d609e462b.gtc",
                     size: 699264
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/90920ed3154559fdf2ddc2098317d712.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/90920ed3154559fdf2ddc2098317d712.gtc",
                     size: 699192
                 }
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/65a63ec160e8bb39023bce0fc88aed0a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/65a63ec160e8bb39023bce0fc88aed0a.gtc",
                     size: 2796344
                 },
                 etc_a: {
@@ -71673,17 +71673,17 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0cb0cd5c2ee7fe17b0d641932d561f0b.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0cb0cd5c2ee7fe17b0d641932d561f0b.gtc",
                     size: 2796416
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/1dbd5afca031058659130c31a7c05c40.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/1dbd5afca031058659130c31a7c05c40.gtc",
                     size: 2796344
                 }
             },
             variants_512: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/4dd9166e47dbde5c51d370e7ea17a945.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/4dd9166e47dbde5c51d370e7ea17a945.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -71703,11 +71703,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/fee3cea379a0cf4eef772d9d9a9f5b1a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/fee3cea379a0cf4eef772d9d9a9f5b1a.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8b8f55d4cda4c66daf51680517d295d8.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8b8f55d4cda4c66daf51680517d295d8.gtc",
                     size: 174904
                 }
             },
@@ -71718,7 +71718,7 @@
             hash: "fedff2d8be9e40482e1faba4df5d2f63",
             uid: "f34c9d2b2946a2f75ff88d9c491ba16cf87c53a2",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/fedff2d8be9e40482e1faba4df5d2f63.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/fedff2d8be9e40482e1faba4df5d2f63.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -71753,23 +71753,23 @@
             height: 512,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/b37d83f827f33beb0cb8c4d31d814da0.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/b37d83f827f33beb0cb8c4d31d814da0.gtc",
                     size: 43832
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/a188108fa6c3ab5ec9f6f97603cdcb60.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/a188108fa6c3ab5ec9f6f97603cdcb60.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/f5e2bd44320f1a2ec25f7771dca9bcd2.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/f5e2bd44320f1a2ec25f7771dca9bcd2.gtc",
                     size: 43904
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/ea3afb3509a06bdf2597bfa42f8ba781.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/ea3afb3509a06bdf2597bfa42f8ba781.gtc",
                     size: 87536
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/3213c5d30f36b71ed718c83ee3cd6561.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/3213c5d30f36b71ed718c83ee3cd6561.gtc",
                     size: 87556
                 },
                 pvrtc1_4_rgb: {
@@ -71813,23 +71813,23 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/98ecd4bc702f6fcbb651f254c910fc2f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/98ecd4bc702f6fcbb651f254c910fc2f.gtc",
                     size: 174904
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/6d775d25f8eab8768bede112a8f84312.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/6d775d25f8eab8768bede112a8f84312.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0bb93599312dca905426cc7f84433327.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0bb93599312dca905426cc7f84433327.gtc",
                     size: 174976
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/077e47eefb6a5292f69ea529c732872e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/077e47eefb6a5292f69ea529c732872e.gtc",
                     size: 349680
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/3298be56298c89daf198d75dcb11746c.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/3298be56298c89daf198d75dcb11746c.gtc",
                     size: 349700
                 },
                 pvrtc1_4_rgb: {
@@ -71878,7 +71878,7 @@
             hash: "41c3e7409870dad663f4143d0a945f23",
             uid: "bbdecd18d757769ff076feadb09f5da000f06adf",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/41c3e7409870dad663f4143d0a945f23.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/41c3e7409870dad663f4143d0a945f23.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -71973,7 +71973,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/08241105b83d21db38cc8a672ff81f67.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/08241105b83d21db38cc8a672ff81f67.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -71993,11 +71993,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/31fde7f69b698efae99a27b64ffb465c.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/31fde7f69b698efae99a27b64ffb465c.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/03abe3e146c2702843b69f2804d95df4.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/03abe3e146c2702843b69f2804d95df4.gtc",
                     size: 43832
                 }
             },
@@ -72038,7 +72038,7 @@
             hash: "d54df14248332a7136c0564b7affc9aa",
             uid: "4bb69d65de82f3a339856027cdfa142dc20fc83e",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/d54df14248332a7136c0564b7affc9aa.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/d54df14248332a7136c0564b7affc9aa.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -72133,7 +72133,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/39002532368c891f89edb9f1be0766ee.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/39002532368c891f89edb9f1be0766ee.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -72153,11 +72153,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/6115d069431a0c6e05bd8e90378d4951.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/6115d069431a0c6e05bd8e90378d4951.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/727bd7bf3e8945fa379eee3ea782bd97.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/727bd7bf3e8945fa379eee3ea782bd97.gtc",
                     size: 43832
                 }
             },
@@ -72198,7 +72198,7 @@
             hash: "956f3f3691d4ea9f3b5cec32de1ef29a",
             uid: "d4d7c2a66d663420b0e6ada8aa57c3547b58d36f",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/956f3f3691d4ea9f3b5cec32de1ef29a.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/956f3f3691d4ea9f3b5cec32de1ef29a.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -72293,23 +72293,23 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/b683e9a9324e8453f2570ec165ac9a8a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/b683e9a9324e8453f2570ec165ac9a8a.gtc",
                     size: 174904
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/d68e0d3b75db39bc169b049892623ebd.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/d68e0d3b75db39bc169b049892623ebd.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/932fa285ea0ba2349647009e31dfa202.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/932fa285ea0ba2349647009e31dfa202.gtc",
                     size: 174976
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2b4582fe7bc4aadc0a9314a0a9857ef4.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2b4582fe7bc4aadc0a9314a0a9857ef4.gtc",
                     size: 349680
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/6740b704bcf8aaedc9e5af3a42a9dc3f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/6740b704bcf8aaedc9e5af3a42a9dc3f.gtc",
                     size: 349700
                 },
                 pvrtc1_4_rgb: {
@@ -72358,7 +72358,7 @@
             hash: "9cf38d1063eccd62b9ce5866c7452d9c",
             uid: "eab6051c5d86b2e5c24b9f82d1de475b068162f4",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/9cf38d1063eccd62b9ce5866c7452d9c.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/9cf38d1063eccd62b9ce5866c7452d9c.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -72393,7 +72393,7 @@
             height: 1024,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/b23df93918b591b81d1713614cbada39.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/b23df93918b591b81d1713614cbada39.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -72413,11 +72413,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/72539069d1e978c40f4b9d3c790060cc.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/72539069d1e978c40f4b9d3c790060cc.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/889a9d6811b0700024a5ab9dfa161751.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/889a9d6811b0700024a5ab9dfa161751.gtc",
                     size: 43832
                 }
             },
@@ -72453,7 +72453,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/daedde8253fda6fdfdf96c76f5c1aabd.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/daedde8253fda6fdfdf96c76f5c1aabd.gtc",
                     size: 699192
                 },
                 etc_a: {
@@ -72473,17 +72473,17 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/d5eeba7c25b149146037888bf9c3c5e7.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/d5eeba7c25b149146037888bf9c3c5e7.gtc",
                     size: 699264
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/65911e24fad0bdca1eb86e71669b5eab.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/65911e24fad0bdca1eb86e71669b5eab.gtc",
                     size: 699192
                 }
             },
             variants_512: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/87c25d4a8a355c0c78e5c3c9f4ef2dd0.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/87c25d4a8a355c0c78e5c3c9f4ef2dd0.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -72503,11 +72503,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2d02f923f927add8273d49d2cd078d7e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2d02f923f927add8273d49d2cd078d7e.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/787ab0dfe6ea0a1227c51cce8b0bc8d4.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/787ab0dfe6ea0a1227c51cce8b0bc8d4.gtc",
                     size: 174904
                 }
             },
@@ -72518,7 +72518,7 @@
             hash: "bf3de41c711774cd70c82e4c2d280681",
             uid: "7d91b9f738c6979143017bc7156f5e40e8128954",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/bf3de41c711774cd70c82e4c2d280681.jpg",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/bf3de41c711774cd70c82e4c2d280681.jpg",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -72553,7 +72553,7 @@
             height: 512,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c1a8f4a8bf2bf10049fbf1cf7f00c0ad.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/c1a8f4a8bf2bf10049fbf1cf7f00c0ad.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -72573,11 +72573,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0484707b2c771baa44671d4b99811549.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0484707b2c771baa44671d4b99811549.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8e883e3cbb493496726da56712da1cd7.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8e883e3cbb493496726da56712da1cd7.gtc",
                     size: 43832
                 }
             },
@@ -72613,7 +72613,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/860d6ef83b42ef27036f97035811f8f1.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/860d6ef83b42ef27036f97035811f8f1.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -72633,11 +72633,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/4c0a3a81119ca91f2e902742cf60960e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/4c0a3a81119ca91f2e902742cf60960e.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/15e33d12a3bf44a0faf70dc0ff0a1fe9.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/15e33d12a3bf44a0faf70dc0ff0a1fe9.gtc",
                     size: 174904
                 }
             },
@@ -72678,7 +72678,7 @@
             hash: "a58574f7a4c1a96d764c96899f252582",
             uid: "297e8ecec840596597ab2ed03a51e9c63ddc2964",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/a58574f7a4c1a96d764c96899f252582.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/a58574f7a4c1a96d764c96899f252582.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -72773,7 +72773,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/d9c729d967cb512736f1d789f55e09ac.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/d9c729d967cb512736f1d789f55e09ac.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -72793,11 +72793,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/bfa2b4ecbbdf5a6e18fdeab2451757da.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/bfa2b4ecbbdf5a6e18fdeab2451757da.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/fbf7f1667ff14387c7bc506abb760d76.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/fbf7f1667ff14387c7bc506abb760d76.gtc",
                     size: 43832
                 }
             },
@@ -72838,10 +72838,10 @@
             hash: "3f8865af7db4eda953fb96bdd8b0f0fc",
             uid: "edf6b265ef080077da80ddf449c61bd7be5e8118",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/3f8865af7db4eda953fb96bdd8b0f0fc.jpg",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/3f8865af7db4eda953fb96bdd8b0f0fc.jpg",
             variants_2048: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/e411875d07f845fafc56c58839268307.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/e411875d07f845fafc56c58839268307.gtc",
                     size: 2796344
                 },
                 etc_a: {
@@ -72861,11 +72861,11 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/29d48e45ef75058ab63fcdd58db0758e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/29d48e45ef75058ab63fcdd58db0758e.gtc",
                     size: 2796344
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/6be2fdf1e7a599715f43ed1caff4eaf9.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/6be2fdf1e7a599715f43ed1caff4eaf9.gtc",
                     size: 2796416
                 }
             },
@@ -72873,7 +72873,7 @@
             height: 4096,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/ac6f552d010fb05fcc466ae7dab566b2.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/ac6f552d010fb05fcc466ae7dab566b2.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -72893,17 +72893,17 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/e53792985f27546a531eb69154d738f9.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/e53792985f27546a531eb69154d738f9.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/130484ee42b4f825d3274bd183841ba9.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/130484ee42b4f825d3274bd183841ba9.gtc",
                     size: 43904
                 }
             },
             variants_1024: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/665cb84564a8ea83d644ac596c042ffc.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/665cb84564a8ea83d644ac596c042ffc.gtc",
                     size: 699192
                 },
                 etc_a: {
@@ -72923,17 +72923,17 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/898d7a898ded98556b26df46f3533146.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/898d7a898ded98556b26df46f3533146.gtc",
                     size: 699192
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2aa3a332357fb4d127b8ee27d43695a3.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2aa3a332357fb4d127b8ee27d43695a3.gtc",
                     size: 699264
                 }
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8d74b3251fe4525cdc26bd761ac3e6ca.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/8d74b3251fe4525cdc26bd761ac3e6ca.gtc",
                     size: 11184952
                 },
                 etc_a: {
@@ -72953,17 +72953,17 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/ecd6eff6ef5e5da098218c823f980aca.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/ecd6eff6ef5e5da098218c823f980aca.gtc",
                     size: 11184952
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/e11ccde3ffb460a135855aa86b4b27f6.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/e11ccde3ffb460a135855aa86b4b27f6.gtc",
                     size: 11185024
                 }
             },
             variants_512: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/ceff7bb444ff89d965d5766b41e9687a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/ceff7bb444ff89d965d5766b41e9687a.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -72983,11 +72983,11 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2f2cd4b90d9401ede1409552e97f6d06.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/2f2cd4b90d9401ede1409552e97f6d06.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/899706d3d150ae21834cf07925fe81b3.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/899706d3d150ae21834cf07925fe81b3.gtc",
                     size: 174976
                 }
             },
@@ -72998,7 +72998,7 @@
             hash: "7fa6981ca92a1cf3cf47d5db20193793",
             uid: "58ee929eacdcfcaab1350177a5f8e1a5ecbf84c4",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/7fa6981ca92a1cf3cf47d5db20193793.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/7fa6981ca92a1cf3cf47d5db20193793.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -73033,23 +73033,23 @@
             height: 512,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/81608c3a00a083174901163b4a397e7f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/81608c3a00a083174901163b4a397e7f.gtc",
                     size: 43832
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/74bd92c6543badc727d44847bb3b7b80.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/74bd92c6543badc727d44847bb3b7b80.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/66ae6685fb15cbe7d3247eb567ee7b3d.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/66ae6685fb15cbe7d3247eb567ee7b3d.gtc",
                     size: 43904
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/308d73c50412023b4f1c833e7fda318e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/308d73c50412023b4f1c833e7fda318e.gtc",
                     size: 87536
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/6db6dabbdfaf78b07507d5afad626e5f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/6db6dabbdfaf78b07507d5afad626e5f.gtc",
                     size: 87556
                 },
                 pvrtc1_4_rgb: {
@@ -73093,23 +73093,23 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/907428b8acfce38ee1f89a7f76dbd500.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/907428b8acfce38ee1f89a7f76dbd500.gtc",
                     size: 174904
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/30a53065ea32a8aa8dddf6c869d53c3a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/30a53065ea32a8aa8dddf6c869d53c3a.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/7bde5a50ad5bb995e1fdedb855038b2a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/7bde5a50ad5bb995e1fdedb855038b2a.gtc",
                     size: 174976
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/de33f341d0cfe3aeeec7aae0cfed6aee.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/de33f341d0cfe3aeeec7aae0cfed6aee.gtc",
                     size: 349680
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/5f62bc2e248bc161efacfd355e4ad2b1.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/5f62bc2e248bc161efacfd355e4ad2b1.gtc",
                     size: 349700
                 },
                 pvrtc1_4_rgb: {
@@ -73158,7 +73158,7 @@
             hash: "635a4e5f991834d0478c12367572816b",
             uid: "7bb1a3daf43b54f90eb4e2f88b08b672f52f0227",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/635a4e5f991834d0478c12367572816b.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/635a4e5f991834d0478c12367572816b.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -73253,7 +73253,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/9511b74118c1123fce063aeab02a2fbe.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/9511b74118c1123fce063aeab02a2fbe.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -73273,11 +73273,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/1583d8e457207dfd458a3c4c11542521.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/1583d8e457207dfd458a3c4c11542521.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0e48d5848d6d714a2009ed06d388a830.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/05f70705bb5141bab16b59c051106759c8235519/textures/0e48d5848d6d714a2009ed06d388a830.gtc",
                     size: 174904
                 }
             },
@@ -73377,7 +73377,7 @@
             scene: {}
         },
         wireframe: {
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/sources/c84f302e7d9a756e11e552ff7341a555.gc",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/sources/c84f302e7d9a756e11e552ff7341a555.gc",
             color: [255, 255, 255, 1],
             enabled: !1
         },
@@ -74200,7 +74200,7 @@
                 used: !0,
                 hash: "05f70705bb5141bab16b59c051106759c8235519",
                 uid: "05f70705bb5141bab16b59c051106759c8235519",
-                url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/sources/7be902b60bd70c59336da31ed6e8effa.gc",
+                url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/sources/7be902b60bd70c59336da31ed6e8effa.gc",
                 mapping: ["5180440865bd129ee0f07342ea15716833a4d749", "605c6c1ba55df02ebbb0b5bc35f0b07646c9c69b", "deb9611f6f810ae3a11c05c699d8dc6a2d89ced1", "3df553aa9aa02ee631530252ac3e7831bb00535c", "1bbb92138592257d1e996168f924e0ff9521ee54", "baee2c864bcbdf7cc9296e4c7f07c26c51732a2a", "a0a68d9089ea67acaf9b54b3337f6548fc24bd93", "bc15e4ec15abc4b67fdaa8a570b7f24e0fbd7a1a", "6bee370ddd27b3885dc86054d2b9181bbdacccfe", "f5a85a13153d16245b1edee50d6a5a0b54edea84", "0dc5f6e7fcc5a96e1ac4defff3d9ec0c2bd8a625", "30e0a98592a5b263c6bacce7e18ec7ff79b26dd0", "9ac63245b6d2151fb1350c05912d5e1f5b1fc6d2", "a2bbfc2271b756f4fbfdd0ee3a5d10b3130045aa", "73e1418801b01302471d63cb4e0585301ed71bc8", "7a4d03ef0cbbe0173117b5e7f5d40cacfaaa07f1", "4e0e085e7f360241762055387370f67ded08e41f", "4523e2071915d32577c064f8f3b0eafa3798fd84", "8744a559a0a6c208682ac7ee513564a5ef9ae929", "bd9c5326b234c313c9f1914434d91d65640ffbcd", "2ad6a6c082cd784e1d8509c202527c6ef0ceb466", "59e2d9117b3c6acc6c65ec319a53cf4dbbc7cc1e", "6f089eed62a322aaf471ca67542b57ca47bc14fc", "b2536c390498d9f8f36eec43f28e55aff9d20448", "7fa3a4c14f4d841270f79aec8c04373436508068", "75a9040dcfff388818736dd808b8443b3d0cb1bc", "10d35082c2bff137c0cdab9df0656b22bd6daeb9", "ecf88e3030a739b49872705d1602ab27c0fcd916", "866bcfd2c3c8331f8dce24e0ddc8d0832463c01f", "6f1c251e1bb2fee771efc89b6f5e9a6efcc1d455", "b0f4ef14bab5920991bbab99328246476f38e18b", "0d44e2277796aaf3ae70c77b5a9f9ea322147ea2"],
                 name: "[待完成] 汽车场景-黄昏-稍明亮"
             }
@@ -74221,7 +74221,7 @@
                     hash: "bef05e98a202fa37642ba88347fd976e.png",
                     uid: "f0a63a19ae56b6e3e82b2b777bed01bd35622962",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/bef05e98a202fa37642ba88347fd976e.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/bef05e98a202fa37642ba88347fd976e.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74235,7 +74235,7 @@
                     hash: "d53ed5e96c1046f7f327cbf802d22226.png",
                     uid: "df7d0e2f7b5827c4b30b18abc7f6d483a3a500a6",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/d53ed5e96c1046f7f327cbf802d22226.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/d53ed5e96c1046f7f327cbf802d22226.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74249,7 +74249,7 @@
                     hash: "e25b622ceadc0e5d27c640d1ec43a5a7.png",
                     uid: "7cdc0deb4c6888bec46577a2669acb0ab294d663",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/e25b622ceadc0e5d27c640d1ec43a5a7.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/e25b622ceadc0e5d27c640d1ec43a5a7.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74263,7 +74263,7 @@
                     hash: "4d5639459fc0d802b9d6aacac8e300f2.png",
                     uid: "7028adbec7511609a2870443b1496cc3e3caa69a",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/4d5639459fc0d802b9d6aacac8e300f2.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/4d5639459fc0d802b9d6aacac8e300f2.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74277,7 +74277,7 @@
                     hash: "4f2cb338f2225cb936dcb237aaf50c93.png",
                     uid: "2e750b65ebd1612b0f5d0ae1a63b0cfab2a0c585",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/4f2cb338f2225cb936dcb237aaf50c93.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/4f2cb338f2225cb936dcb237aaf50c93.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74291,7 +74291,7 @@
                     hash: "2152282f9e42106d9de1e0423d4dc6d4.png",
                     uid: "cccf36962dd96b45cef68ae110634964743c1427",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/2152282f9e42106d9de1e0423d4dc6d4.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/2152282f9e42106d9de1e0423d4dc6d4.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74306,7 +74306,7 @@
             hash: "0310e9c57d99dbddd3c505b064aab84e",
             uid: "49043123eec65939a7ae2f787342b85f631fbcd3",
             tags: [],
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/0310e9c57d99dbddd3c505b064aab84e.dds",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/49043123eec65939a7ae2f787342b85f631fbcd3/cubemaps/0310e9c57d99dbddd3c505b064aab84e.dds",
             loadFaces: !0,
             thumbnail_url: null,
             rgbm: !1,
@@ -74318,7 +74318,7 @@
                     hash: "7011b4c8d4cc813a9346702c8aa1c06a",
                     uid: "5e2fe5756981d05bc11197ee58996f053d08cb10",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/7011b4c8d4cc813a9346702c8aa1c06a.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/7011b4c8d4cc813a9346702c8aa1c06a.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74332,7 +74332,7 @@
                     hash: "54369f1549ace4c6a1d094abc3343d14",
                     uid: "e5ba8de7d42116924508a4865b25c3c9cef3756e",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/54369f1549ace4c6a1d094abc3343d14.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/54369f1549ace4c6a1d094abc3343d14.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74346,7 +74346,7 @@
                     hash: "b17c34eaa38f1e647063bf9735b53446",
                     uid: "03be45db11cac34abd22f25012fa8a3e440f522b",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/b17c34eaa38f1e647063bf9735b53446.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/b17c34eaa38f1e647063bf9735b53446.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74360,7 +74360,7 @@
                     hash: "37bfd7ba0ba677c1ae10cf691ee5aff8",
                     uid: "05d33feb9e1b7f2b40951af87c4205683ba6bfb0",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/37bfd7ba0ba677c1ae10cf691ee5aff8.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/37bfd7ba0ba677c1ae10cf691ee5aff8.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74374,7 +74374,7 @@
                     hash: "c464535f26a3c0e6dbeee9886baabaa4",
                     uid: "f7adcdb80970e947844133f03c9af277d0917575",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/c464535f26a3c0e6dbeee9886baabaa4.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/c464535f26a3c0e6dbeee9886baabaa4.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74388,7 +74388,7 @@
                     hash: "2f867ef6525fd43bdeb9ebcaa7009ea8",
                     uid: "6802f1c4839c4fabd632669d1b063b538cd13e95",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/2f867ef6525fd43bdeb9ebcaa7009ea8.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/2f867ef6525fd43bdeb9ebcaa7009ea8.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74403,7 +74403,7 @@
             hash: "0c07e94d60bf81dd84c35092d9c243a7",
             uid: "aefe7036e0896db1c5049ecade443fb1fe0b31d4",
             tags: [],
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/0c07e94d60bf81dd84c35092d9c243a7.dds",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/aefe7036e0896db1c5049ecade443fb1fe0b31d4/cubemaps/0c07e94d60bf81dd84c35092d9c243a7.dds",
             loadFaces: !0,
             thumbnail_url: null,
             rgbm: !1,
@@ -74415,7 +74415,7 @@
                     hash: "081a3a31f792674b1e176e4a26e5fa91",
                     uid: "6eb8086a78144936cf04be43fa1e75714b3b36a9",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/081a3a31f792674b1e176e4a26e5fa91.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/081a3a31f792674b1e176e4a26e5fa91.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74429,7 +74429,7 @@
                     hash: "84e8b63b043e3cc21924ef9e584d5100",
                     uid: "9b4f60a8c27a4c26c857318c9c594533ca24b237",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/84e8b63b043e3cc21924ef9e584d5100.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/84e8b63b043e3cc21924ef9e584d5100.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74443,7 +74443,7 @@
                     hash: "ba1fcd1be4c5ca0c89a78dd62f8f7364",
                     uid: "5ca9999861e12b7d1891727d284ae6ebc21dbbbb",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/ba1fcd1be4c5ca0c89a78dd62f8f7364.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/ba1fcd1be4c5ca0c89a78dd62f8f7364.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74457,7 +74457,7 @@
                     hash: "4aed30f175931e7362e031ecb4b97331",
                     uid: "ee549336f0a9d28729e8c2b313bbb9080010c71d",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/4aed30f175931e7362e031ecb4b97331.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/4aed30f175931e7362e031ecb4b97331.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74471,7 +74471,7 @@
                     hash: "2e6b235271103bdaaeacf1f27a881ba1",
                     uid: "705c6658d139ccbbb8e0725fda22e50596679517",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/2e6b235271103bdaaeacf1f27a881ba1.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/2e6b235271103bdaaeacf1f27a881ba1.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74485,7 +74485,7 @@
                     hash: "0ed16cfffb08f2c1d95225621a21b75a",
                     uid: "2850fdd320c04cff75e8c105fe145d2821a68d70",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/0ed16cfffb08f2c1d95225621a21b75a.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/0ed16cfffb08f2c1d95225621a21b75a.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -74500,7 +74500,7 @@
             hash: "f4b74ceaf803e676ac7164360a02836f",
             uid: "5884e13115cfca1f1316e2c026fa75dcd810028b",
             tags: [],
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/f4b74ceaf803e676ac7164360a02836f.dds",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/b7b684715b76ad6a78548cbec4b8264de46114a4/5884e13115cfca1f1316e2c026fa75dcd810028b/cubemaps/f4b74ceaf803e676ac7164360a02836f.dds",
             loadFaces: !0,
             thumbnail_url: null,
             rgbm: !1,
@@ -74561,7 +74561,7 @@
             hash: "956f3f3691d4ea9f3b5cec32de1ef29a",
             uid: "b5e7565bb75a5028804297ca929058d52ac397a5",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/956f3f3691d4ea9f3b5cec32de1ef29a.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/956f3f3691d4ea9f3b5cec32de1ef29a.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -74656,19 +74656,19 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/b683e9a9324e8453f2570ec165ac9a8a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/b683e9a9324e8453f2570ec165ac9a8a.gtc",
                     size: 174904
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/d68e0d3b75db39bc169b049892623ebd.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/d68e0d3b75db39bc169b049892623ebd.gtc",
                     size: 174904
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2b4582fe7bc4aadc0a9314a0a9857ef4.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2b4582fe7bc4aadc0a9314a0a9857ef4.gtc",
                     size: 349680
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/6740b704bcf8aaedc9e5af3a42a9dc3f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/6740b704bcf8aaedc9e5af3a42a9dc3f.gtc",
                     size: 349700
                 },
                 pvrtc1_4_rgb: {
@@ -74680,7 +74680,7 @@
                     size: 0
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/932fa285ea0ba2349647009e31dfa202.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/932fa285ea0ba2349647009e31dfa202.gtc",
                     size: 174976
                 }
             },
@@ -74721,7 +74721,7 @@
             hash: "9cf38d1063eccd62b9ce5866c7452d9c",
             uid: "73930fd281e4ea723106ec01b8d566e5a2cc034e",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/9cf38d1063eccd62b9ce5866c7452d9c.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/9cf38d1063eccd62b9ce5866c7452d9c.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -74756,7 +74756,7 @@
             height: 1024,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/b23df93918b591b81d1713614cbada39.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/b23df93918b591b81d1713614cbada39.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -74772,11 +74772,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/72539069d1e978c40f4b9d3c790060cc.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/72539069d1e978c40f4b9d3c790060cc.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/889a9d6811b0700024a5ab9dfa161751.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/889a9d6811b0700024a5ab9dfa161751.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -74816,7 +74816,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/daedde8253fda6fdfdf96c76f5c1aabd.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/daedde8253fda6fdfdf96c76f5c1aabd.gtc",
                     size: 699192
                 },
                 etc_a: {
@@ -74832,11 +74832,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/d5eeba7c25b149146037888bf9c3c5e7.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/d5eeba7c25b149146037888bf9c3c5e7.gtc",
                     size: 699264
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/65911e24fad0bdca1eb86e71669b5eab.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/65911e24fad0bdca1eb86e71669b5eab.gtc",
                     size: 699192
                 },
                 pvrtc1_4_rgba: {
@@ -74846,7 +74846,7 @@
             },
             variants_512: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/87c25d4a8a355c0c78e5c3c9f4ef2dd0.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/87c25d4a8a355c0c78e5c3c9f4ef2dd0.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -74862,11 +74862,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2d02f923f927add8273d49d2cd078d7e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2d02f923f927add8273d49d2cd078d7e.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/787ab0dfe6ea0a1227c51cce8b0bc8d4.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/787ab0dfe6ea0a1227c51cce8b0bc8d4.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
@@ -74881,7 +74881,7 @@
             hash: "d54df14248332a7136c0564b7affc9aa",
             uid: "269174a67bc575468a195a884f0dd09ceb3a034b",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/d54df14248332a7136c0564b7affc9aa.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/d54df14248332a7136c0564b7affc9aa.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -74976,7 +74976,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/39002532368c891f89edb9f1be0766ee.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/39002532368c891f89edb9f1be0766ee.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -74992,11 +74992,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/6115d069431a0c6e05bd8e90378d4951.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/6115d069431a0c6e05bd8e90378d4951.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/727bd7bf3e8945fa379eee3ea782bd97.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/727bd7bf3e8945fa379eee3ea782bd97.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -75041,7 +75041,7 @@
             hash: "70dc15ca7b82c711cc9fa9a2e1b16b9e",
             uid: "e556af693996226e6d717ed6a4535b87f6d1deaf",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/70dc15ca7b82c711cc9fa9a2e1b16b9e.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/70dc15ca7b82c711cc9fa9a2e1b16b9e.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -75136,19 +75136,19 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/48be37450f6e521b796c7dab0f2f6d83.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/48be37450f6e521b796c7dab0f2f6d83.gtc",
                     size: 11064
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/28e99d47a77ef5eaf3d28d6bc0a04823.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/28e99d47a77ef5eaf3d28d6bc0a04823.gtc",
                     size: 11064
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/b24ea4974e2ddb28faf9f3b49b221679.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/b24ea4974e2ddb28faf9f3b49b221679.gtc",
                     size: 22e3
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8c8baf002d4e9dab4abe91d155992054.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8c8baf002d4e9dab4abe91d155992054.gtc",
                     size: 22020
                 },
                 pvrtc1_4_rgb: {
@@ -75160,7 +75160,7 @@
                     size: 0
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/edafadb971f8a89095c70f0fe378f738.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/edafadb971f8a89095c70f0fe378f738.gtc",
                     size: 11136
                 }
             },
@@ -75201,7 +75201,7 @@
             hash: "fedff2d8be9e40482e1faba4df5d2f63",
             uid: "023adb9e16ccdf4e14682fbec4dc1e5d2e40bbb6",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/fedff2d8be9e40482e1faba4df5d2f63.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/fedff2d8be9e40482e1faba4df5d2f63.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -75236,19 +75236,19 @@
             height: 512,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/b37d83f827f33beb0cb8c4d31d814da0.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/b37d83f827f33beb0cb8c4d31d814da0.gtc",
                     size: 43832
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/a188108fa6c3ab5ec9f6f97603cdcb60.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/a188108fa6c3ab5ec9f6f97603cdcb60.gtc",
                     size: 43832
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/ea3afb3509a06bdf2597bfa42f8ba781.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/ea3afb3509a06bdf2597bfa42f8ba781.gtc",
                     size: 87536
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/3213c5d30f36b71ed718c83ee3cd6561.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/3213c5d30f36b71ed718c83ee3cd6561.gtc",
                     size: 87556
                 },
                 pvrtc1_4_rgb: {
@@ -75260,7 +75260,7 @@
                     size: 0
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/f5e2bd44320f1a2ec25f7771dca9bcd2.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/f5e2bd44320f1a2ec25f7771dca9bcd2.gtc",
                     size: 43904
                 }
             },
@@ -75296,19 +75296,19 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/98ecd4bc702f6fcbb651f254c910fc2f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/98ecd4bc702f6fcbb651f254c910fc2f.gtc",
                     size: 174904
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/6d775d25f8eab8768bede112a8f84312.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/6d775d25f8eab8768bede112a8f84312.gtc",
                     size: 174904
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/077e47eefb6a5292f69ea529c732872e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/077e47eefb6a5292f69ea529c732872e.gtc",
                     size: 349680
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/3298be56298c89daf198d75dcb11746c.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/3298be56298c89daf198d75dcb11746c.gtc",
                     size: 349700
                 },
                 pvrtc1_4_rgb: {
@@ -75320,7 +75320,7 @@
                     size: 0
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0bb93599312dca905426cc7f84433327.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0bb93599312dca905426cc7f84433327.gtc",
                     size: 174976
                 }
             },
@@ -75361,7 +75361,7 @@
             hash: "8affa645f6f9e05515dc998161b3c46d",
             uid: "f1469c124e6dd65118cbf6c581c024724aeba117",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8affa645f6f9e05515dc998161b3c46d.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8affa645f6f9e05515dc998161b3c46d.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -75456,7 +75456,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/67c3f6bc7c705512aaf9b99c00f35ff9.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/67c3f6bc7c705512aaf9b99c00f35ff9.gtc",
                     size: 21992
                 },
                 etc_a: {
@@ -75472,11 +75472,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/d9760318d83114cb237b2a871f86d9c5.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/d9760318d83114cb237b2a871f86d9c5.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/3cc859139d30f76fbf68ec54b0cb312c.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/3cc859139d30f76fbf68ec54b0cb312c.gtc",
                     size: 21992
                 },
                 pvrtc1_4_rgba: {
@@ -75521,7 +75521,7 @@
             hash: "e9717adf478fe9852ae156674916c683",
             uid: "e92468635a098b029079ada1162856fa1e0501e5",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/e9717adf478fe9852ae156674916c683.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/e9717adf478fe9852ae156674916c683.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -75616,7 +75616,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/a38e2f060f608a3b37db6578796e1686.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/a38e2f060f608a3b37db6578796e1686.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -75632,11 +75632,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0a2abc3912b42a2d61d7b4a51acc7a69.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0a2abc3912b42a2d61d7b4a51acc7a69.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/a0eeb23c168e8af4f561cb011e66535a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/a0eeb23c168e8af4f561cb011e66535a.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
@@ -75681,7 +75681,7 @@
             hash: "56cf8c363b26e6a4e1327c5dfdbca423",
             uid: "402565e180d5a3277d22d0e5e1eebb704e6a7f4d",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/56cf8c363b26e6a4e1327c5dfdbca423.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/56cf8c363b26e6a4e1327c5dfdbca423.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -75776,7 +75776,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/03b9c34b98a0d95029c20c183f85b77f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/03b9c34b98a0d95029c20c183f85b77f.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -75792,11 +75792,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/1874b88633befd6c537e7431480033ba.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/1874b88633befd6c537e7431480033ba.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/7777412e3f6de6b5fd833813b9dba413.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/7777412e3f6de6b5fd833813b9dba413.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -75841,7 +75841,7 @@
             hash: "41c3e7409870dad663f4143d0a945f23",
             uid: "d3975028fe800f90e90228d890c3c2383d5abc51",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/41c3e7409870dad663f4143d0a945f23.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/41c3e7409870dad663f4143d0a945f23.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -75936,7 +75936,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/08241105b83d21db38cc8a672ff81f67.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/08241105b83d21db38cc8a672ff81f67.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -75952,11 +75952,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/31fde7f69b698efae99a27b64ffb465c.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/31fde7f69b698efae99a27b64ffb465c.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/03abe3e146c2702843b69f2804d95df4.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/03abe3e146c2702843b69f2804d95df4.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -76001,7 +76001,7 @@
             hash: "635a4e5f991834d0478c12367572816b",
             uid: "2d438cc51ca8117f7bfce952de99a476709082f4",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/635a4e5f991834d0478c12367572816b.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/635a4e5f991834d0478c12367572816b.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -76096,7 +76096,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/9511b74118c1123fce063aeab02a2fbe.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/9511b74118c1123fce063aeab02a2fbe.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -76112,11 +76112,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/1583d8e457207dfd458a3c4c11542521.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/1583d8e457207dfd458a3c4c11542521.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0e48d5848d6d714a2009ed06d388a830.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0e48d5848d6d714a2009ed06d388a830.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
@@ -76161,7 +76161,7 @@
             hash: "a58574f7a4c1a96d764c96899f252582",
             uid: "44fbdff9b697dbc9e0282c1fc5d4b2055e9da1fa",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/a58574f7a4c1a96d764c96899f252582.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/a58574f7a4c1a96d764c96899f252582.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -76256,7 +76256,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/d9c729d967cb512736f1d789f55e09ac.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/d9c729d967cb512736f1d789f55e09ac.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -76272,11 +76272,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/bfa2b4ecbbdf5a6e18fdeab2451757da.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/bfa2b4ecbbdf5a6e18fdeab2451757da.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/fbf7f1667ff14387c7bc506abb760d76.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/fbf7f1667ff14387c7bc506abb760d76.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -76321,7 +76321,7 @@
             hash: "83bff0839cf1edcbd952e79c9c8d3561",
             uid: "1bc464f58b4c927b3081305ab0249ccdb5df9eaf",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/83bff0839cf1edcbd952e79c9c8d3561.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/83bff0839cf1edcbd952e79c9c8d3561.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -76416,7 +76416,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0fef27c149426d52b21130f2876b888d.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0fef27c149426d52b21130f2876b888d.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -76432,11 +76432,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/54680867be8750426e82032ae34d190e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/54680867be8750426e82032ae34d190e.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/e400d56045c4745a6bb48befa4836438.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/e400d56045c4745a6bb48befa4836438.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
@@ -76481,7 +76481,7 @@
             hash: "fbdb9ac74ffa132429855e1564b273a5",
             uid: "d8d27ec56314c42bb75da2a1f43577cf54646a27",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/fbdb9ac74ffa132429855e1564b273a5.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/fbdb9ac74ffa132429855e1564b273a5.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -76516,7 +76516,7 @@
             height: 2048,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/dfc11a22363c6a8f3d1044fef5193ac0.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/dfc11a22363c6a8f3d1044fef5193ac0.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -76532,11 +76532,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/56869ff14326b75ee31557e18a66bd80.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/56869ff14326b75ee31557e18a66bd80.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/824612521898b14ef35507dd7058a088.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/824612521898b14ef35507dd7058a088.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -76546,7 +76546,7 @@
             },
             variants_1024: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/49a77f5d04f0274eafe85eae572e1a70.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/49a77f5d04f0274eafe85eae572e1a70.gtc",
                     size: 699192
                 },
                 etc_a: {
@@ -76562,11 +76562,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/003db7557aab8427e6fe119d609e462b.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/003db7557aab8427e6fe119d609e462b.gtc",
                     size: 699264
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/90920ed3154559fdf2ddc2098317d712.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/90920ed3154559fdf2ddc2098317d712.gtc",
                     size: 699192
                 },
                 pvrtc1_4_rgba: {
@@ -76576,7 +76576,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/65a63ec160e8bb39023bce0fc88aed0a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/65a63ec160e8bb39023bce0fc88aed0a.gtc",
                     size: 2796344
                 },
                 etc_a: {
@@ -76592,11 +76592,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0cb0cd5c2ee7fe17b0d641932d561f0b.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0cb0cd5c2ee7fe17b0d641932d561f0b.gtc",
                     size: 2796416
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/1dbd5afca031058659130c31a7c05c40.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/1dbd5afca031058659130c31a7c05c40.gtc",
                     size: 2796344
                 },
                 pvrtc1_4_rgba: {
@@ -76606,7 +76606,7 @@
             },
             variants_512: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/4dd9166e47dbde5c51d370e7ea17a945.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/4dd9166e47dbde5c51d370e7ea17a945.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -76622,11 +76622,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/fee3cea379a0cf4eef772d9d9a9f5b1a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/fee3cea379a0cf4eef772d9d9a9f5b1a.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8b8f55d4cda4c66daf51680517d295d8.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8b8f55d4cda4c66daf51680517d295d8.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
@@ -76641,7 +76641,7 @@
             hash: "7fa6981ca92a1cf3cf47d5db20193793",
             uid: "98321a96b5614309198a4ef3f9bd4757bd0ff81e",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/7fa6981ca92a1cf3cf47d5db20193793.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/7fa6981ca92a1cf3cf47d5db20193793.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -76676,19 +76676,19 @@
             height: 512,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/81608c3a00a083174901163b4a397e7f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/81608c3a00a083174901163b4a397e7f.gtc",
                     size: 43832
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/74bd92c6543badc727d44847bb3b7b80.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/74bd92c6543badc727d44847bb3b7b80.gtc",
                     size: 43832
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/308d73c50412023b4f1c833e7fda318e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/308d73c50412023b4f1c833e7fda318e.gtc",
                     size: 87536
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/6db6dabbdfaf78b07507d5afad626e5f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/6db6dabbdfaf78b07507d5afad626e5f.gtc",
                     size: 87556
                 },
                 pvrtc1_4_rgb: {
@@ -76700,7 +76700,7 @@
                     size: 0
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/66ae6685fb15cbe7d3247eb567ee7b3d.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/66ae6685fb15cbe7d3247eb567ee7b3d.gtc",
                     size: 43904
                 }
             },
@@ -76736,19 +76736,19 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/907428b8acfce38ee1f89a7f76dbd500.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/907428b8acfce38ee1f89a7f76dbd500.gtc",
                     size: 174904
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/30a53065ea32a8aa8dddf6c869d53c3a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/30a53065ea32a8aa8dddf6c869d53c3a.gtc",
                     size: 174904
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/de33f341d0cfe3aeeec7aae0cfed6aee.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/de33f341d0cfe3aeeec7aae0cfed6aee.gtc",
                     size: 349680
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/5f62bc2e248bc161efacfd355e4ad2b1.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/5f62bc2e248bc161efacfd355e4ad2b1.gtc",
                     size: 349700
                 },
                 pvrtc1_4_rgb: {
@@ -76760,7 +76760,7 @@
                     size: 0
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/7bde5a50ad5bb995e1fdedb855038b2a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/7bde5a50ad5bb995e1fdedb855038b2a.gtc",
                     size: 174976
                 }
             },
@@ -76801,7 +76801,7 @@
             hash: "d4908298852af7143564721f40be968b",
             uid: "1bfeeff5fa6b81868d58f71e8b915444dc99aa1e",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/d4908298852af7143564721f40be968b.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/d4908298852af7143564721f40be968b.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -76896,7 +76896,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/21647100fb56fd3ee691d1feaf0b16a2.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/21647100fb56fd3ee691d1feaf0b16a2.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -76912,11 +76912,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/fcb96c30dd1dcc7f8869a2d8c73dc3e1.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/fcb96c30dd1dcc7f8869a2d8c73dc3e1.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/4e958e2719ab0f87eff6c5c4dc7b6176.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/4e958e2719ab0f87eff6c5c4dc7b6176.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -76961,7 +76961,7 @@
             hash: "36acd34d295a6c75eba150a22c66eeab",
             uid: "c42d291f749c39a3bbd6ddd6c0424a59865873ea",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/36acd34d295a6c75eba150a22c66eeab.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/36acd34d295a6c75eba150a22c66eeab.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -77056,19 +77056,19 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/e75773c37fda65df8d8174d5656c22ad.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/e75773c37fda65df8d8174d5656c22ad.gtc",
                     size: 11064
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/28e99d47a77ef5eaf3d28d6bc0a04823.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/28e99d47a77ef5eaf3d28d6bc0a04823.gtc",
                     size: 11064
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/43a95d7da8c093b0f7f9371cad6d226d.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/43a95d7da8c093b0f7f9371cad6d226d.gtc",
                     size: 22e3
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c5e3909112574c11c2f680cc8edc4dba.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c5e3909112574c11c2f680cc8edc4dba.gtc",
                     size: 22020
                 },
                 pvrtc1_4_rgb: {
@@ -77080,7 +77080,7 @@
                     size: 0
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/06bbe2aff6b704a1863e0e34bfc8cef7.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/06bbe2aff6b704a1863e0e34bfc8cef7.gtc",
                     size: 11136
                 }
             },
@@ -77121,7 +77121,7 @@
             hash: "dba4d1d2bcc41029adc66af2599c285b",
             uid: "eded7fcae7f64ff7dc9c7a383ccbd5b316c4886a",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/dba4d1d2bcc41029adc66af2599c285b.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/dba4d1d2bcc41029adc66af2599c285b.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -77216,7 +77216,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c7b63d02a4cac5c3dcba9fcbb7cac9ea.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c7b63d02a4cac5c3dcba9fcbb7cac9ea.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -77232,11 +77232,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2cac86fc89d916f6bc0fa93a9af1aa47.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2cac86fc89d916f6bc0fa93a9af1aa47.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/7b6a8af1d5043f642e579fd47a59bf47.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/7b6a8af1d5043f642e579fd47a59bf47.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -77281,7 +77281,7 @@
             hash: "c1e0ac659881875377ee33ec69c6fce9",
             uid: "4ee2ee27df508e0c6246aabcaa8860f4a2e9e7e0",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c1e0ac659881875377ee33ec69c6fce9.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c1e0ac659881875377ee33ec69c6fce9.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -77316,7 +77316,7 @@
             height: 512,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/b9b9cf95e3ae463ab041bf51d7a2fd03.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/b9b9cf95e3ae463ab041bf51d7a2fd03.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -77332,11 +77332,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/07de1d7c5423f24cd213e74f7fe73bee.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/07de1d7c5423f24cd213e74f7fe73bee.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/1c2b730fb1e5948154c656a5bc261394.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/1c2b730fb1e5948154c656a5bc261394.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -77376,7 +77376,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/59ecc7c05d346eeb46bc4bacbec3be13.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/59ecc7c05d346eeb46bc4bacbec3be13.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -77392,11 +77392,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/a8905915d66a76722a22f5757a46882f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/a8905915d66a76722a22f5757a46882f.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/80d5896506f811cef45b231b5feb2e74.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/80d5896506f811cef45b231b5feb2e74.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
@@ -77441,7 +77441,7 @@
             hash: "fcabaacf92f14e5aa022f5629879e47a",
             uid: "eb02146a1d8d632c39104b1c5855acfea8511904",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/fcabaacf92f14e5aa022f5629879e47a.jpg",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/fcabaacf92f14e5aa022f5629879e47a.jpg",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -77476,7 +77476,7 @@
             height: 1024,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0c9c31c84a2f013d1e5018d7a8993f97.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0c9c31c84a2f013d1e5018d7a8993f97.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -77492,11 +77492,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/ebc4a46a5c3459fbc93e0ebad2ff2ec8.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/ebc4a46a5c3459fbc93e0ebad2ff2ec8.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/bb452ae72be2bd36f48883cdfe3a395e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/bb452ae72be2bd36f48883cdfe3a395e.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -77536,7 +77536,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/ee6334c3da424bf12ff3e8517edf957f.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/ee6334c3da424bf12ff3e8517edf957f.gtc",
                     size: 699192
                 },
                 etc_a: {
@@ -77552,11 +77552,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/a1db5e157d9e4524af8b190307f0a7bf.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/a1db5e157d9e4524af8b190307f0a7bf.gtc",
                     size: 699264
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2312fc1ba853ac3b7c39b72daff7bfb5.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2312fc1ba853ac3b7c39b72daff7bfb5.gtc",
                     size: 699192
                 },
                 pvrtc1_4_rgba: {
@@ -77566,7 +77566,7 @@
             },
             variants_512: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/45548afc82f0bf42b437ca239acc7bc3.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/45548afc82f0bf42b437ca239acc7bc3.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -77582,11 +77582,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/08be0030f88f3e6a397d82ee3859fc1e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/08be0030f88f3e6a397d82ee3859fc1e.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/832b7da7093ad807b8a8de1cf2ff62f7.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/832b7da7093ad807b8a8de1cf2ff62f7.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
@@ -77601,7 +77601,7 @@
             hash: "7ccdc443e1766c68d4b6d993bc36cfae",
             uid: "305ba9a2b7245c8451da59d0ecfdc285f004b5b0",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/7ccdc443e1766c68d4b6d993bc36cfae.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/7ccdc443e1766c68d4b6d993bc36cfae.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -77696,7 +77696,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c5e48ca47f63374d8d45564802cd01d3.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c5e48ca47f63374d8d45564802cd01d3.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -77712,11 +77712,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c477294bfd5f1c8c9cb9d26ece26c19c.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c477294bfd5f1c8c9cb9d26ece26c19c.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8d93b960bd69a3ee27de41586103a82c.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8d93b960bd69a3ee27de41586103a82c.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
@@ -77761,10 +77761,10 @@
             hash: "3f8865af7db4eda953fb96bdd8b0f0fc",
             uid: "6ac60797accb1d3ba855d7c5548ffbee58069651",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/3f8865af7db4eda953fb96bdd8b0f0fc.jpg",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/3f8865af7db4eda953fb96bdd8b0f0fc.jpg",
             variants_2048: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/e411875d07f845fafc56c58839268307.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/e411875d07f845fafc56c58839268307.gtc",
                     size: 2796344
                 },
                 etc_a: {
@@ -77780,11 +77780,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/6be2fdf1e7a599715f43ed1caff4eaf9.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/6be2fdf1e7a599715f43ed1caff4eaf9.gtc",
                     size: 2796416
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/29d48e45ef75058ab63fcdd58db0758e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/29d48e45ef75058ab63fcdd58db0758e.gtc",
                     size: 2796344
                 },
                 pvrtc1_4_rgba: {
@@ -77796,7 +77796,7 @@
             height: 4096,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/ac6f552d010fb05fcc466ae7dab566b2.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/ac6f552d010fb05fcc466ae7dab566b2.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -77812,11 +77812,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/130484ee42b4f825d3274bd183841ba9.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/130484ee42b4f825d3274bd183841ba9.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/e53792985f27546a531eb69154d738f9.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/e53792985f27546a531eb69154d738f9.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -77826,7 +77826,7 @@
             },
             variants_1024: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/665cb84564a8ea83d644ac596c042ffc.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/665cb84564a8ea83d644ac596c042ffc.gtc",
                     size: 699192
                 },
                 etc_a: {
@@ -77842,11 +77842,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2aa3a332357fb4d127b8ee27d43695a3.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2aa3a332357fb4d127b8ee27d43695a3.gtc",
                     size: 699264
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/898d7a898ded98556b26df46f3533146.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/898d7a898ded98556b26df46f3533146.gtc",
                     size: 699192
                 },
                 pvrtc1_4_rgba: {
@@ -77856,7 +77856,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8d74b3251fe4525cdc26bd761ac3e6ca.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8d74b3251fe4525cdc26bd761ac3e6ca.gtc",
                     size: 11184952
                 },
                 etc_a: {
@@ -77872,11 +77872,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/e11ccde3ffb460a135855aa86b4b27f6.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/e11ccde3ffb460a135855aa86b4b27f6.gtc",
                     size: 11185024
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/ecd6eff6ef5e5da098218c823f980aca.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/ecd6eff6ef5e5da098218c823f980aca.gtc",
                     size: 11184952
                 },
                 pvrtc1_4_rgba: {
@@ -77886,7 +77886,7 @@
             },
             variants_512: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/ceff7bb444ff89d965d5766b41e9687a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/ceff7bb444ff89d965d5766b41e9687a.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -77902,11 +77902,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/899706d3d150ae21834cf07925fe81b3.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/899706d3d150ae21834cf07925fe81b3.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2f2cd4b90d9401ede1409552e97f6d06.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2f2cd4b90d9401ede1409552e97f6d06.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
@@ -77921,7 +77921,7 @@
             hash: "bf3de41c711774cd70c82e4c2d280681",
             uid: "ddcc9872978387471180e7bd2f32a5cf6dc4ca03",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/bf3de41c711774cd70c82e4c2d280681.jpg",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/bf3de41c711774cd70c82e4c2d280681.jpg",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -77956,7 +77956,7 @@
             height: 512,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c1a8f4a8bf2bf10049fbf1cf7f00c0ad.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c1a8f4a8bf2bf10049fbf1cf7f00c0ad.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -77972,11 +77972,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0484707b2c771baa44671d4b99811549.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/0484707b2c771baa44671d4b99811549.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8e883e3cbb493496726da56712da1cd7.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8e883e3cbb493496726da56712da1cd7.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -78016,7 +78016,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/860d6ef83b42ef27036f97035811f8f1.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/860d6ef83b42ef27036f97035811f8f1.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -78032,11 +78032,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/4c0a3a81119ca91f2e902742cf60960e.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/4c0a3a81119ca91f2e902742cf60960e.gtc",
                     size: 174976
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/15e33d12a3bf44a0faf70dc0ff0a1fe9.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/15e33d12a3bf44a0faf70dc0ff0a1fe9.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgba: {
@@ -78081,7 +78081,7 @@
             hash: "7b25e31036fa913f5d09cd2a1a39f403",
             uid: "49e8502378fe1b103d07a7632aae5bc6c239180f",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/7b25e31036fa913f5d09cd2a1a39f403.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/7b25e31036fa913f5d09cd2a1a39f403.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -78176,19 +78176,19 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/98a34cf2e66a63b327982b1156af05c6.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/98a34cf2e66a63b327982b1156af05c6.gtc",
                     size: 174904
                 },
                 etc_a: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/77604b963f60c737a7517ff1bde623f2.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/77604b963f60c737a7517ff1bde623f2.gtc",
                     size: 174904
                 },
                 dxt5: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/86ad9bac2ed60650dc1678b148bc70cc.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/86ad9bac2ed60650dc1678b148bc70cc.gtc",
                     size: 349680
                 },
                 astc: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8ecaa897845d5d437d3ea1ba9b862e12.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/8ecaa897845d5d437d3ea1ba9b862e12.gtc",
                     size: 349700
                 },
                 pvrtc1_4_rgb: {
@@ -78200,7 +78200,7 @@
                     size: 0
                 },
                 pvrtc1_4_rgba: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/5a0b503d628b2d823388a732f0c359d3.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/5a0b503d628b2d823388a732f0c359d3.gtc",
                     size: 174976
                 }
             },
@@ -78241,7 +78241,7 @@
             hash: "497131ad1fbc89972da72d3b1e8f0b69",
             uid: "cbc6754b089aa0dfea45756556e466dfab6e7d27",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/497131ad1fbc89972da72d3b1e8f0b69.png",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/497131ad1fbc89972da72d3b1e8f0b69.png",
             variants_2048: {
                 etc_rgb: {
                     url: "",
@@ -78336,7 +78336,7 @@
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/f50778ccbff860b836dd76aeed69fea5.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/f50778ccbff860b836dd76aeed69fea5.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -78352,11 +78352,11 @@
                     size: 0
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2da27db328f5540daadc13a7227c9a90.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/2da27db328f5540daadc13a7227c9a90.gtc",
                     size: 43904
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c75e363f1f8dc1264ee8dffdf208e123.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/8bf092885b7b8f838497a29d4f616c7d1ce6b0a3/textures/c75e363f1f8dc1264ee8dffdf208e123.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgba: {
@@ -78460,7 +78460,7 @@
             scene: {}
         },
         wireframe: {
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/c84f302e7d9a756e11e552ff7341a555.gc",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/c84f302e7d9a756e11e552ff7341a555.gc",
             color: [255, 255, 255, 1],
             enabled: !1
         },
@@ -79283,7 +79283,7 @@
                 used: !0,
                 hash: "8bf092885b7b8f838497a29d4f616c7d1ce6b0a3",
                 uid: "8bf092885b7b8f838497a29d4f616c7d1ce6b0a3",
-                url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/f6cba428c5b8e8927549349dd79bf31e.gc",
+                url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/f6cba428c5b8e8927549349dd79bf31e.gc",
                 mapping: ["75daeafe96d9f8023927517e5392b5a9ef768ecb", "85aec5fa63793d8596ec35b34b939a74c1ada943", "45412eeaa8d23ef76aad07b60c087f1b9e66ee8a", "02d0575a26ae4bfd24aca0134bf4f0e23dbf9e54", "bfa4da03d3c37669c163187b873c368a0cc5a259", "7f2ce53e785ddc54e69d594e508192118524ceb9", "1d31d4558aa0ea2c7d5eed2fb8dd4084aa83a776", "ac0c9291556913a1d646624c5ec4f0ffd471c7f9", "1ff822d96e948168e2d502607c4e9939562afa2b", "7b1944630c0688a588e6fd35598cca0f18b4441d", "cc95e7cfddeb7749f3ebb2de26e59f37d79733ba", "4f897c81b150df332f9b244a9f1f2bdc2875cda0", "845b2db763ad57e7d9747b897a9a218b18710b74", "949247581d8d14f6899d2b0ff5c839246b5f01a0", "ab6f4bc9d4db17fa8ad9e665820b07c4f68cbf29", "a77ed01488b9b1cea402cef147de1772a5bcd6f2", "17bd4f7dcabbf199bf5e427648019ac43a4c5251", "f0c71db772445fdc14cc6ebacd7813976c60a15e", "6b46243d27ea67ec897e94299c017214752e3ebe", "dfe46deccaad32e923e58de4d9289a3bfe36166c", "8cfb7cad5589dc423f1047382a25ec450c18327e", "c88652b678ec56c3fe7b0ac43484cd0f882357b6", "b816bbadcd3275344507610a3278738ab2ba0b63", "86e8f75f512b80e62189419aa047b4c737b30ec9", "8480dc2aa45accbf81335e842b9c92c8107ba6cf", "4ed8dc889761facedbd786c9f2af2610f65b6506", "1a3c89ed2a4bda01f2c7f3f7c54c42ed2f323a4c", "e823a135b5a590392952fcf53ce453fcc9d9d623", "8ecd80e0db5d1121a250edf851aac5efa2d55117", "8baca5fd09f0d57598b03ebe75298e6b4cd2bbc4", "3f8caf22f68227a58a1669dfcdc37612d58835f1", "4363320729a587fcbedb7d3fc93d0c4388681939"],
                 name: "花生好车定制场景2"
             }
@@ -79304,7 +79304,7 @@
                     hash: "7011b4c8d4cc813a9346702c8aa1c06a",
                     uid: "10cbe672068915f25d32128d349f60c01ac14bde",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/7011b4c8d4cc813a9346702c8aa1c06a.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/7011b4c8d4cc813a9346702c8aa1c06a.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79318,7 +79318,7 @@
                     hash: "54369f1549ace4c6a1d094abc3343d14",
                     uid: "5e397fdf73f8018a95055e05a23e8edde6fdf940",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/54369f1549ace4c6a1d094abc3343d14.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/54369f1549ace4c6a1d094abc3343d14.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79332,7 +79332,7 @@
                     hash: "b17c34eaa38f1e647063bf9735b53446",
                     uid: "935c8a280a796952a2cb0a9118048214bfe81bdb",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/b17c34eaa38f1e647063bf9735b53446.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/b17c34eaa38f1e647063bf9735b53446.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79346,7 +79346,7 @@
                     hash: "37bfd7ba0ba677c1ae10cf691ee5aff8",
                     uid: "726450e7f3dbe3aa5743d28e23c4b8a54f9b9c31",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/37bfd7ba0ba677c1ae10cf691ee5aff8.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/37bfd7ba0ba677c1ae10cf691ee5aff8.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79360,7 +79360,7 @@
                     hash: "c464535f26a3c0e6dbeee9886baabaa4",
                     uid: "d02ec772204418a1f09da5f0579eb176d79f7ca0",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/c464535f26a3c0e6dbeee9886baabaa4.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/c464535f26a3c0e6dbeee9886baabaa4.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79374,7 +79374,7 @@
                     hash: "2f867ef6525fd43bdeb9ebcaa7009ea8",
                     uid: "abd7a2f78b44b04b2aae73b875432165c9df5dde",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/2f867ef6525fd43bdeb9ebcaa7009ea8.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/2f867ef6525fd43bdeb9ebcaa7009ea8.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79389,7 +79389,7 @@
             hash: "0c07e94d60bf81dd84c35092d9c243a7",
             uid: "aca37fea4d8bb7c35ced4a1807c0681e79b16a1e",
             tags: [],
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/0c07e94d60bf81dd84c35092d9c243a7.dds",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/aca37fea4d8bb7c35ced4a1807c0681e79b16a1e/cubemaps/0c07e94d60bf81dd84c35092d9c243a7.dds",
             loadFaces: !0,
             thumbnail_url: null,
             rgbm: !1,
@@ -79401,7 +79401,7 @@
                     hash: "bef05e98a202fa37642ba88347fd976e",
                     uid: "7f286286190cc54376f7eae19160824d7f706727",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/bef05e98a202fa37642ba88347fd976e.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/bef05e98a202fa37642ba88347fd976e.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79415,7 +79415,7 @@
                     hash: "d53ed5e96c1046f7f327cbf802d22226",
                     uid: "47d9de71dc1c65b82cac2e7d9bf3cbbba77bf987",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/d53ed5e96c1046f7f327cbf802d22226.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/d53ed5e96c1046f7f327cbf802d22226.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79429,7 +79429,7 @@
                     hash: "e25b622ceadc0e5d27c640d1ec43a5a7",
                     uid: "320ede36a6de9671bf896a4409aab7ac5c59a084",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/e25b622ceadc0e5d27c640d1ec43a5a7.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/e25b622ceadc0e5d27c640d1ec43a5a7.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79443,7 +79443,7 @@
                     hash: "4d5639459fc0d802b9d6aacac8e300f2",
                     uid: "71c16b1411752aa8894b92eed788bbe63a842a88",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/4d5639459fc0d802b9d6aacac8e300f2.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/4d5639459fc0d802b9d6aacac8e300f2.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79457,7 +79457,7 @@
                     hash: "4f2cb338f2225cb936dcb237aaf50c93",
                     uid: "b4f384aa4ea18e9cee971149dfe3e9101af5e1bb",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/4f2cb338f2225cb936dcb237aaf50c93.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/4f2cb338f2225cb936dcb237aaf50c93.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79471,7 +79471,7 @@
                     hash: "2152282f9e42106d9de1e0423d4dc6d4",
                     uid: "5777f0df49a1f62ab56d3626d4a76e3725b8ee68",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/2152282f9e42106d9de1e0423d4dc6d4.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/2152282f9e42106d9de1e0423d4dc6d4.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79486,7 +79486,7 @@
             hash: "0310e9c57d99dbddd3c505b064aab84e",
             uid: "b9cac8a5b2664a986bd23787e44c274d6f00a873",
             tags: [],
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/0310e9c57d99dbddd3c505b064aab84e.dds",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b9cac8a5b2664a986bd23787e44c274d6f00a873/cubemaps/0310e9c57d99dbddd3c505b064aab84e.dds",
             loadFaces: !0,
             thumbnail_url: null,
             rgbm: !1,
@@ -79498,7 +79498,7 @@
                     hash: "081a3a31f792674b1e176e4a26e5fa91",
                     uid: "122e317691aa77a8d6219ce0cb9609b5102a6c5a",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/081a3a31f792674b1e176e4a26e5fa91.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/081a3a31f792674b1e176e4a26e5fa91.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79512,7 +79512,7 @@
                     hash: "84e8b63b043e3cc21924ef9e584d5100",
                     uid: "0376b16f4efe57b674812f7b2e184086aee87ad8",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/84e8b63b043e3cc21924ef9e584d5100.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/84e8b63b043e3cc21924ef9e584d5100.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79526,7 +79526,7 @@
                     hash: "ba1fcd1be4c5ca0c89a78dd62f8f7364",
                     uid: "2d26c599fbc9b5b014c2b922844a23d6b51e0d77",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/ba1fcd1be4c5ca0c89a78dd62f8f7364.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/ba1fcd1be4c5ca0c89a78dd62f8f7364.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79540,7 +79540,7 @@
                     hash: "4aed30f175931e7362e031ecb4b97331",
                     uid: "98ef7df524715047b6d38235653f995fe9460ee2",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/4aed30f175931e7362e031ecb4b97331.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/4aed30f175931e7362e031ecb4b97331.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79554,7 +79554,7 @@
                     hash: "2e6b235271103bdaaeacf1f27a881ba1",
                     uid: "541499b9d896b51d44a536d0e5bbad80bc38ea96",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/2e6b235271103bdaaeacf1f27a881ba1.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/2e6b235271103bdaaeacf1f27a881ba1.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79568,7 +79568,7 @@
                     hash: "0ed16cfffb08f2c1d95225621a21b75a",
                     uid: "2aaaa3ecfd4cf8da2286ea67e824e3e90b3624e8",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/0ed16cfffb08f2c1d95225621a21b75a.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/0ed16cfffb08f2c1d95225621a21b75a.png",
                     variants_2048: null,
                     height: null,
                     variants_256: null,
@@ -79583,7 +79583,7 @@
             hash: "f4b74ceaf803e676ac7164360a02836f",
             uid: "d30ff41fc722975784fa265131da4d848f682e4d",
             tags: [],
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/f4b74ceaf803e676ac7164360a02836f.dds",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/d30ff41fc722975784fa265131da4d848f682e4d/cubemaps/f4b74ceaf803e676ac7164360a02836f.dds",
             loadFaces: !0,
             thumbnail_url: null,
             rgbm: !1,
@@ -79639,7 +79639,7 @@
     e.default = void 0;
     var s = {
         wireframe: {
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/b07568a9759f42f025dfd85eede66f60.gc",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/b07568a9759f42f025dfd85eede66f60.gc",
             color: [255, 255, 255, 1],
             enabled: !1
         },
@@ -79808,7 +79808,7 @@
                     hash: "e0145ff31a50fefb457e217cad5cb535",
                     uid: "493c90be41423c9b19534a131c2091ac2afa0000",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/e0145ff31a50fefb457e217cad5cb535.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/e0145ff31a50fefb457e217cad5cb535.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -79902,7 +79902,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/fe977fad1da4d9c5dedc00b7b3f1d2e0.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/fe977fad1da4d9c5dedc00b7b3f1d2e0.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -79922,11 +79922,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/415184560a15288d8b46ffa435934eab.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/415184560a15288d8b46ffa435934eab.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/50c13089bd620bc89c43cc4d9117c29a.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/50c13089bd620bc89c43cc4d9117c29a.gtc",
                             size: 174976
                         }
                     },
@@ -79967,7 +79967,7 @@
                     hash: "e0145ff31a50fefb457e217cad5cb535",
                     uid: "493c90be41423c9b19534a131c2091ac2afa0000",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/e0145ff31a50fefb457e217cad5cb535.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/e0145ff31a50fefb457e217cad5cb535.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -80061,7 +80061,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/fe977fad1da4d9c5dedc00b7b3f1d2e0.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/fe977fad1da4d9c5dedc00b7b3f1d2e0.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -80081,11 +80081,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/415184560a15288d8b46ffa435934eab.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/415184560a15288d8b46ffa435934eab.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/50c13089bd620bc89c43cc4d9117c29a.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/50c13089bd620bc89c43cc4d9117c29a.gtc",
                             size: 174976
                         }
                     },
@@ -80126,7 +80126,7 @@
                     hash: "e0145ff31a50fefb457e217cad5cb535",
                     uid: "493c90be41423c9b19534a131c2091ac2afa0000",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/e0145ff31a50fefb457e217cad5cb535.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/e0145ff31a50fefb457e217cad5cb535.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -80220,7 +80220,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/fe977fad1da4d9c5dedc00b7b3f1d2e0.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/fe977fad1da4d9c5dedc00b7b3f1d2e0.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -80240,11 +80240,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/415184560a15288d8b46ffa435934eab.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/415184560a15288d8b46ffa435934eab.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/50c13089bd620bc89c43cc4d9117c29a.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/50c13089bd620bc89c43cc4d9117c29a.gtc",
                             size: 174976
                         }
                     },
@@ -80285,7 +80285,7 @@
                     hash: "e0145ff31a50fefb457e217cad5cb535",
                     uid: "493c90be41423c9b19534a131c2091ac2afa0000",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/e0145ff31a50fefb457e217cad5cb535.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/e0145ff31a50fefb457e217cad5cb535.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -80379,7 +80379,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/fe977fad1da4d9c5dedc00b7b3f1d2e0.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/fe977fad1da4d9c5dedc00b7b3f1d2e0.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -80399,11 +80399,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/415184560a15288d8b46ffa435934eab.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/415184560a15288d8b46ffa435934eab.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/50c13089bd620bc89c43cc4d9117c29a.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/50c13089bd620bc89c43cc4d9117c29a.gtc",
                             size: 174976
                         }
                     },
@@ -80444,7 +80444,7 @@
                     hash: "e0145ff31a50fefb457e217cad5cb535",
                     uid: "493c90be41423c9b19534a131c2091ac2afa0000",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/e0145ff31a50fefb457e217cad5cb535.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/e0145ff31a50fefb457e217cad5cb535.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -80538,7 +80538,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/fe977fad1da4d9c5dedc00b7b3f1d2e0.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/fe977fad1da4d9c5dedc00b7b3f1d2e0.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -80558,11 +80558,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/415184560a15288d8b46ffa435934eab.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/415184560a15288d8b46ffa435934eab.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/50c13089bd620bc89c43cc4d9117c29a.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/50c13089bd620bc89c43cc4d9117c29a.gtc",
                             size: 174976
                         }
                     },
@@ -80603,7 +80603,7 @@
                     hash: "e0145ff31a50fefb457e217cad5cb535",
                     uid: "493c90be41423c9b19534a131c2091ac2afa0000",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/e0145ff31a50fefb457e217cad5cb535.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/e0145ff31a50fefb457e217cad5cb535.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -80697,7 +80697,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/fe977fad1da4d9c5dedc00b7b3f1d2e0.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/fe977fad1da4d9c5dedc00b7b3f1d2e0.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -80717,11 +80717,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/415184560a15288d8b46ffa435934eab.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/415184560a15288d8b46ffa435934eab.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/50c13089bd620bc89c43cc4d9117c29a.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/50c13089bd620bc89c43cc4d9117c29a.gtc",
                             size: 174976
                         }
                     },
@@ -80762,7 +80762,7 @@
             hash: "300c4bcf2909c287dab71c385eff1045",
             uid: "dee651f4364e3d2abe8c5e92012651d2a1768c58",
             tags: [],
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/300c4bcf2909c287dab71c385eff1045.dds",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/263be557ac046acda0ab5272593201c31734bd33/dee651f4364e3d2abe8c5e92012651d2a1768c58/cubemaps/300c4bcf2909c287dab71c385eff1045.dds",
             thumbnail_url: null,
             rgbm: !1,
             name: "666"
@@ -80773,7 +80773,7 @@
                     hash: "f75b279719e78f9afaefa780f131e691",
                     uid: "1c7a3210c5905efb8441bca166fa57f4591f0d70",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/f75b279719e78f9afaefa780f131e691.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/f75b279719e78f9afaefa780f131e691.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -80807,7 +80807,7 @@
                     height: 1024,
                     variants_256: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/011d803efa44b404193e48f3b279d807.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/011d803efa44b404193e48f3b279d807.gtc",
                             size: 43832
                         },
                         etc_a: {
@@ -80827,11 +80827,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/d4c812a09e7fdab2cbc3f476063c800f.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/d4c812a09e7fdab2cbc3f476063c800f.gtc",
                             size: 43832
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/afdbf5227e8570f86fc23fd57cb5be6a.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/afdbf5227e8570f86fc23fd57cb5be6a.gtc",
                             size: 43904
                         }
                     },
@@ -80867,7 +80867,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/698a50bc6980641d29b700a8a4d6926b.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/698a50bc6980641d29b700a8a4d6926b.gtc",
                             size: 699192
                         },
                         etc_a: {
@@ -80887,17 +80887,17 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/aa77feeb136640a9f39c094694806e7a.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/aa77feeb136640a9f39c094694806e7a.gtc",
                             size: 699192
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/feddd63e16b88521bea9d9cdfdb4cc18.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/feddd63e16b88521bea9d9cdfdb4cc18.gtc",
                             size: 699264
                         }
                     },
                     variants_512: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/e8bc18b5ebf6a4ae845a38dadede6880.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/e8bc18b5ebf6a4ae845a38dadede6880.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -80917,11 +80917,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/c8d3d9fcbd5cc6517254aafb180b98ea.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/c8d3d9fcbd5cc6517254aafb180b98ea.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/f5cad35374a8cb0a7c9ee444199434a2.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/f5cad35374a8cb0a7c9ee444199434a2.gtc",
                             size: 174976
                         }
                     },
@@ -80932,7 +80932,7 @@
                     hash: "34c8d393a5cd95cdabeb8e5ceb27b5b9",
                     uid: "af01ef7093d9326cccd5bdb70148ddba5604b93e",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/34c8d393a5cd95cdabeb8e5ceb27b5b9.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/34c8d393a5cd95cdabeb8e5ceb27b5b9.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -80966,7 +80966,7 @@
                     height: 1024,
                     variants_256: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/d5ed2e73babd57cf5143882726f5d3cb.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/d5ed2e73babd57cf5143882726f5d3cb.gtc",
                             size: 43832
                         },
                         etc_a: {
@@ -80986,11 +80986,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/43e2919adc8c4812f01910f73f3a5218.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/43e2919adc8c4812f01910f73f3a5218.gtc",
                             size: 43832
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/d2d44119c42c557c99116dd2a4d4315d.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/d2d44119c42c557c99116dd2a4d4315d.gtc",
                             size: 43904
                         }
                     },
@@ -81026,7 +81026,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/a13b9fe0595666e81de957e85434d879.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/a13b9fe0595666e81de957e85434d879.gtc",
                             size: 699192
                         },
                         etc_a: {
@@ -81046,17 +81046,17 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/2cbc6f384430134c4e765fd911dc6088.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/2cbc6f384430134c4e765fd911dc6088.gtc",
                             size: 699192
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/7e5e3e85e4ca9704aca4fea373201d52.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/7e5e3e85e4ca9704aca4fea373201d52.gtc",
                             size: 699264
                         }
                     },
                     variants_512: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/0eadc750d0c612990a28561d6c08d2d2.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/0eadc750d0c612990a28561d6c08d2d2.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -81076,11 +81076,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/f8004986507e492a685d5320a6d4f170.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/f8004986507e492a685d5320a6d4f170.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/0e8af83603bba641177d0f8ff3793486.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/0e8af83603bba641177d0f8ff3793486.gtc",
                             size: 174976
                         }
                     },
@@ -81091,7 +81091,7 @@
                     hash: "0ae5515b986a191b6ee19dcd4cbd89c0",
                     uid: "983628ccc4f60461934e9da0ecca963f7861fd01",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/0ae5515b986a191b6ee19dcd4cbd89c0.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/0ae5515b986a191b6ee19dcd4cbd89c0.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -81125,7 +81125,7 @@
                     height: 1024,
                     variants_256: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/ec0998855203c3e4b2b5cb8d2db24318.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/ec0998855203c3e4b2b5cb8d2db24318.gtc",
                             size: 43832
                         },
                         etc_a: {
@@ -81145,11 +81145,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/d650978ae9ed103bc17c37c5dec501ed.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/d650978ae9ed103bc17c37c5dec501ed.gtc",
                             size: 43832
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/d7425c7b08708c8453b69f4fdcccb42c.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/d7425c7b08708c8453b69f4fdcccb42c.gtc",
                             size: 43904
                         }
                     },
@@ -81185,7 +81185,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/9e3677588fe9e69497793a90eca8e182.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/9e3677588fe9e69497793a90eca8e182.gtc",
                             size: 699192
                         },
                         etc_a: {
@@ -81205,17 +81205,17 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/8f5aa838c37600b9d000ab2899b4c033.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/8f5aa838c37600b9d000ab2899b4c033.gtc",
                             size: 699192
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/de120ff236268b082ed36f787ae882f6.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/de120ff236268b082ed36f787ae882f6.gtc",
                             size: 699264
                         }
                     },
                     variants_512: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/bfeacda28c2986166e1734f72a602880.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/bfeacda28c2986166e1734f72a602880.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -81235,11 +81235,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/4cdc33fb26d29fa84d45d426a35525aa.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/4cdc33fb26d29fa84d45d426a35525aa.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/43c20b8722231fc4b4763087f3b3e254.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/43c20b8722231fc4b4763087f3b3e254.gtc",
                             size: 174976
                         }
                     },
@@ -81250,7 +81250,7 @@
                     hash: "97bfc82538fa3870eb5d636f4ba14307",
                     uid: "421ea4eed1a32cf0b5dbccc6d109a375f24d4b42",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/97bfc82538fa3870eb5d636f4ba14307.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/97bfc82538fa3870eb5d636f4ba14307.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -81284,7 +81284,7 @@
                     height: 1024,
                     variants_256: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/b0bd46709d3d3da7260493a315b7dbb0.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/b0bd46709d3d3da7260493a315b7dbb0.gtc",
                             size: 43832
                         },
                         etc_a: {
@@ -81304,11 +81304,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/c1e32647c539ee129486fe2c1d6e9adf.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/c1e32647c539ee129486fe2c1d6e9adf.gtc",
                             size: 43832
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/bcf709ae050a1e2e108a036149ec590f.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/bcf709ae050a1e2e108a036149ec590f.gtc",
                             size: 43904
                         }
                     },
@@ -81344,7 +81344,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/c96a0397e2ddf4e224ac840ae549cf95.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/c96a0397e2ddf4e224ac840ae549cf95.gtc",
                             size: 699192
                         },
                         etc_a: {
@@ -81364,17 +81364,17 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/7cc51fa33de44bd8b26eaf9211ec28b6.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/7cc51fa33de44bd8b26eaf9211ec28b6.gtc",
                             size: 699192
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/b961c77ad89a28b8a3fe5c3c9615f922.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/b961c77ad89a28b8a3fe5c3c9615f922.gtc",
                             size: 699264
                         }
                     },
                     variants_512: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/4e33defcfafa9610be06dff4d89b1a5f.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/4e33defcfafa9610be06dff4d89b1a5f.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -81394,11 +81394,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/32714dba94d3c0bfbbde3383df951b42.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/32714dba94d3c0bfbbde3383df951b42.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/55aa23c10264b8524bc0b96f7aa7926c.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/55aa23c10264b8524bc0b96f7aa7926c.gtc",
                             size: 174976
                         }
                     },
@@ -81409,7 +81409,7 @@
                     hash: "a2f3d6e65ba3af965c32f64ed16ac579",
                     uid: "5e8e95008645c2cde07fb83f98875b75b25e649f",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/a2f3d6e65ba3af965c32f64ed16ac579.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/a2f3d6e65ba3af965c32f64ed16ac579.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -81443,7 +81443,7 @@
                     height: 1024,
                     variants_256: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/37e4a58cc083c1699a4782e23a13715d.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/37e4a58cc083c1699a4782e23a13715d.gtc",
                             size: 43832
                         },
                         etc_a: {
@@ -81463,11 +81463,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/da9fb6bcb859bd602b7c14e46eb7dede.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/da9fb6bcb859bd602b7c14e46eb7dede.gtc",
                             size: 43832
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/a781bfc6427cff9c9874c4a34bdec672.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/a781bfc6427cff9c9874c4a34bdec672.gtc",
                             size: 43904
                         }
                     },
@@ -81503,7 +81503,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/20407763609e307e3fcb46867e521b02.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/20407763609e307e3fcb46867e521b02.gtc",
                             size: 699192
                         },
                         etc_a: {
@@ -81523,17 +81523,17 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/be08c880768abb7593f8f660d7a111cb.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/be08c880768abb7593f8f660d7a111cb.gtc",
                             size: 699192
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/d7ae20e7cdb74d2cde352573b615df82.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/d7ae20e7cdb74d2cde352573b615df82.gtc",
                             size: 699264
                         }
                     },
                     variants_512: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/47c3bb433f86bb53bd43f5d4436b93b9.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/47c3bb433f86bb53bd43f5d4436b93b9.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -81553,11 +81553,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/990081b764cb552787ae17fac391155d.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/990081b764cb552787ae17fac391155d.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/7d63e95363f17fe4b259be590f027524.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/7d63e95363f17fe4b259be590f027524.gtc",
                             size: 174976
                         }
                     },
@@ -81568,7 +81568,7 @@
                     hash: "6922c9a114fa7fe2d365f7488b504299",
                     uid: "ae2eadac0912d2d40ae72aece38969e1ec86f3d2",
                     flipY: !1,
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/6922c9a114fa7fe2d365f7488b504299.png",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/6922c9a114fa7fe2d365f7488b504299.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -81602,7 +81602,7 @@
                     height: 1024,
                     variants_256: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/0732522377c52bf2fc6cb6630d48ea59.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/0732522377c52bf2fc6cb6630d48ea59.gtc",
                             size: 43832
                         },
                         etc_a: {
@@ -81622,11 +81622,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/3e30b409d28b73853dc3d82e0104fb19.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/3e30b409d28b73853dc3d82e0104fb19.gtc",
                             size: 43832
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/c2db4336d45b4b54ce227e585b63b420.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/c2db4336d45b4b54ce227e585b63b420.gtc",
                             size: 43904
                         }
                     },
@@ -81662,7 +81662,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/5c9296f840ac771376b3212646bdfeb2.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/5c9296f840ac771376b3212646bdfeb2.gtc",
                             size: 699192
                         },
                         etc_a: {
@@ -81682,17 +81682,17 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/66ebf651e918954b75c858e72bc5bef5.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/66ebf651e918954b75c858e72bc5bef5.gtc",
                             size: 699192
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/7173fa56e0b0e9fe407d08006317c98d.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/7173fa56e0b0e9fe407d08006317c98d.gtc",
                             size: 699264
                         }
                     },
                     variants_512: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/71d1dd00aa058e1f6f8614d1d6479384.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/71d1dd00aa058e1f6f8614d1d6479384.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -81712,11 +81712,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/88a2333c26e1aa597aba92d760d59ee2.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/88a2333c26e1aa597aba92d760d59ee2.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/a476be34afceaf7e65cdf0cfa9002576.gtc",
+                            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/a476be34afceaf7e65cdf0cfa9002576.gtc",
                             size: 174976
                         }
                     },
@@ -81728,7 +81728,7 @@
             hash: "3728c10007310912db533d1dedce6514",
             uid: "ed37cf93c388bc1ef113ce1611ff6b269449a30f",
             tags: [],
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/3728c10007310912db533d1dedce6514.dds",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/ed37cf93c388bc1ef113ce1611ff6b269449a30f/cubemaps/3728c10007310912db533d1dedce6514.dds",
             loadFaces: !0,
             thumbnail_url: null,
             rgbm: !1,
@@ -83557,8 +83557,8 @@
                 url: null,
                 mapping: ["f9c435dc4d9ab7f71c0031a36946558b07df0c80", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "07f1d85d96583edffb8d5dd3eb1bce37ba02e18c", "a3f78955518a51bed50e2346273f9931d3c9cdd8", "07f1d85d96583edffb8d5dd3eb1bce37ba02e18c", "07f1d85d96583edffb8d5dd3eb1bce37ba02e18c", "a3f78955518a51bed50e2346273f9931d3c9cdd8", "07f1d85d96583edffb8d5dd3eb1bce37ba02e18c", "17903d635bc94939411ccba5948430460aebe4d7", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139", "d12141dbdbd2b1553488d45937a8393a553b1cb3", "1657a246924f67d59813cc36897928bbf1b04139"],
                 urls: {
-                    GMC: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/d196c2b282f715cc6289dbe76c931aeb.gmc",
-                    GC: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/768423a890334bcdc74be7552a93febd.gc"
+                    GMC: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/d196c2b282f715cc6289dbe76c931aeb.gmc",
+                    GC: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/768423a890334bcdc74be7552a93febd.gc"
                 },
                 name: "花生好车定制场景3"
             }
@@ -83577,10 +83577,10 @@
             hash: "8cb2e881130c7f835fd49c24f615e8c9",
             uid: "413937fc90add914fd53d150d7b610d56b417a2e",
             flipY: !0,
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/8cb2e881130c7f835fd49c24f615e8c9.jpg",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/8cb2e881130c7f835fd49c24f615e8c9.jpg",
             variants_2048: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/10b69db7d2b9cbfec81984750090a9fc.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/10b69db7d2b9cbfec81984750090a9fc.gtc",
                     size: 2796344
                 },
                 etc_a: {
@@ -83600,11 +83600,11 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/074bde25670356dbba4d0a423e91d494.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/074bde25670356dbba4d0a423e91d494.gtc",
                     size: 2796344
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/3c361a0d14cd54cac06ada1d606e62f2.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/3c361a0d14cd54cac06ada1d606e62f2.gtc",
                     size: 2796416
                 }
             },
@@ -83612,7 +83612,7 @@
             height: 4096,
             variants_256: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/28a20ffe93447cc88199110efbd24c1c.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/28a20ffe93447cc88199110efbd24c1c.gtc",
                     size: 43832
                 },
                 etc_a: {
@@ -83632,17 +83632,17 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/cbbdd50234e7dfe7b5a35a0c3e6f6b8d.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/cbbdd50234e7dfe7b5a35a0c3e6f6b8d.gtc",
                     size: 43832
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/cfd4e080adf534f3ea3219f7de398a9a.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/cfd4e080adf534f3ea3219f7de398a9a.gtc",
                     size: 43904
                 }
             },
             variants_1024: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/2fc5437c9af4c098414678fb89b82353.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/2fc5437c9af4c098414678fb89b82353.gtc",
                     size: 699192
                 },
                 etc_a: {
@@ -83662,17 +83662,17 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/3e52ef581f45c1e291dd71babe03380b.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/3e52ef581f45c1e291dd71babe03380b.gtc",
                     size: 699192
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/74e81b37a26f1b88a2480697b87c5c1b.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/74e81b37a26f1b88a2480697b87c5c1b.gtc",
                     size: 699264
                 }
             },
             variants: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/163d1cb217c00679d1928fb076933098.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/163d1cb217c00679d1928fb076933098.gtc",
                     size: 11184952
                 },
                 etc_a: {
@@ -83692,17 +83692,17 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/50094de70856c947d508297787a9e947.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/50094de70856c947d508297787a9e947.gtc",
                     size: 11184952
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/42d3bfe3849ea5aa4480853da5d2c377.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/42d3bfe3849ea5aa4480853da5d2c377.gtc",
                     size: 11185024
                 }
             },
             variants_512: {
                 etc_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/0f9ada945ec8de24bacf7f2cf03bd223.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/0f9ada945ec8de24bacf7f2cf03bd223.gtc",
                     size: 174904
                 },
                 etc_a: {
@@ -83722,11 +83722,11 @@
                     size: 0
                 },
                 dxt1: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/ab9d92a25338702b3caab6d4f97637c2.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/ab9d92a25338702b3caab6d4f97637c2.gtc",
                     size: 174904
                 },
                 pvrtc1_4_rgb: {
-                    url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/4113b5ec833797f460cec58d7cab8ca1.gtc",
+                    url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/b57c5830ca12e2a6124ef0c86dc28a0b4c64e271/textures/4113b5ec833797f460cec58d7cab8ca1.gtc",
                     size: 174976
                 }
             },
@@ -83796,7 +83796,7 @@
             scene: {}
         },
         wireframe: {
-            url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/a0002f6a06da3e2b5e655b3743073748.gc",
+            url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/a0002f6a06da3e2b5e655b3743073748.gc",
             color: [255, 255, 255, 1],
             enabled: !1
         },
@@ -83807,7 +83807,7 @@
                     hash: "304528ebd39d648f8ffbfbe568fc3936",
                     uid: "f012704ece472e38bd9d951da9f8c277d1b0a18d",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/304528ebd39d648f8ffbfbe568fc3936.png",
+                    url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/304528ebd39d648f8ffbfbe568fc3936.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -83901,7 +83901,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/8e013dffcd15b973dd8d20b73d6ef0e0.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/8e013dffcd15b973dd8d20b73d6ef0e0.gtc",
                             size: 699192
                         },
                         etc_a: {
@@ -83921,17 +83921,17 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/cba7bd7dda3fbc401997a29a637afea0.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/cba7bd7dda3fbc401997a29a637afea0.gtc",
                             size: 699192
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/412393185cda670418ba371267f7088a.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/412393185cda670418ba371267f7088a.gtc",
                             size: 699264
                         }
                     },
                     variants_512: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/4e636e375a389c7f249c07cea42f4c48.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/4e636e375a389c7f249c07cea42f4c48.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -83951,11 +83951,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/326f87283e1a4a0433b46146f63548c7.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/326f87283e1a4a0433b46146f63548c7.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/dbb6418266d5f48b8dd88209ea8329d7.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/dbb6418266d5f48b8dd88209ea8329d7.gtc",
                             size: 174976
                         }
                     },
@@ -83966,7 +83966,7 @@
                     hash: "e31ee445b9d15f9b1e1b7f460ba6a371",
                     uid: "aa97a9346ad910f17fbd54cf7872e3d8f60e5ef7",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/e31ee445b9d15f9b1e1b7f460ba6a371.png",
+                    url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/e31ee445b9d15f9b1e1b7f460ba6a371.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -84060,7 +84060,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/3a775fe914132d953b7e81a219995222.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/3a775fe914132d953b7e81a219995222.gtc",
                             size: 699192
                         },
                         etc_a: {
@@ -84080,17 +84080,17 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/bab15ebf96710a6e48c3b68ec00ea8be.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/bab15ebf96710a6e48c3b68ec00ea8be.gtc",
                             size: 699192
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/734b5daefb324f7fbd9e1c2ef17e6a33.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/734b5daefb324f7fbd9e1c2ef17e6a33.gtc",
                             size: 699264
                         }
                     },
                     variants_512: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/a7da91e1d7d5353991ce868d1c73bc8d.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/a7da91e1d7d5353991ce868d1c73bc8d.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -84110,11 +84110,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/7ff66fc545e9e91f60f739a9df365282.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/7ff66fc545e9e91f60f739a9df365282.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/9ff6a618d4d5798bb831ac36b605411b.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/9ff6a618d4d5798bb831ac36b605411b.gtc",
                             size: 174976
                         }
                     },
@@ -84125,7 +84125,7 @@
                     hash: "a6a8b4e337415485ed60cf3ca3e2c777",
                     uid: "c81cd008a9c9b8a2dcb4588a6f703aa8f1f5c93e",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/a6a8b4e337415485ed60cf3ca3e2c777.png",
+                    url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/a6a8b4e337415485ed60cf3ca3e2c777.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -84219,7 +84219,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/f1a74b7dc84d8d9c04c4633d760af268.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/f1a74b7dc84d8d9c04c4633d760af268.gtc",
                             size: 699192
                         },
                         etc_a: {
@@ -84239,17 +84239,17 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/cae0612db0744e1d4d8073068347113c.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/cae0612db0744e1d4d8073068347113c.gtc",
                             size: 699192
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/b9b7d04f199a7551f03712cc80c91667.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/b9b7d04f199a7551f03712cc80c91667.gtc",
                             size: 699264
                         }
                     },
                     variants_512: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/3dbecdb7217285a005b4847249436d57.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/3dbecdb7217285a005b4847249436d57.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -84269,11 +84269,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/d004ec35b10d0c03c548d9fb02c8a8c8.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/d004ec35b10d0c03c548d9fb02c8a8c8.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/1faf17e215b3b381d56b0ca9e68adadb.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/1faf17e215b3b381d56b0ca9e68adadb.gtc",
                             size: 174976
                         }
                     },
@@ -84284,7 +84284,7 @@
                     hash: "3c23bba02c055988c963049af83927c6",
                     uid: "b84971c826e535e16ab1ae5c30f393ec28568d93",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/3c23bba02c055988c963049af83927c6.png",
+                    url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/3c23bba02c055988c963049af83927c6.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -84378,7 +84378,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/e9aa0f81429dca6481a1fb881dba9969.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/e9aa0f81429dca6481a1fb881dba9969.gtc",
                             size: 699192
                         },
                         etc_a: {
@@ -84398,17 +84398,17 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/858adc889f22b9106bbe07da0659dc51.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/858adc889f22b9106bbe07da0659dc51.gtc",
                             size: 699192
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/5526ceced30964794868efd2a5eba07a.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/5526ceced30964794868efd2a5eba07a.gtc",
                             size: 699264
                         }
                     },
                     variants_512: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/3a43476a0de32a7ede8ceec34cbb6878.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/3a43476a0de32a7ede8ceec34cbb6878.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -84428,11 +84428,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/489c4019bbb7c8b7e9d0013e33f0a70f.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/489c4019bbb7c8b7e9d0013e33f0a70f.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/a3b958d75abc9fd1ca8aa340a9f9198f.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/a3b958d75abc9fd1ca8aa340a9f9198f.gtc",
                             size: 174976
                         }
                     },
@@ -84443,7 +84443,7 @@
                     hash: "4f692d35f08e14957400bfa35eb21ac0",
                     uid: "0fd1e680dc7a5f61e1a866b409607e95b4d16895",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/4f692d35f08e14957400bfa35eb21ac0.png",
+                    url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/4f692d35f08e14957400bfa35eb21ac0.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -84537,7 +84537,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/09a212cd76b4dbde65f895154d20d41c.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/09a212cd76b4dbde65f895154d20d41c.gtc",
                             size: 699192
                         },
                         etc_a: {
@@ -84557,17 +84557,17 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/bc72337ec2ed8233a25dd9708fcb3b5c.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/bc72337ec2ed8233a25dd9708fcb3b5c.gtc",
                             size: 699192
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/a2fd36d96160b577a493c1a16d24e737.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/a2fd36d96160b577a493c1a16d24e737.gtc",
                             size: 699264
                         }
                     },
                     variants_512: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/d7e83f598a16e922859afa911e1b9514.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/d7e83f598a16e922859afa911e1b9514.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -84587,11 +84587,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/5050e4fe54089f6f1ba3c1c95afcbc7c.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/5050e4fe54089f6f1ba3c1c95afcbc7c.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/7531a2569e1c082377875a49b26e2d6e.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/7531a2569e1c082377875a49b26e2d6e.gtc",
                             size: 174976
                         }
                     },
@@ -84602,7 +84602,7 @@
                     hash: "fb75cd85f0f782bda73ff468d1942b18",
                     uid: "f7b4270a8f18ed089a99a48019d899bb41a3f25b",
                     flipY: null,
-                    url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/fb75cd85f0f782bda73ff468d1942b18.png",
+                    url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/fb75cd85f0f782bda73ff468d1942b18.png",
                     variants_2048: {
                         etc_rgb: {
                             url: "",
@@ -84696,7 +84696,7 @@
                     },
                     variants: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/3404c7e4717af368cfea9ce64076afb9.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/3404c7e4717af368cfea9ce64076afb9.gtc",
                             size: 699192
                         },
                         etc_a: {
@@ -84716,17 +84716,17 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/8b38e8cf7d2e6c541c60bac7b224b918.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/8b38e8cf7d2e6c541c60bac7b224b918.gtc",
                             size: 699192
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/6b926aaf924341c29621604cfff3e178.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/6b926aaf924341c29621604cfff3e178.gtc",
                             size: 699264
                         }
                     },
                     variants_512: {
                         etc_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/8c9420851c082f4ca32659aca82b6d6d.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/8c9420851c082f4ca32659aca82b6d6d.gtc",
                             size: 174904
                         },
                         etc_a: {
@@ -84746,11 +84746,11 @@
                             size: 0
                         },
                         dxt1: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/9bc676a8c18d54ea3d3a212e81f186a0.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/9bc676a8c18d54ea3d3a212e81f186a0.gtc",
                             size: 174904
                         },
                         pvrtc1_4_rgb: {
-                            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/cfbfb00b14d8b76f07ffc6f1095fc14a.gtc",
+                            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/cfbfb00b14d8b76f07ffc6f1095fc14a.gtc",
                             size: 174976
                         }
                     },
@@ -84762,8 +84762,8 @@
             hash: "0c07e94d60bf81dd84c35092d9c243a7",
             uid: "134bf15e3069a6dc5799bb13d182c4eb7913208c",
             loadFaces: !0,
-            url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/0c07e94d60bf81dd84c35092d9c243a7.dds",
-            thumbnail_url: "//demo.jimuyida.com/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/BonifacioAragonStairs.png",
+            url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/0c07e94d60bf81dd84c35092d9c243a7.dds",
+            thumbnail_url: "//leapar.github.io/wey/datas/a7445e2a2e609ceffcd03517c7e312952f44d517/bfd05c38f9ba2fe07b1e1cd0b6bec4d3cf8958eb/134bf15e3069a6dc5799bb13d182c4eb7913208c/cubemaps/BonifacioAragonStairs.png",
             rgbm: null,
             name: "BonifacioAragonStairs"
         },
@@ -84917,7 +84917,7 @@
                 used: !0,
                 hash: "b57c5830ca12e2a6124ef0c86dc28a0b4c64e271",
                 uid: "b57c5830ca12e2a6124ef0c86dc28a0b4c64e271",
-                url: "//demo.jimuyida.com/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/6450dac23ab60401e2fb11c3d5accead.gc",
+                url: "//leapar.github.io/wey/datas/9fe62e4136eeb8287d18e63173a502d887420ecb/4fd2677cb880938840f75a9bcd956e034d5d6219/sources/6450dac23ab60401e2fb11c3d5accead.gc",
                 mapping: ["b79d2950b75e60af7044c6068b1df2bd22f80781"],
                 name: "[场景] 花生好车定制场景1"
             }
