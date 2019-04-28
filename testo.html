@@ -1,0 +1,36 @@
+<html>
+    <head>
+ 	   <title>orientationchange</title>
+	</head>
+    
+	<body>
+		<p id="test">angle</p>
+		<script type="text/javascript">
+		
+		function orientationHandler() {		
+			var orientation = window.orientation;
+			switch (orientation) {
+			case 0:
+			case 90:
+			case -90:
+			case 180:
+				document.getElementById("test").innerHTML = orientation;
+				break;
+			default:
+				document.getElementById("test").innerHTML = "oh my god~";
+				break;
+			}
+		}
+		alert(window.DeviceOrientationEvent);
+        window.addEventListener("orientationchange", orientationHandler, true);
+        
+
+        function deviceorientationHandler() {
+            alert("deviceorientationHandler");
+        }
+
+        window.addEventListener("deviceorientation", deviceorientationHandler, false);
+        
+   	 	</script>
+	</body>
+</html>
